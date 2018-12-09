@@ -1,13 +1,12 @@
 def checkPassword(password):
     number = False
-    upper = False
-    if len(password) < 6:
-        return False
+    upcase = False
     for i in password:
         if i.isdigit():
-            number= True
+            number = True
         if i.isupper():
-            upper= True
-    return number and upper
+            upcase = True
+    return number and upcase
 
-print(checkPassword('Killer123'))
+
+print(checkPassword('KillerT123'))

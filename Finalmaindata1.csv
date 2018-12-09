@@ -1,0 +1,482 @@
+namaresto,cuisines,namatype,ratescore,ratetext,cost,lokasi,votes
+ Union Deli, Western, Bakery,47, Excellent,300000,Jakarta Pusat,1285
+ AMKC Atelier, Western, Bakery,44, Very Good,600000,Jakarta Pusat,390
+ Francis Artisan Bakery, Bakery, Bakery,47, Excellent,70000,Jakarta Pusat,368
+ Exquise Patisserie, Cafe, Bakery,43, Very Good,140000,Jakarta Pusat,276
+ Kempi Deli, Western, Bakery,44, Very Good,300000,Jakarta Pusat,265
+ Paul, Cafe, Bakery,43, Very Good,450000,Jakarta Pusat,206
+ NAMELAKA, Bakery, Bakery,45, Excellent,150000,Jakarta Pusat,239
+ Bakerzin, Western, Bakery,39, Good,250000,Jakarta Pusat,166
+ Auntie Annes, Bakery, Bakery,42, Very Good,80000,Jakarta Pusat,232
+ Suisse Bakery, Bakery, Bakery,45, Excellent,25000,Jakarta Pusat,133
+ Tugu Kunstkring Bakery, Cafe, Bakery,40, Very Good,80000,Jakarta Pusat,74
+ Tous Les Jours, Bakery, Bakery,39, Good,135000,Jakarta Pusat,87
+ Lulu  Kayla Cakes, Cafe, Bakery,39, Good,100000,Jakarta Pusat,54
+ Tous Les Jours, Bakery, Bakery,41, Very Good,100000,Jakarta Pusat,71
+ Bake a Boo, Bakery, Bakery,40, Very Good,60000,Jakarta Pusat,71
+ Chefs Bakery, Bakery, Bakery,38, Good,60000,Jakarta Pusat,51
+ Dapur Cokelat, Bakery, Bakery,37, Good,120000,Jakarta Pusat,58
+ Delicious Bakery, Bakery, Bakery,38, Good,70000,Jakarta Pusat,36
+ The Mandarin Cake Shop  Mandarin Oriental Jakarta, Bakery, Bakery,41, Very Good,150000,Jakarta Pusat,52
+ Clover Bakery, Bakery, Bakery,39, Good,30000,Jakarta Pusat,33
+ Momoiro, Bakery, Bakery,37, Good,135000,Jakarta Pusat,49
+ Saint Cinnamon  Coffee, Bakery, Bakery,39, Good,100000,Jakarta Pusat,35
+ The Harvest, Desserts, Bakery,36, Good,100000,Jakarta Pusat,50
+ Sakura Anpan, Bakery, Bakery,36, Good,50000,Jakarta Pusat,40
+ Martha Cake Shop, Bakery, Bakery,40, Very Good,100000,Jakarta Pusat,37
+ Almondtree by The Harvest, Bakery, Bakery,37, Good,200000,Jakarta Pusat,41
+ Shokupan Bakery  Pastries, Bakery, Bakery,37, Good,90000,Jakarta Pusat,29
+ BreadTalk, Bakery, Bakery,33, Average,70000,Jakarta Pusat,34
+ HG Cakes  Bakery, Bakery, Bakery,37, Good,150000,Jakarta Pusat,26
+ Satoo Deli Shop  ShangriLa Hotel, Bakery, Bakery,37, Good,300000,Jakarta Pusat,24
+ Tous Les Jours, Bakery, Bakery,37, Good,135000,Jakarta Pusat,21
+ Makaron  Pullman Jakarta Indonesia, Bakery, Bakery,36, Good,120000,Jakarta Pusat,18
+ La Boutique Gourmande  Le Meridien Hotel, Bakery, Bakery,38, Good,350000,Jakarta Pusat,21
+ Sylvie Bika Ambon Medan, Bakery, Bakery,37, Good,150000,Jakarta Pusat,32
+ De East Bread  Cakes, Bakery, Bakery,35, Good,45000,Jakarta Pusat,12
+ Thai Bun Bun, Bakery, Bakery,35, Good,60000,Jakarta Pusat,21
+ BreadTalk, Bakery, Bakery,35, Good,70000,Jakarta Pusat,29
+ Yakitate Bakery, Bakery, Bakery,35, Good,30000,Jakarta Pusat,15
+ Michelle Bakery, Bakery, Bakery,41, Very Good,200000,Jakarta Timur,60
+ Jessy Bread  Cake, Bakery, Bakery,37, Good,40000,Jakarta Timur,43
+ Ezo Cheesecakes  Bakery, Bakery, Bakery,39, Good,100000,Jakarta Timur,43
+ Imperial Tables, Italian, Bakery,37, Good,240000,Jakarta Timur,38
+ Delico, Cafe, Bakery,33, Average,190000,Jakarta Timur,28
+ AEON Bakery, Bakery, Bakery,35, Good,70000,Jakarta Timur,19
+ Chezini, Bakery, Bakery,36, Baik,100000,Jakarta Timur,28
+ Loti Loti Bakery, Bakery, Bakery,36, Good,50000,Jakarta Timur,26
+ Thens Bakery, Bakery, Bakery,36, Good,50000,Jakarta Timur,21
+ The Cake House, Bakery, Bakery,36, Good,50000,Jakarta Timur,26
+ Saint Cinnamon  Coffee, Bakery, Bakery,37, Good,100000,Jakarta Timur,22
+ Tous Les Jours, Bakery, Bakery,36, Good,135000,Jakarta Timur,13
+ Toko Roti Tegal, Bakery, Bakery,34, Average,50000,Jakarta Timur,13
+ Eaton, Chinese, Bakery,36, Good,150000,Jakarta Timur,17
+ Soes Merdeka, Bakery, Bakery,34, Average,60000,Jakarta Timur,18
+ BreadTalk, Bakery, Bakery,34, Average,70000,Jakarta Timur,16
+ Majestyk Bakery  Cakes, Bakery, Bakery,35, Good,60000,Jakarta Timur,22
+ Domino Cake, Bakery, Bakery,26, Average,150000,Jakarta Timur,14
+ Tous Les Jours, Bakery, Bakery,33, Average,135000,Jakarta Timur,14
+ BreadTalk, Bakery, Bakery,32, Average,70000,Jakarta Timur,13
+ Momoiro, Bakery, Bakery,26, Average,80000,Jakarta Timur,13
+ Sedap Wangi Bakery, Bakery, Bakery,33, Average,30000,Jakarta Timur,9
+ BreadTalk, Bakery, Bakery,35, Good,70000,Jakarta Timur,13
+ Holland Bakery, Bakery, Bakery,33, Average,50000,Jakarta Timur,8
+ Holland Bakery, Bakery, Bakery,35, Good,50000,Jakarta Timur,13
+ Shintana, Bakery, Bakery,32, Average,50000,Jakarta Timur,10
+ Holland Bakery, Bakery, Bakery,34, Average,50000,Jakarta Timur,13
+ The Harvest, Desserts, Bakery,33, Average,100000,Jakarta Timur,16
+ BreadTalk, Bakery, Bakery,34, Average,70000,Jakarta Timur,14
+ BreadTalk, Bakery, Bakery,30, Average,70000,Jakarta Timur,4
+ BreadTalk, Bakery, Bakery,32, Average,70000,Jakarta Timur,9
+ Beard Papas, Bakery, Bakery,34, Average,50000,Jakarta Timur,10
+ Breadtalk, Bakery, Bakery,33, Average,70000,Jakarta Timur,6
+ Papabunz, Bakery, Bakery,33, Average,30000,Jakarta Timur,12
+ Marqies, Bakery, Bakery,28, Average,100000,Jakarta Timur,8
+ Breadtalk, Bakery, Bakery,34, Average,70000,Jakarta Timur,6
+ Holland Bakery, Bakery, Bakery,32, Average,50000,Jakarta Timur,5
+ Bakeri Monami, Bakery, Bakery,33, Average,40000,Jakarta Timur,5
+ C For Cupcakes And Coffee, Bakery, Bakery,39, Good,150000,Jakarta Utara,96
+ Bakerzin, Western, Bakery,41, Very Good,250000,Jakarta Utara,283
+ Lapislapis The Kitchen, European, Bakery,41, Very Good,250000,Jakarta Utara,234
+ Ezo Cheesecakes  Bakery, Bakery, Bakery,42, Very Good,100000,Jakarta Utara,233
+ Ezo Cheesecakes  Bakery, Bakery, Bakery,43, Very Good,100000,Jakarta Utara,191
+ EIO Patisserie, Bakery, Bakery,41, Very Good,200000,Jakarta Utara,77
+ Tous Les Jours, Bakery, Bakery,40, Very Good,135000,Jakarta Utara,103
+ The Harvest, Desserts, Bakery,40, Very Good,100000,Jakarta Utara,124
+ Linds, Desserts, Bakery,38, Good,200000,Jakarta Utara,80
+ The Harvest, Desserts, Bakery,39, Good,100000,Jakarta Utara,77
+ Francis Artisan Bakery, Bakery, Bakery,42, Very Good,70000,Jakarta Utara,79
+ Fuwa Fuwa, Bakery, Bakery,40, Very Good,100000,Jakarta Utara,85
+ Sponji, Bakery, Bakery,41, Very Good,100000,Jakarta Utara,114
+ Eaton, Chinese, Bakery,38, Good,150000,Jakarta Utara,69
+ Bake a Boo, Bakery, Bakery,41, Very Good,60000,Jakarta Utara,67
+ Dapur Cokelat, Bakery, Bakery,39, Good,120000,Jakarta Utara,82
+ Auntie Annes, Bakery, Bakery,38, Good,80000,Jakarta Utara,53
+ Provence, Bakery, Bakery,38, Good,60000,Jakarta Utara,46
+ Tous Les Jours, Bakery, Bakery,39, Good,135000,Jakarta Utara,51
+ Eaton, Chinese, Bakery,28, Average,150000,Jakarta Utara,61
+ Humble, Desserts, Bakery,39, Good,120000,Jakarta Utara,45
+ Sugarbell, Bakery, Bakery,31, Average,80000,Jakarta Utara,41
+ Golden Egg Bakery, Bakery, Bakery,37, Good,100000,Jakarta Utara,34
+ Dandy Bakery, Bakery, Bakery,39, Good,55000,Jakarta Utara,36
+ Fins Recipe, Bakery, Bakery,40, Very Good,80000,Jakarta Utara,38
+ Le Mint  Saffron, North Indian, Bakery,37, Good,250000,Jakarta Utara,36
+ AJ Bakery, Bakery, Bakery,37, Good,150000,Jakarta Utara,43
+ Tous Les Jours, Bakery, Bakery,37, Good,135000,Jakarta Utara,29
+ Home Made Bakery, Bakery, Bakery,38, Good,100000,Jakarta Utara,34
+ Eaton, Chinese, Bakery,34, Average,150000,Jakarta Utara,33
+ Voguerina Taipei, Bakery, Bakery,36, Good,80000,Jakarta Utara,22
+ Tous Les Jours, Bakery, Bakery,37, Good,135000,Jakarta Utara,21
+ Beard Papas, Bakery, Bakery,37, Good,50000,Jakarta Utara,27
+ Vanilla Bakery, Bakery, Bakery,36, Good,45000,Jakarta Utara,38
+ Deli Patissiere, Bakery, Bakery,36, Good,100000,Jakarta Utara,8
+ BreadTalk, Bakery, Bakery,37, Good,70000,Jakarta Utara,21
+ Sugar Ministrys Artisan Cake Shop, Bakery, Bakery,36, Good,150000,Jakarta Utara,18
+ Christine Bakery, Bakery, Bakery,34, Average,60000,Jakarta Utara,13
+ Bakerzin, Western, Bakery,42, Very Good,250000,Jakarta Selatan,435
+ Casadina Kitchen  Bakery, Cafe, Bakery,40, Very Good,200000,Jakarta Selatan,714
+ Sophie Authentique, Coffee, Bakery,42, Very Good,200000,Jakarta Selatan,382
+ Animo Bread Culture, Cafe, Bakery,45, Excellent,120000,Jakarta Selatan,316
+ Pandor, Bakery, Bakery,43, Very Good,300000,Jakarta Selatan,341
+ Eric Kayser Artisan Boulanger, French, Bakery,43, Very Good,400000,Jakarta Selatan,358
+ Bakerzin, Western, Bakery,43, Very Good,250000,Jakarta Selatan,318
+ Châteraisé, Bakery, Bakery,47, Excellent,60000,Jakarta Selatan,240
+ Imperial Tables, Italian, Bakery,40, Very Good,240000,Jakarta Selatan,178
+ Baconerie, Cafe, Bakery,42, Very Good,200000,Jakarta Selatan,242
+ Tous Les Jours, Bakery, Bakery,41, Very Good,135000,Jakarta Selatan,206
+ The Harvest, Desserts, Bakery,41, Very Good,100000,Jakarta Selatan,184
+ Bakerzin, Western, Bakery,38, Good,250000,Jakarta Selatan,190
+ Sophie Authentique, Cafe, Bakery,42, Very Good,170000,Jakarta Selatan,185
+ Sophie Authentique, Coffee, Bakery,38, Good,200000,Jakarta Selatan,152
+ Tous Les Jours, Bakery, Bakery,41, Very Good,135000,Jakarta Selatan,137
+ Almondtree by The Harvest, Bakery, Bakery,41, Very Good,200000,Jakarta Selatan,129
+ Paul, Cafe, Bakery,42, Very Good,450000,Jakarta Selatan,117
+ Paul, Western, Bakery,42, Very Good,450000,Jakarta Selatan,129
+ Tous Les Jours, Bakery, Bakery,38, Good,135000,Jakarta Selatan,108
+ The Harvest Deli, Desserts, Bakery,41, Very Good,350000,Jakarta Selatan,96
+ Tous Les Jours, Bakery, Bakery,40, Very Good,135000,Jakarta Selatan,110
+ Daily Treats at Lobby Lounge  The Westin Jakarta, Bakery, Bakery,43, Very Good,200000,Jakarta Selatan,63
+ Clairmont, Bakery, Bakery,39, Good,100000,Jakarta Selatan,186
+ Seven Grain, Bakery, Bakery,41, Very Good,150000,Jakarta Selatan,80
+ Dapur Cokelat, Bakery, Bakery,38, Good,120000,Jakarta Selatan,99
+ Auntie Annes, Bakery, Bakery,42, Very Good,80000,Jakarta Selatan,127
+ Delicio, Cafe, Bakery,33, Average,130000,Jakarta Selatan,72
+ Auntie Annes, Bakery, Bakery,41, Very Good,80000,Jakarta Selatan,110
+ Tous Les Jours, Bakery, Bakery,41, Very Good,135000,Jakarta Selatan,87
+ Momoiro, Bakery, Bakery,39, Good,80000,Jakarta Selatan,100
+ Clairmont, Bakery, Bakery,38, Good,100000,Jakarta Selatan,58
+ Eaton, Chinese, Bakery,35, Good,150000,Jakarta Selatan,69
+ Cake A Boo, Desserts, Bakery,38, Good,80000,Jakarta Selatan,73
+ Paul, Cafe, Bakery,36, Good,450000,Jakarta Selatan,53
+ Auntie Annes, Bakery, Bakery,40, Very Good,80000,Jakarta Selatan,78
+ The Harvest, Desserts, Bakery,40, Very Good,100000,Jakarta Selatan,59
+ Santa 88 Cake, Bakery, Bakery,38, Good,60000,Jakarta Selatan,47
+ Ezo Cheesecakes  Bakery, Bakery, Bakery,44, Very Good,100000,Jakarta Barat,261
+ Eric Kayser Artisan Boulanger, French, Bakery,42, Very Good,400000,Jakarta Barat,175
+ ChÃteraisÃ, Bakery, Bakery,43, Very Good,60000,Jakarta Barat,89
+ Almondtree by The Harvest, Bakery, Bakery,40, Very Good,200000,Jakarta Barat,177
+ Tous Les Jours, Bakery, Bakery,40, Sangat Baik,135000,Jakarta Barat,139
+ Francis Artisan Bakery, Bakery, Bakery,44, Very Good,70000,Jakarta Barat,95
+ The Harvest, Desserts, Bakery,39, Good,100000,Jakarta Barat,93
+ Fuwa Fuwa, Bakery, Bakery,39, Good,100000,Jakarta Barat,115
+ Eaton, Chinese, Bakery,39, Good,150000,Jakarta Barat,85
+ Francis Artisan Bakery, Bakery, Bakery,42, Very Good,70000,Jakarta Barat,59
+ The Harvest, Desserts, Bakery,37, Good,100000,Jakarta Barat,61
+ Auntie Annes, Bakery, Bakery,40, Very Good,80000,Jakarta Barat,63
+ Saint Cinnamon  Coffee, Bakery, Bakery,40, Very Good,100000,Jakarta Barat,44
+ Provence, Bakery, Bakery,40, Very Good,60000,Jakarta Barat,46
+ Dapur Cokelat, Bakery, Bakery,40, Very Good,120000,Jakarta Barat,61
+ Rumah Juliet, Cafe, Bakery,41, Very Good,120000,Jakarta Barat,47
+ Auntie Annes, Bakery, Bakery,38, Good,80000,Jakarta Barat,59
+ Auntie Annes, Bakery, Bakery,39, Good,80000,Jakarta Barat,60
+ Dobudon, Bakery, Bakery,34, Average,80000,Jakarta Barat,31
+ Ezo Cheesecakes  Bakery, Bakery, Bakery,39, Good,100000,Jakarta Barat,49
+ Strawberry Pastel Ufo, Bakery, Bakery,41, Very Good,20000,Jakarta Barat,37
+ Hoshi, Bakery, Bakery,37, Good,60000,Jakarta Barat,33
+ Eaton, Chinese, Bakery,35, Good,150000,Jakarta Barat,32
+ Ezo Cheesecakes  Bakery, Bakery, Bakery,40, Very Good,100000,Jakarta Barat,37
+ Dapur Cokelat, Bakery, Bakery,37, Good,120000,Jakarta Barat,46
+ Beard Papas, Bakery, Bakery,39, Good,50000,Jakarta Barat,45
+ Tous Les Jours, Bakery, Bakery,40, Very Good,135000,Jakarta Barat,24
+ Capital, Bakery, Bakery,39, Good,60000,Jakarta Barat,24
+ Clairmont, Bakery, Bakery,37, Good,100000,Jakarta Barat,42
+ Tous Les Jours, Bakery, Bakery,38, Good,135000,Jakarta Barat,30
+ Provence, Bakery, Bakery,39, Good,60000,Jakarta Barat,27
+ Almondtree by The Harvest, Bakery, Bakery,35, Good,200000,Jakarta Barat,20
+ Cafe Bon Francais, Asian, Bakery,37, Good,120000,Jakarta Barat,24
+ BreadTalk, Bakery, Bakery,36, Good,70000,Jakarta Barat,34
+ Chefs Bakery and Cafe, Italian, Bakery,36, Baik,200000,Jakarta Barat,14
+ BreadTalk, Bakery, Bakery,36, Good,70000,Jakarta Barat,14
+ BreadLife, Bakery, Bakery,36, Good,50000,Jakarta Barat,28
+ Almondtree by The Harvest, Bakery, Bakery,37, Good,200000,Jakarta Barat,17
+ Majestyk Bakery  Cakes, Bakery, Bakery,28, Average,60000,Jakarta Timur,11
+ Koko Bogana, Jawa, Bakery,39, Good,100000,Jakarta Selatan,67
+ Tous Les Jours, Bakery, Bakery,38, Good,135000,Jakarta Utara,55
+ Bonjour Pastry, Bakery, Bakery,39, Good,120000,Jakarta Pusat,44
+ Holland Bakery, Bakery, Bakery,33, Average,50000,Jakarta Timur,6
+ Eaton, Chinese, Bakery,33, Average,150000,Jakarta Barat,44
+ Eric Kayser Artisan Boulanger, Bakery, Bakery,43, Very Good,400000,Jakarta Selatan,107
+ The Harvest, Desserts, Bakery,34, Average,100000,Jakarta Barat,30
+ Honey Loaf, Bakery, Bakery,37, Good,40000,Jakarta Utara,20
+ BreadLife, Bakery, Bakery,34, Average,50000,Jakarta Pusat,12
+ OKU  Hotel Indonesia Kempinski, Japanese, Bar,49, Terbaik,900000,Jakarta Pusat,605
+ Mellys Garden, Jawa, Bar,40, Very Good,150000,Jakarta Pusat,499
+ JimBARan Lounge  AYANA Midplaza JAKARTA, Asian, Bar,40, Very Good,450000,Jakarta Pusat,414
+ CAMDEN BAR, Italian, Bar,40, Very Good,250000,Jakarta Pusat,340
+ The Immigrant Dining Room, Italian, Bar,41, Very Good,475000,Jakarta Pusat,251
+ Ganesha Ek Sanskriti, North Indian, Bar,42, Very Good,250000,Jakarta Pusat,153
+ IINDIGO Lounge  DoubleTree by Hilton Jakarta Diponegoro, Finger Food, Bar,39, Good,600000,Jakarta Pusat,70
+ Face Bar  Face Jakarta, Thai, Bar,39, Good,550000,Jakarta Pusat,68
+ MELT Jakarta, Western, Bar,37, Good,350000,Jakarta Pusat,35
+ Penny Lane, Finger Food, Bar,36, Good,200000,Jakarta Pusat,48
+ BATS  ShangriLa Hotel, Pizza, Bar,36, Good,500000,Jakarta Pusat,36
+ Tavern  Aryaduta Jakarta, Steak, Bar,38, Good,750000,Jakarta Pusat,26
+ Bloeming, Indonesian, Bar,36, Good,450000,Jakarta Pusat,26
+ Apero, Italian, Bar,36, Good,220000,Jakarta Pusat,22
+ Afterhour, Grill, Bar,36, Good,400000,Jakarta Pusat,33
+ DeLangit Rooftop Bar  Mercure Jakarta Cikini, Finger Food, Bar,35, Good,500000,Jakarta Pusat,15
+ Penny Lane Beer House, Beverages, Bar,37, Good,300000,Jakarta Pusat,28
+ Q Billiard, Finger Food, Bar,28, Average,300000,Jakarta Pusat,30
+ Beer Market, Western, Bar,33, Average,80000,Jakarta Pusat,21
+ Sukhothai Authentic Thailand Restaurant  The Media Hotel  Towers, Thai, Bar,35, Good,420000,Jakarta Pusat,15
+ Conrad Rooftop Garden Bar, Indonesian, Bar,34, Average,200000,Jakarta Pusat,11
+ Media Lounge  The Media Hotel  Towers, Indonesian, Bar,31, Average,400000,Jakarta Pusat,5
+ Autopia Lounge  Bar  The Akmani Hotel, Indonesian, Bar,31, Average,300000,Jakarta Pusat,4
+ Tiga Kuda  Hotel Menteng II, Indonesian, Bar,31, Average,300000,Jakarta Pusat,6
+ Huge Musro Club, Drinks Only, Bar,31, Average,200000,Jakarta Pusat,4
+ The Lobby Lounge  Aryaduta Jakarta, Western, Bar,0, Not rated,300000,Jakarta Pusat,3
+ Blue Bar  Lumire Hotel, Drinks Only, Bar,0, Not rated,300000,Jakarta Pusat,3
+ Arrow Rooftop  Sagitarius Hotel, Western, Bar,31, Average,250000,Jakarta Pusat,4
+ Flirt Bar  Lounge  Fashion Hotel, Beverages, Bar,0, Not rated,400000,Jakarta Pusat,3
+ Lounge Bar  All Seasons Hotel, Drinks Only, Bar,30, Biasa,200000,Jakarta Pusat,4
+ Iguana  Hotel Menteng I, Indonesian, Bar,32, Average,150000,Jakarta Pusat,3
+ Best Brew  Four Points by Sheraton, Drinks Only, Bar,0, Not rated,200000,Jakarta Pusat,1
+ Fountain Bar  The Acacia Hotel, Indonesian, Bar,0, Not rated,300000,Jakarta Pusat,3
+ Scenic Bar  Lounge 180, Western, Bar,0, Not rated,500000,Jakarta Pusat,0
+ W XYZ Bar  Aloft Jakarta, Finger Food, Bar,0, Not rated,400000,Jakarta Pusat,0
+ i Darts Hiro, Finger Food, Bar,35, Good,200000,Jakarta Timur,20
+ Hugo Soju Bar  Eatery, Western, Bar,43, Very Good,250000,Jakarta Utara,259
+ Holywings, Asian, Bar,40, Very Good,250000,Jakarta Utara,234
+ Holywings, Asian, Bar,40, Very Good,200000,Jakarta Utara,191
+ 33 Degrees Rooftop Lounge  Bar  Aston Marina Mediterania, Western, Bar,40, Very Good,350000,Jakarta Utara,151
+ Pvblic Bistro  Bar, Asian, Bar,41, Very Good,300000,Jakarta Utara,140
+ Chilis Grill and Bar, Western, Bar,41, Very Good,500000,Jakarta Utara,113
+ Mixology Soju Bar  Brasserie, Western, Bar,42, Very Good,250000,Jakarta Utara,182
+ Portable  Whiz Prime Hotel, Western, Bar,39, Good,300000,Jakarta Utara,90
+ Minus Two Restaurant  Bar, Western, Bar,40, Very Good,525000,Jakarta Utara,111
+ Anterograde Kitchen  Bar, Western, Bar,37, Good,200000,Jakarta Utara,49
+ Oppa House of Soju, Korean, Bar,39, Good,350000,Jakarta Utara,91
+ District Bar  Resto, Pizza, Bar,38, Good,290000,Jakarta Utara,88
+ Moray Kitchen  Soju Bar, Western, Bar,39, Good,250000,Jakarta Utara,121
+ Bastardo Ristorante, Italian, Bar,35, Good,300000,Jakarta Utara,60
+ Rock  Goal, Western, Bar,36, Good,200000,Jakarta Utara,62
+ Bier  Flugel, Western, Bar,37, Baik,200000,Jakarta Utara,79
+ Warung BOS, Indonesian, Bar,30, Average,100000,Jakarta Utara,42
+ Chamber of Liquor, Finger Food, Bar,39, Baik,200000,Jakarta Utara,70
+ Eleven Twelve, Asian, Bar,40, Very Good,200000,Jakarta Utara,73
+ The Replay, Western, Bar,36, Good,150000,Jakarta Utara,51
+ Vote Bar  Resto, Western, Bar,37, Good,280000,Jakarta Utara,47
+ Porter Bar, Indonesian, Bar,39, Good,120000,Jakarta Utara,35
+ MYSTIQUE Pool Lounge Dine, Western, Bar,35, Good,250000,Jakarta Utara,29
+ Afterhour, Grill, Bar,37, Good,400000,Jakarta Utara,27
+ Afterhour, Grill, Bar,35, Good,400000,Jakarta Utara,22
+ Ibzas Bar and Lounge, Beverages, Bar,34, Average,300000,Jakarta Utara,13
+ Beertender, Western, Bar,35, Good,300000,Jakarta Utara,19
+ MVP Sports Bar  Grill  Tematik Hotel, Western, Bar,32, Average,330000,Jakarta Utara,6
+ ELIXIR Bar  Lounge, Finger Food, Bar,34, Average,200000,Jakarta Utara,14
+ Europe Sport BarCafe, Western, Bar,31, Average,180000,Jakarta Utara,7
+ 333 Lounge  Bar, Drinks Only, Bar,0, Not rated,150000,Jakarta Utara,3
+ JUBELOF, Drinks Only, Bar,0, Not rated,100000,Jakarta Utara,1
+ Geinshou, Western, Bar,0, Not rated,250000,Jakarta Utara,2
+ Cium  Cium Lounge  Bar  Aston Marina Hotel, Asian, Bar,0, Not rated,250000,Jakarta Utara,3
+ Bottega Ristorante, Italian, Bar,43, Sangat Baik,450000,Jakarta Selatan,1042
+ Henshin  The Westin Jakarta, Asian, Bar,47, Excellent,1400000,Jakarta Selatan,685
+ Loewy, Western, Bar,43, Very Good,350000,Jakarta Selatan,987
+ Kashiwa, Japanese, Bar,44, Very Good,250000,Jakarta Selatan,651
+ Bluegrass, Grill, Bar,44, Very Good,450000,Jakarta Selatan,845
+ BASQUE Bar de Tapas, Spanish, Bar,44, Very Good,750000,Jakarta Selatan,563
+ Fujin Japanese Teppanyaki  Sake, Japanese, Bar,47, Excellent,400000,Jakarta Selatan,603
+ Beer Garden, Italian, Bar,40, Very Good,300000,Jakarta Selatan,545
+ Hard Rock Cafe, American, Bar,42, Very Good,400000,Jakarta Selatan,612
+ Potato Head Jakarta, French, Bar,41, Very Good,600000,Jakarta Selatan,503
+ J Sparrows, Italian, Bar,42, Very Good,480000,Jakarta Selatan,405
+ Amigos Bar  Cantina, Mexican, Bar,43, Very Good,300000,Jakarta Selatan,483
+ TGI Fridays, Burger, Bar,43, Very Good,400000,Jakarta Selatan,541
+ Pao Pao Liquor Bar  Dimsum Parlour, Chinese, Bar,41, Sangat Baik,300000,Jakarta Selatan,459
+ Harlow, Asian, Bar,41, Sangat Baik,350000,Jakarta Selatan,477
+ TGI Fridays, Burger, Bar,41, Sangat Baik,400000,Jakarta Selatan,401
+ FEZ Kinara Dining  Lounge, North Indian, Bar,43, Sangat Baik,250000,Jakarta Selatan,281
+ The SAFEHOUSE, Burger, Bar,41, Very Good,400000,Jakarta Selatan,184
+ Yesterday Backyard, Italian, Bar,39, Baik,250000,Jakarta Selatan,422
+ De Hooi, Indonesian, Bar,41, Very Good,350000,Jakarta Selatan,404
+ The Dutch, European, Bar,42, Sangat Baik,600000,Jakarta Selatan,301
+ Die Stube Germany Resto  Bar, German, Bar,45, Excellent,420000,Jakarta Selatan,301
+ BEER HALL, Western, Bar,44, Very Good,250000,Jakarta Selatan,327
+ CAMDEN BAR, Italian, Bar,39, Good,450000,Jakarta Selatan,335
+ Up In Smoke, American, Bar,42, Very Good,350000,Jakarta Selatan,209
+ TGI Fridays, Burger, Bar,43, Very Good,400000,Jakarta Selatan,212
+ QUEENS HEAD, British, Bar,40, Very Good,500000,Jakarta Selatan,210
+ LOLA, Mexican, Bar,43, Very Good,500000,Jakarta Selatan,287
+ The Pallas, Western, Bar,43, Very Good,550000,Jakarta Selatan,226
+ Amigos Bar  Cantina, Mexican, Bar,41, Sangat Baik,300000,Jakarta Selatan,175
+ Karumba Rooftop   Mercure Jakarta Simatupang, Italian, Bar,40, Very Good,500000,Jakarta Selatan,174
+ D Bollywood, Indian, Bar,49, Terbaik,350000,Jakarta Selatan,101
+ The DEN of Kalaha, Italian, Bar,39, Good,350000,Jakarta Selatan,141
+ Flow, Western, Bar,42, Very Good,500000,Jakarta Selatan,167
+ Koi Mahakam, European, Bar,41, Very Good,300000,Jakarta Selatan,128
+ CHAMBER, American, Bar,41, Sangat Baik,350000,Jakarta Selatan,133
+ Beer Brother, Western, Bar,40, Very Good,300000,Jakarta Selatan,219
+ Beer Garden, Italian, Bar,42, Very Good,300000,Jakarta Selatan,159
+ TGI Fridays, Burger, Bar,42, Very Good,400000,Jakarta Barat,308
+ Open Door, Asian, Bar,37, Good,200000,Jakarta Barat,129
+ Double Doors, American, Bar,37, Good,300000,Jakarta Barat,77
+ Beer Castle, European, Bar,36, Good,300000,Jakarta Barat,28
+ HALFWAY, Finger Food, Bar,34, Average,250000,Jakarta Barat,38
+ Ramblers Bar and Cafe Lokasari, Western, Bar,30, Average,250000,Jakarta Barat,4
+ Time Square Bar  Merlynn Park Hotel, Drinks Only, Bar,0, Not rated,400000,Jakarta Pusat,0
+ Bistecca, Steak, Bar,43, Very Good,850000,Jakarta Selatan,298
+ Komik Resto, Indonesian, Bar,0, Not rated,150000,Jakarta Utara,1
+ Eastern Promise, North Indian, Bar,39, Good,300000,Jakarta Selatan,136
+ Matra 21  Hotel Grand Menteng, Drinks Only, Bar,0, Not rated,100000,Jakarta Timur,3
+ BEER BOX, Drinks Only, Bar,38, Good,150000,Jakarta Utara,38
+ The Back Room  Pullman Jakarta Indonesia, Western, Bar,37, Baik,500000,Jakarta Pusat,20
+ Chillers Cafe  Bar, Drinks Only, Bar,0, Not rated,200000,Jakarta Barat,0
+ KOI Cafe, Bubble Tea, Beverage Shop,45, Excellent,60000,Jakarta Pusat,158
+ Gulu Gulu, Beverages, Beverage Shop,42, Very Good,60000,Jakarta Pusat,65
+ Chatime, Bubble Tea, Beverage Shop,39, Good,60000,Jakarta Pusat,98
+ Coco, Bubble Tea, Beverage Shop,40, Very Good,50000,Jakarta Pusat,66
+ Kopi Kenangan, Coffee, Beverage Shop,41, Very Good,33000,Jakarta Pusat,69
+ Kedai Kopi Kulo, Beverages, Beverage Shop,40, Very Good,70000,Jakarta Pusat,54
+ Sharetea, Bubble Tea, Beverage Shop,39, Good,60000,Jakarta Pusat,52
+ Bear  Co, Beverages, Beverage Shop,37, Good,60000,Jakarta Pusat,37
+ Rejuve, Beverages, Beverage Shop,39, Good,100000,Jakarta Pusat,28
+ Harmoni Tea, Tea, Beverage Shop,38, Good,110000,Jakarta Pusat,24
+ Di Bawah Tangga, Coffee, Beverage Shop,37, Good,60000,Jakarta Pusat,19
+ Kamu Tea Cafe, Beverages, Beverage Shop,39, Good,60000,Jakarta Pusat,19
+ Kopi Coga, Cafe, Beverage Shop,34, Average,50000,Jakarta Pusat,31
+ Chatime, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Pusat,38
+ King Mango Thai, Beverages, Beverage Shop,39, Good,70000,Jakarta Pusat,22
+ Kopi Wahid, Coffee, Beverage Shop,38, Good,60000,Jakarta Pusat,24
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,38, Good,50000,Jakarta Pusat,19
+ Origins Authentic, Beverages, Beverage Shop,35, Good,50000,Jakarta Pusat,21
+ Chatime, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Pusat,23
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,35, Good,50000,Jakarta Pusat,18
+ MM Juice, Juices, Beverage Shop,35, Good,150000,Jakarta Pusat,18
+ Jamu Bukti Mentjos, Beverages, Beverage Shop,38, Good,40000,Jakarta Pusat,18
+ Rejuve, Beverages, Beverage Shop,36, Good,100000,Jakarta Pusat,12
+ DOJ Juice Bar, Juices, Beverage Shop,36, Good,80000,Jakarta Pusat,27
+ Kopi Kenangan, Coffee, Beverage Shop,36, Good,33000,Jakarta Pusat,11
+ Chatime, Bubble Tea, Beverage Shop,36, Good,60000,Jakarta Pusat,16
+ Waroeng Teh Kotjok, Beverages, Beverage Shop,35, Good,30000,Jakarta Pusat,15
+ Sharetea, Bubble Tea, Beverage Shop,36, Good,60000,Jakarta Pusat,19
+ Lulla Thai, Beverages, Beverage Shop,34, Average,40000,Jakarta Pusat,16
+ Chatime, Bubble Tea, Beverage Shop,36, Good,60000,Jakarta Pusat,15
+ Chapayom, Beverages, Beverage Shop,36, Good,120000,Jakarta Pusat,18
+ Kopi Kenangan, Coffee, Beverage Shop,34, Average,33000,Jakarta Pusat,4
+ Ice Hill, Beverages, Beverage Shop,33, Average,50000,Jakarta Pusat,11
+ Waroeng Teh Kotjok, Beverages, Beverage Shop,33, Average,30000,Jakarta Pusat,13
+ Chatime, Bubble Tea, Beverage Shop,36, Good,60000,Jakarta Pusat,14
+ Chatime, Bubble Tea, Beverage Shop,34, Average,60000,Jakarta Pusat,13
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,34, Average,50000,Jakarta Pusat,8
+ Chapayom, Beverages, Beverage Shop,32, Average,120000,Jakarta Pusat,7
+ King Mango Thai, Beverages, Beverage Shop,38, Good,70000,Jakarta Timur,53
+ Chatime, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Timur,40
+ Chatime, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Timur,33
+ Sharetea, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Timur,21
+ Kedai Kopi Kulo, Beverages, Beverage Shop,34, Average,70000,Jakarta Timur,15
+ Chatime, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Timur,27
+ Chapayom, Beverages, Beverage Shop,34, Average,120000,Jakarta Timur,12
+ Cimory, Beverages, Beverage Shop,35, Good,75000,Jakarta Timur,15
+ Gulu Gulu, Beverages, Beverage Shop,32, Average,60000,Jakarta Timur,12
+ Calais, Bubble Tea, Beverage Shop,34, Average,70000,Jakarta Timur,11
+ DaYungs Tea, Beverages, Beverage Shop,30, Average,60000,Jakarta Timur,8
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,30, Average,50000,Jakarta Timur,12
+ Chatime, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Timur,12
+ King Durian, Beverages, Beverage Shop,33, Average,50000,Jakarta Timur,9
+ Chatime, Bubble Tea, Beverage Shop,35, Good,60000,Jakarta Timur,10
+ Chatime, Bubble Tea, Beverage Shop,33, Average,60000,Jakarta Timur,10
+ GO JUICE, Juices, Beverage Shop,0, Not rated,50000,Jakarta Timur,2
+ Hop Hop, Bubble Tea, Beverage Shop,30, Average,60000,Jakarta Timur,5
+ Rejuve, Beverages, Beverage Shop,34, Average,100000,Jakarta Timur,8
+ Think Thai Tea, Beverages, Beverage Shop,29, Average,60000,Jakarta Timur,6
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,32, Average,50000,Jakarta Timur,4
+ Royale Mango, Beverages, Beverage Shop,34, Average,80000,Jakarta Timur,6
+ MM Juice, Juices, Beverage Shop,33, Average,150000,Jakarta Timur,7
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,32, Average,50000,Jakarta Timur,6
+ Chatime, Bubble Tea, Beverage Shop,34, Average,60000,Jakarta Timur,7
+ Hop Hop, Bubble Tea, Beverage Shop,30, Average,60000,Jakarta Timur,4
+ Hop Hop, Bubble Tea, Beverage Shop,32, Average,60000,Jakarta Timur,6
+ Hop Hop, Bubble Tea, Beverage Shop,30, Average,60000,Jakarta Timur,6
+ Chatime, Bubble Tea, Beverage Shop,28, Average,60000,Jakarta Timur,8
+ Chapayom, Beverages, Beverage Shop,32, Average,120000,Jakarta Timur,4
+ Chatime, Bubble Tea, Beverage Shop,32, Average,60000,Jakarta Timur,5
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,33, Average,50000,Jakarta Timur,9
+ Kedai Kopi Kulo, Beverages, Beverage Shop,0, Not rated,50000,Jakarta Timur,3
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,31, Average,50000,Jakarta Timur,5
+ MM Juice, Indonesian, Beverage Shop,30, Average,180000,Jakarta Timur,4
+ Gulu Gulu, Beverages, Beverage Shop,0, Not rated,60000,Jakarta Timur,2
+ Pondok Delima, Beverages, Beverage Shop,0, Not rated,70000,Jakarta Timur,3
+ Chatime, Bubble Tea, Beverage Shop,0, Not rated,60000,Jakarta Timur,3
+ KOI Cafe, Bubble Tea, Beverage Shop,42, Very Good,60000,Jakarta Utara,163
+ ShuShu, Beverages, Beverage Shop,45, Excellent,60000,Jakarta Utara,143
+ Kamu Tea, Beverages, Beverage Shop,41, Very Good,60000,Jakarta Utara,122
+ KOI Cafe, Bubble Tea, Beverage Shop,43, Very Good,60000,Jakarta Utara,129
+ Fat straw, Bubble Tea, Beverage Shop,42, Very Good,80000,Jakarta Utara,101
+ Origins Authentic, Beverages, Beverage Shop,40, Very Good,50000,Jakarta Utara,85
+ Calais, Bubble Tea, Beverage Shop,38, Good,70000,Jakarta Utara,69
+ KOI Cafe, Bubble Tea, Beverage Shop,43, Very Good,60000,Jakarta Utara,76
+ Kedai Kopi Kulo, Beverages, Beverage Shop,37, Good,70000,Jakarta Utara,80
+ Kopi Melali, Cafe, Beverage Shop,37, Good,80000,Jakarta Utara,23
+ Gulu Gulu, Beverages, Beverage Shop,36, Good,60000,Jakarta Utara,56
+ KOI Cafe, Bubble Tea, Beverage Shop,42, Very Good,60000,Jakarta Utara,70
+ Chatime, Bubble Tea, Beverage Shop,39, Good,60000,Jakarta Utara,59
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,38, Good,50000,Jakarta Utara,40
+ Yucha, Bubble Tea, Beverage Shop,39, Good,70000,Jakarta Utara,33
+ BubbleZ, Beverages, Beverage Shop,39, Good,60000,Jakarta Utara,31
+ Sharetea, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Utara,38
+ Chatime, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Utara,40
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,39, Good,50000,Jakarta Utara,36
+ Sharetea, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Utara,23
+ Kopi Yor, Beverages, Beverage Shop,36, Good,50000,Jakarta Utara,17
+ Dakasi, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Utara,35
+ KOI Cafe, Bubble Tea, Beverage Shop,40, Very Good,60000,Jakarta Utara,26
+ Rinne Cheese Tea, Beverages, Beverage Shop,39, Good,50000,Jakarta Utara,29
+ Chatime, Bubble Tea, Beverage Shop,39, Good,60000,Jakarta Utara,23
+ Tea Amo, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Utara,19
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,38, Good,50000,Jakarta Utara,28
+ Sharetea, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Utara,25
+ YAW TEA, Thai, Beverage Shop,36, Good,50000,Jakarta Utara,25
+ Shiny Tea, Bubble Tea, Beverage Shop,37, Good,50000,Jakarta Utara,28
+ Chatime, Bubble Tea, Beverage Shop,36, Good,60000,Jakarta Utara,29
+ Simply, Juices, Beverage Shop,37, Good,50000,Jakarta Utara,20
+ Chapayom, Beverages, Beverage Shop,39, Good,120000,Jakarta Utara,22
+ Sharetea, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Utara,27
+ Kamu Tea , Bubble Tea, Beverage Shop,34, Average,60000,Jakarta Utara,10
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,37, Good,50000,Jakarta Utara,20
+ Avocado Lovers, Beverages, Beverage Shop,36, Good,50000,Jakarta Utara,21
+ Maw Maw Tea, Beverages, Beverage Shop,34, Average,50000,Jakarta Utara,7
+ Di Bawah Tangga, Coffee, Beverage Shop,42, Very Good,60000,Jakarta Selatan,281
+ Samakamu Kopi, Coffee, Beverage Shop,40, Very Good,60000,Jakarta Selatan,163
+ Kopi SANA, Cafe, Beverage Shop,43, Very Good,50000,Jakarta Selatan,230
+ Kedai Kopi Kulo, Beverages, Beverage Shop,41, Very Good,70000,Jakarta Selatan,214
+ Rejuve, Beverages, Beverage Shop,42, Very Good,100000,Jakarta Selatan,119
+ Kopi Kenangan, Coffee, Beverage Shop,42, Very Good,33000,Jakarta Selatan,130
+ Kopi Kenangan, Coffee, Beverage Shop,43, Sangat Baik,33000,Jakarta Selatan,149
+ Chatime, Bubble Tea, Beverage Shop,39, Good,60000,Jakarta Selatan,91
+ Kopi Kenangan, Coffee, Beverage Shop,39, Good,33000,Jakarta Selatan,79
+ MM Juice, Juices, Beverage Shop,39, Good,150000,Jakarta Selatan,57
+ Chatime, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Selatan,101
+ Kamu Tea, Beverages, Beverage Shop,40, Very Good,60000,Jakarta Selatan,70
+ Kopi Cuan, Coffee, Beverage Shop,40, Very Good,50000,Jakarta Selatan,91
+ Sagaleh, Beverages, Beverage Shop,42, Very Good,50000,Jakarta Selatan,86
+ Suasanakopi, Coffee and Tea, Beverage Shop,38, Good,70000,Jakarta Selatan,101
+ Chatime, Bubble Tea, Beverage Shop,40, Very Good,60000,Jakarta Selatan,60
+ Coco, Bubble Tea, Beverage Shop,40, Very Good,50000,Jakarta Selatan,69
+ Rejuve, Beverages, Beverage Shop,37, Good,100000,Jakarta Selatan,46
+ Kamu Tea Cafe, Beverages, Beverage Shop,40, Very Good,60000,Jakarta Selatan,58
+ Sharetea, Bubble Tea, Beverage Shop,38, Baik,60000,Jakarta Selatan,56
+ Chatime, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Selatan,49
+ Chatime, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Selatan,55
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,38, Good,50000,Jakarta Selatan,44
+ Sunseed Juice Bar, Beverages, Beverage Shop,38, Good,60000,Jakarta Selatan,30
+ Sagaleh, Coffee, Beverage Shop,37, Good,50000,Jakarta Selatan,38
+ Kopi Janji Jiwa, Coffee, Beverage Shop,40, Very Good,80000,Jakarta Selatan,25
+ Chatime, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Selatan,46
+ Presotea, Bubble Tea, Beverage Shop,37, Good,50000,Jakarta Selatan,40
+ Chang Tea, Thai, Beverage Shop,37, Good,40000,Jakarta Selatan,25
+ Tuk Tuk Cha, Beverages, Beverage Shop,38, Good,70000,Jakarta Selatan,42
+ Rejuve, Beverages, Beverage Shop,39, Good,100000,Jakarta Selatan,32
+ Gulu Gulu, Beverages, Beverage Shop,38, Good,60000,Jakarta Selatan,31
+ Sancha, Bubble Tea, Beverage Shop,34, Average,100000,Jakarta Selatan,39
+ Coco, Bubble Tea, Beverage Shop,39, Good,50000,Jakarta Selatan,37
+ Avocado Lovers, Beverages, Beverage Shop,39, Good,50000,Jakarta Selatan,40
+ Gulu Gulu, Beverages, Beverage Shop,36, Good,60000,Jakarta Selatan,35
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,37, Good,50000,Jakarta Selatan,29
+ Quickly, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Selatan,32
+ Ban Ban Cheese Tea, Bubble Tea, Beverage Shop,42, Very Good,70000,Jakarta Barat,204
+ KOI Cafe, Bubble Tea, Beverage Shop,44, Very Good,60000,Jakarta Barat,169
+ KOI Cafe, Bubble Tea, Beverage Shop,44, Very Good,60000,Jakarta Barat,140
+ Jamba Juice, Juices, Beverage Shop,42, Very Good,80000,Jakarta Barat,81
+ Mango Mango, Juices, Beverage Shop,38, Good,50000,Jakarta Barat,88
+ KOI Cafe, Bubble Tea, Beverage Shop,43, Very Good,60000,Jakarta Barat,99
+ Acaraki Jamu, Jawa, Beverage S

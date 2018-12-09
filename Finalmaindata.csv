@@ -1,0 +1,1889 @@
+namaresto,cuisines,namatype,ratescore,ratetext,cost,lokasi
+ Union Deli, Western, Bakery,47, Excellent,300000,Jakarta Pusat
+ AMKC Atelier, Western, Bakery,44, Very Good,600000,Jakarta Pusat
+ Francis Artisan Bakery, Bakery, Bakery,47, Excellent,70000,Jakarta Pusat
+ Exquise Patisserie, Cafe, Bakery,43, Very Good,140000,Jakarta Pusat
+ Kempi Deli, Western, Bakery,44, Very Good,300000,Jakarta Pusat
+ Paul, Cafe, Bakery,43, Very Good,450000,Jakarta Pusat
+ NAMELAKA, Bakery, Bakery,45, Excellent,150000,Jakarta Pusat
+ Bakerzin, Western, Bakery,39, Good,250000,Jakarta Pusat
+ Auntie Annes, Bakery, Bakery,42, Very Good,80000,Jakarta Pusat
+ Suisse Bakery, Bakery, Bakery,45, Excellent,25000,Jakarta Pusat
+ Tugu Kunstkring Bakery, Cafe, Bakery,40, Very Good,80000,Jakarta Pusat
+ Tous Les Jours, Bakery, Bakery,39, Good,135000,Jakarta Pusat
+ Lulu  Kayla Cakes, Cafe, Bakery,39, Good,100000,Jakarta Pusat
+ Tous Les Jours, Bakery, Bakery,41, Very Good,100000,Jakarta Pusat
+ Bake a Boo, Bakery, Bakery,40, Very Good,60000,Jakarta Pusat
+ Chefs Bakery, Bakery, Bakery,38, Good,60000,Jakarta Pusat
+ Dapur Cokelat, Bakery, Bakery,37, Good,120000,Jakarta Pusat
+ Delicious Bakery, Bakery, Bakery,38, Good,70000,Jakarta Pusat
+ The Mandarin Cake Shop  Mandarin Oriental Jakarta, Bakery, Bakery,41, Very Good,150000,Jakarta Pusat
+ Bonjour Pastry, Bakery, Bakery,39, Good,120000,Jakarta Pusat
+ Clover Bakery, Bakery, Bakery,39, Good,30000,Jakarta Pusat
+ Momoiro, Bakery, Bakery,37, Good,135000,Jakarta Pusat
+ Saint Cinnamon  Coffee, Bakery, Bakery,39, Good,100000,Jakarta Pusat
+ The Harvest, Desserts, Bakery,36, Good,100000,Jakarta Pusat
+ Sakura Anpan, Bakery, Bakery,36, Good,50000,Jakarta Pusat
+ Martha Cake Shop, Bakery, Bakery,40, Very Good,100000,Jakarta Pusat
+ Almondtree by The Harvest, Bakery, Bakery,37, Good,200000,Jakarta Pusat
+ Shokupan Bakery  Pastries, Bakery, Bakery,37, Good,90000,Jakarta Pusat
+ BreadTalk, Bakery, Bakery,33, Average,70000,Jakarta Pusat
+ HG Cakes  Bakery, Bakery, Bakery,37, Good,150000,Jakarta Pusat
+ Satoo Deli Shop  ShangriLa Hotel, Bakery, Bakery,37, Good,300000,Jakarta Pusat
+ Tous Les Jours, Bakery, Bakery,37, Good,135000,Jakarta Pusat
+ Makaron  Pullman Jakarta Indonesia, Bakery, Bakery,36, Good,120000,Jakarta Pusat
+ La Boutique Gourmande  Le Meridien Hotel, Bakery, Bakery,38, Good,350000,Jakarta Pusat
+ Sylvie Bika Ambon Medan, Bakery, Bakery,37, Good,150000,Jakarta Pusat
+ De East Bread  Cakes, Bakery, Bakery,35, Good,45000,Jakarta Pusat
+ Thai Bun Bun, Bakery, Bakery,35, Good,60000,Jakarta Pusat
+ BreadTalk, Bakery, Bakery,35, Good,70000,Jakarta Pusat
+ Yakitate Bakery, Bakery, Bakery,35, Good,30000,Jakarta Pusat
+ BreadLife, Bakery, Bakery,34, Average,50000,Jakarta Pusat
+ Michelle Bakery, Bakery, Bakery,41, Very Good,200000,Jakarta Timur
+ Jessy Bread  Cake, Bakery, Bakery,37, Good,40000,Jakarta Timur
+ Ezo Cheesecakes  Bakery, Bakery, Bakery,39, Good,100000,Jakarta Timur
+ Imperial Tables, Italian, Bakery,37, Good,240000,Jakarta Timur
+ Delico, Cafe, Bakery,33, Average,190000,Jakarta Timur
+ AEON Bakery, Bakery, Bakery,35, Good,70000,Jakarta Timur
+ Chezini, Bakery, Bakery,36, Baik,100000,Jakarta Timur
+ Loti Loti Bakery, Bakery, Bakery,36, Good,50000,Jakarta Timur
+ Thens Bakery, Bakery, Bakery,36, Good,50000,Jakarta Timur
+ The Cake House, Bakery, Bakery,36, Good,50000,Jakarta Timur
+ Saint Cinnamon  Coffee, Bakery, Bakery,37, Good,100000,Jakarta Timur
+ Tous Les Jours, Bakery, Bakery,36, Good,135000,Jakarta Timur
+ Toko Roti Tegal, Bakery, Bakery,34, Average,50000,Jakarta Timur
+ Eaton, Chinese, Bakery,36, Good,150000,Jakarta Timur
+ Soes Merdeka, Bakery, Bakery,34, Average,60000,Jakarta Timur
+ BreadTalk, Bakery, Bakery,34, Average,70000,Jakarta Timur
+ Majestyk Bakery  Cakes, Bakery, Bakery,35, Good,60000,Jakarta Timur
+ Domino Cake, Bakery, Bakery,26, Average,150000,Jakarta Timur
+ Tous Les Jours, Bakery, Bakery,33, Average,135000,Jakarta Timur
+ Majestyk Bakery  Cakes, Bakery, Bakery,28, Average,60000,Jakarta Timur
+ BreadTalk, Bakery, Bakery,32, Average,70000,Jakarta Timur
+ Momoiro, Bakery, Bakery,26, Average,80000,Jakarta Timur
+ Sedap Wangi Bakery, Bakery, Bakery,33, Average,30000,Jakarta Timur
+ BreadTalk, Bakery, Bakery,35, Good,70000,Jakarta Timur
+ Holland Bakery, Bakery, Bakery,33, Average,50000,Jakarta Timur
+ Holland Bakery, Bakery, Bakery,35, Good,50000,Jakarta Timur
+ Shintana, Bakery, Bakery,32, Average,50000,Jakarta Timur
+ Holland Bakery, Bakery, Bakery,34, Average,50000,Jakarta Timur
+ The Harvest, Desserts, Bakery,33, Average,100000,Jakarta Timur
+ BreadTalk, Bakery, Bakery,34, Average,70000,Jakarta Timur
+ BreadTalk, Bakery, Bakery,30, Average,70000,Jakarta Timur
+ BreadTalk, Bakery, Bakery,32, Average,70000,Jakarta Timur
+ Beard Papas, Bakery, Bakery,34, Average,50000,Jakarta Timur
+ Breadtalk, Bakery, Bakery,33, Average,70000,Jakarta Timur
+ Papabunz, Bakery, Bakery,33, Average,30000,Jakarta Timur
+ Marqies, Bakery, Bakery,28, Average,100000,Jakarta Timur
+ Breadtalk, Bakery, Bakery,34, Average,70000,Jakarta Timur
+ Holland Bakery, Bakery, Bakery,32, Average,50000,Jakarta Timur
+ Bakeri Monami, Bakery, Bakery,33, Average,40000,Jakarta Timur
+ Holland Bakery, Bakery, Bakery,33, Average,50000,Jakarta Timur
+ C For Cupcakes And Coffee, Bakery, Bakery,39, Good,150000,Jakarta Utara
+ Bakerzin, Western, Bakery,41, Very Good,250000,Jakarta Utara
+ Lapislapis The Kitchen, European, Bakery,41, Very Good,250000,Jakarta Utara
+ Ezo Cheesecakes  Bakery, Bakery, Bakery,42, Very Good,100000,Jakarta Utara
+ Ezo Cheesecakes  Bakery, Bakery, Bakery,43, Very Good,100000,Jakarta Utara
+ EIO Patisserie, Bakery, Bakery,41, Very Good,200000,Jakarta Utara
+ Tous Les Jours, Bakery, Bakery,40, Very Good,135000,Jakarta Utara
+ The Harvest, Desserts, Bakery,40, Very Good,100000,Jakarta Utara
+ Linds, Desserts, Bakery,38, Good,200000,Jakarta Utara
+ The Harvest, Desserts, Bakery,39, Good,100000,Jakarta Utara
+ Francis Artisan Bakery, Bakery, Bakery,42, Very Good,70000,Jakarta Utara
+ Fuwa Fuwa, Bakery, Bakery,40, Very Good,100000,Jakarta Utara
+ Sponji, Bakery, Bakery,41, Very Good,100000,Jakarta Utara
+ Eaton, Chinese, Bakery,38, Good,150000,Jakarta Utara
+ Bake a Boo, Bakery, Bakery,41, Very Good,60000,Jakarta Utara
+ Dapur Cokelat, Bakery, Bakery,39, Good,120000,Jakarta Utara
+ Auntie Annes, Bakery, Bakery,38, Good,80000,Jakarta Utara
+ Provence, Bakery, Bakery,38, Good,60000,Jakarta Utara
+ Tous Les Jours, Bakery, Bakery,39, Good,135000,Jakarta Utara
+ Tous Les Jours, Bakery, Bakery,38, Good,135000,Jakarta Utara
+ Eaton, Chinese, Bakery,28, Average,150000,Jakarta Utara
+ Humble, Desserts, Bakery,39, Good,120000,Jakarta Utara
+ Sugarbell, Bakery, Bakery,31, Average,80000,Jakarta Utara
+ Golden Egg Bakery, Bakery, Bakery,37, Good,100000,Jakarta Utara
+ Dandy Bakery, Bakery, Bakery,39, Good,55000,Jakarta Utara
+ Fins Recipe, Bakery, Bakery,40, Very Good,80000,Jakarta Utara
+ Le Mint  Saffron, North Indian, Bakery,37, Good,250000,Jakarta Utara
+ AJ Bakery, Bakery, Bakery,37, Good,150000,Jakarta Utara
+ Tous Les Jours, Bakery, Bakery,37, Good,135000,Jakarta Utara
+ Home Made Bakery, Bakery, Bakery,38, Good,100000,Jakarta Utara
+ Eaton, Chinese, Bakery,34, Average,150000,Jakarta Utara
+ Voguerina Taipei, Bakery, Bakery,36, Good,80000,Jakarta Utara
+ Tous Les Jours, Bakery, Bakery,37, Good,135000,Jakarta Utara
+ Beard Papas, Bakery, Bakery,37, Good,50000,Jakarta Utara
+ Vanilla Bakery, Bakery, Bakery,36, Good,45000,Jakarta Utara
+ Deli Patissiere, Bakery, Bakery,36, Good,100000,Jakarta Utara
+ BreadTalk, Bakery, Bakery,37, Good,70000,Jakarta Utara
+ Sugar Ministrys Artisan Cake Shop, Bakery, Bakery,36, Good,150000,Jakarta Utara
+ Christine Bakery, Bakery, Bakery,34, Average,60000,Jakarta Utara
+ Honey Loaf, Bakery, Bakery,37, Good,40000,Jakarta Utara
+ Bakerzin, Western, Bakery,42, Very Good,250000,Jakarta Selatan
+ Casadina Kitchen  Bakery, Cafe, Bakery,40, Very Good,200000,Jakarta Selatan
+ Sophie Authentique, Coffee, Bakery,42, Very Good,200000,Jakarta Selatan
+ Animo Bread Culture, Cafe, Bakery,45, Excellent,120000,Jakarta Selatan
+ Pandor, Bakery, Bakery,43, Very Good,300000,Jakarta Selatan
+ Eric Kayser Artisan Boulanger, French, Bakery,43, Very Good,400000,Jakarta Selatan
+ Bakerzin, Western, Bakery,43, Very Good,250000,Jakarta Selatan
+ Châteraisé, Bakery, Bakery,47, Excellent,60000,Jakarta Selatan
+ Imperial Tables, Italian, Bakery,40, Very Good,240000,Jakarta Selatan
+ Baconerie, Cafe, Bakery,42, Very Good,200000,Jakarta Selatan
+ Tous Les Jours, Bakery, Bakery,41, Very Good,135000,Jakarta Selatan
+ The Harvest, Desserts, Bakery,41, Very Good,100000,Jakarta Selatan
+ Bakerzin, Western, Bakery,38, Good,250000,Jakarta Selatan
+ Sophie Authentique, Cafe, Bakery,42, Very Good,170000,Jakarta Selatan
+ Sophie Authentique, Coffee, Bakery,38, Good,200000,Jakarta Selatan
+ Tous Les Jours, Bakery, Bakery,41, Very Good,135000,Jakarta Selatan
+ Almondtree by The Harvest, Bakery, Bakery,41, Very Good,200000,Jakarta Selatan
+ Paul, Cafe, Bakery,42, Very Good,450000,Jakarta Selatan
+ Paul, Western, Bakery,42, Very Good,450000,Jakarta Selatan
+ Tous Les Jours, Bakery, Bakery,38, Good,135000,Jakarta Selatan
+ The Harvest Deli, Desserts, Bakery,41, Very Good,350000,Jakarta Selatan
+ Tous Les Jours, Bakery, Bakery,40, Very Good,135000,Jakarta Selatan
+ Daily Treats at Lobby Lounge  The Westin Jakarta, Bakery, Bakery,43, Very Good,200000,Jakarta Selatan
+ Clairmont, Bakery, Bakery,39, Good,100000,Jakarta Selatan
+ Seven Grain, Bakery, Bakery,41, Very Good,150000,Jakarta Selatan
+ Dapur Cokelat, Bakery, Bakery,38, Good,120000,Jakarta Selatan
+ Auntie Annes, Bakery, Bakery,42, Very Good,80000,Jakarta Selatan
+ Delicio, Cafe, Bakery,33, Average,130000,Jakarta Selatan
+ Auntie Annes, Bakery, Bakery,41, Very Good,80000,Jakarta Selatan
+ Tous Les Jours, Bakery, Bakery,41, Very Good,135000,Jakarta Selatan
+ Momoiro, Bakery, Bakery,39, Good,80000,Jakarta Selatan
+ Clairmont, Bakery, Bakery,38, Good,100000,Jakarta Selatan
+ Eaton, Chinese, Bakery,35, Good,150000,Jakarta Selatan
+ Cake A Boo, Desserts, Bakery,38, Good,80000,Jakarta Selatan
+ Paul, Cafe, Bakery,36, Good,450000,Jakarta Selatan
+ Auntie Annes, Bakery, Bakery,40, Very Good,80000,Jakarta Selatan
+ The Harvest, Desserts, Bakery,40, Very Good,100000,Jakarta Selatan
+ Santa 88 Cake, Bakery, Bakery,38, Good,60000,Jakarta Selatan
+ Ezo Cheesecakes  Bakery, Bakery, Bakery,44, Very Good,100000,Jakarta Barat
+ Eric Kayser Artisan Boulanger, French, Bakery,42, Very Good,400000,Jakarta Barat
+ ChÃteraisÃ, Bakery, Bakery,43, Very Good,60000,Jakarta Barat
+ Almondtree by The Harvest, Bakery, Bakery,40, Very Good,200000,Jakarta Barat
+ Tous Les Jours, Bakery, Bakery,40, Sangat Baik,135000,Jakarta Barat
+ Francis Artisan Bakery, Bakery, Bakery,44, Very Good,70000,Jakarta Barat
+ The Harvest, Desserts, Bakery,39, Good,100000,Jakarta Barat
+ Fuwa Fuwa, Bakery, Bakery,39, Good,100000,Jakarta Barat
+ Eaton, Chinese, Bakery,39, Good,150000,Jakarta Barat
+ Francis Artisan Bakery, Bakery, Bakery,42, Very Good,70000,Jakarta Barat
+ The Harvest, Desserts, Bakery,37, Good,100000,Jakarta Barat
+ Auntie Annes, Bakery, Bakery,40, Very Good,80000,Jakarta Barat
+ Saint Cinnamon  Coffee, Bakery, Bakery,40, Very Good,100000,Jakarta Barat
+ Provence, Bakery, Bakery,40, Very Good,60000,Jakarta Barat
+ Dapur Cokelat, Bakery, Bakery,40, Very Good,120000,Jakarta Barat
+ Rumah Juliet, Cafe, Bakery,41, Very Good,120000,Jakarta Barat
+ Auntie Annes, Bakery, Bakery,38, Good,80000,Jakarta Barat
+ Auntie Annes, Bakery, Bakery,39, Good,80000,Jakarta Barat
+ Dobudon, Bakery, Bakery,34, Average,80000,Jakarta Barat
+ Ezo Cheesecakes  Bakery, Bakery, Bakery,39, Good,100000,Jakarta Barat
+ Strawberry Pastel Ufo, Bakery, Bakery,41, Very Good,20000,Jakarta Barat
+ Hoshi, Bakery, Bakery,37, Good,60000,Jakarta Barat
+ Eaton, Chinese, Bakery,35, Good,150000,Jakarta Barat
+ Ezo Cheesecakes  Bakery, Bakery, Bakery,40, Very Good,100000,Jakarta Barat
+ Dapur Cokelat, Bakery, Bakery,37, Good,120000,Jakarta Barat
+ Beard Papas, Bakery, Bakery,39, Good,50000,Jakarta Barat
+ Tous Les Jours, Bakery, Bakery,40, Very Good,135000,Jakarta Barat
+ Capital, Bakery, Bakery,39, Good,60000,Jakarta Barat
+ Clairmont, Bakery, Bakery,37, Good,100000,Jakarta Barat
+ Tous Les Jours, Bakery, Bakery,38, Good,135000,Jakarta Barat
+ Provence, Bakery, Bakery,39, Good,60000,Jakarta Barat
+ Almondtree by The Harvest, Bakery, Bakery,35, Good,200000,Jakarta Barat
+ Cafe Bon Francais, Asian, Bakery,37, Good,120000,Jakarta Barat
+ BreadTalk, Bakery, Bakery,36, Good,70000,Jakarta Barat
+ Chefs Bakery and Cafe, Italian, Bakery,36, Baik,200000,Jakarta Barat
+ BreadTalk, Bakery, Bakery,36, Good,70000,Jakarta Barat
+ BreadLife, Bakery, Bakery,36, Good,50000,Jakarta Barat
+ Almondtree by The Harvest, Bakery, Bakery,37, Good,200000,Jakarta Barat
+ Koko Bogana, Jawa, Bakery,39, Good,100000,Jakarta Selatan
+ Eaton, Chinese, Bakery,33, Average,150000,Jakarta Barat
+ Eric Kayser Artisan Boulanger, Bakery, Bakery,43, Very Good,400000,Jakarta Selatan
+ The Harvest, Desserts, Bakery,34, Average,100000,Jakarta Barat
+ OKU  Hotel Indonesia Kempinski, Japanese, Bar,49, Terbaik,900000,Jakarta Pusat
+ Mellys Garden, Jawa, Bar,40, Very Good,150000,Jakarta Pusat
+ JimBARan Lounge  AYANA Midplaza JAKARTA, Asian, Bar,40, Very Good,450000,Jakarta Pusat
+ CAMDEN BAR, Italian, Bar,40, Very Good,250000,Jakarta Pusat
+ The Immigrant Dining Room, Italian, Bar,41, Very Good,475000,Jakarta Pusat
+ Ganesha Ek Sanskriti, North Indian, Bar,42, Very Good,250000,Jakarta Pusat
+ IINDIGO Lounge  DoubleTree by Hilton Jakarta Diponegoro, Finger Food, Bar,39, Good,600000,Jakarta Pusat
+ Face Bar  Face Jakarta, Thai, Bar,39, Good,550000,Jakarta Pusat
+ MELT Jakarta, Western, Bar,37, Good,350000,Jakarta Pusat
+ Penny Lane, Finger Food, Bar,36, Good,200000,Jakarta Pusat
+ BATS  ShangriLa Hotel, Pizza, Bar,36, Good,500000,Jakarta Pusat
+ Tavern  Aryaduta Jakarta, Steak, Bar,38, Good,750000,Jakarta Pusat
+ Bloeming, Indonesian, Bar,36, Good,450000,Jakarta Pusat
+ Apero, Italian, Bar,36, Good,220000,Jakarta Pusat
+ Afterhour, Grill, Bar,36, Good,400000,Jakarta Pusat
+ DeLangit Rooftop Bar  Mercure Jakarta Cikini, Finger Food, Bar,35, Good,500000,Jakarta Pusat
+ Penny Lane Beer House, Beverages, Bar,37, Good,300000,Jakarta Pusat
+ Q Billiard, Finger Food, Bar,28, Average,300000,Jakarta Pusat
+ Beer Market, Western, Bar,33, Average,80000,Jakarta Pusat
+ The Back Room  Pullman Jakarta Indonesia, Western, Bar,37, Baik,500000,Jakarta Pusat
+ Sukhothai Authentic Thailand Restaurant  The Media Hotel  Towers, Thai, Bar,35, Good,420000,Jakarta Pusat
+ Conrad Rooftop Garden Bar, Indonesian, Bar,34, Average,200000,Jakarta Pusat
+ Media Lounge  The Media Hotel  Towers, Indonesian, Bar,31, Average,400000,Jakarta Pusat
+ Autopia Lounge  Bar  The Akmani Hotel, Indonesian, Bar,31, Average,300000,Jakarta Pusat
+ Tiga Kuda  Hotel Menteng II, Indonesian, Bar,31, Average,300000,Jakarta Pusat
+ Huge Musro Club, Drinks Only, Bar,31, Average,200000,Jakarta Pusat
+ The Lobby Lounge  Aryaduta Jakarta, Western, Bar,0, Not rated,300000,Jakarta Pusat
+ Blue Bar  Lumire Hotel, Drinks Only, Bar,0, Not rated,300000,Jakarta Pusat
+ Arrow Rooftop  Sagitarius Hotel, Western, Bar,31, Average,250000,Jakarta Pusat
+ Flirt Bar  Lounge  Fashion Hotel, Beverages, Bar,0, Not rated,400000,Jakarta Pusat
+ Lounge Bar  All Seasons Hotel, Drinks Only, Bar,30, Biasa,200000,Jakarta Pusat
+ Iguana  Hotel Menteng I, Indonesian, Bar,32, Average,150000,Jakarta Pusat
+ Best Brew  Four Points by Sheraton, Drinks Only, Bar,0, Not rated,200000,Jakarta Pusat
+ Fountain Bar  The Acacia Hotel, Indonesian, Bar,0, Not rated,300000,Jakarta Pusat
+ Scenic Bar  Lounge 180, Western, Bar,0, Not rated,500000,Jakarta Pusat
+ W XYZ Bar  Aloft Jakarta, Finger Food, Bar,0, Not rated,400000,Jakarta Pusat
+ Time Square Bar  Merlynn Park Hotel, Drinks Only, Bar,0, Not rated,400000,Jakarta Pusat
+ i Darts Hiro, Finger Food, Bar,35, Good,200000,Jakarta Timur
+ Matra 21  Hotel Grand Menteng, Drinks Only, Bar,0, Not rated,100000,Jakarta Timur
+ Hugo Soju Bar  Eatery, Western, Bar,43, Very Good,250000,Jakarta Utara
+ Holywings, Asian, Bar,40, Very Good,250000,Jakarta Utara
+ Holywings, Asian, Bar,40, Very Good,200000,Jakarta Utara
+ 33 Degrees Rooftop Lounge  Bar  Aston Marina Mediterania, Western, Bar,40, Very Good,350000,Jakarta Utara
+ Pvblic Bistro  Bar, Asian, Bar,41, Very Good,300000,Jakarta Utara
+ Chilis Grill and Bar, Western, Bar,41, Very Good,500000,Jakarta Utara
+ Mixology Soju Bar  Brasserie, Western, Bar,42, Very Good,250000,Jakarta Utara
+ Portable  Whiz Prime Hotel, Western, Bar,39, Good,300000,Jakarta Utara
+ Minus Two Restaurant  Bar, Western, Bar,40, Very Good,525000,Jakarta Utara
+ Anterograde Kitchen  Bar, Western, Bar,37, Good,200000,Jakarta Utara
+ Oppa House of Soju, Korean, Bar,39, Good,350000,Jakarta Utara
+ District Bar  Resto, Pizza, Bar,38, Good,290000,Jakarta Utara
+ Moray Kitchen  Soju Bar, Western, Bar,39, Good,250000,Jakarta Utara
+ Bastardo Ristorante, Italian, Bar,35, Good,300000,Jakarta Utara
+ Rock  Goal, Western, Bar,36, Good,200000,Jakarta Utara
+ Bier  Flugel, Western, Bar,37, Baik,200000,Jakarta Utara
+ Warung BOS, Indonesian, Bar,30, Average,100000,Jakarta Utara
+ Chamber of Liquor, Finger Food, Bar,39, Baik,200000,Jakarta Utara
+ Eleven Twelve, Asian, Bar,40, Very Good,200000,Jakarta Utara
+ BEER BOX, Drinks Only, Bar,38, Good,150000,Jakarta Utara
+ The Replay, Western, Bar,36, Good,150000,Jakarta Utara
+ Vote Bar  Resto, Western, Bar,37, Good,280000,Jakarta Utara
+ Porter Bar, Indonesian, Bar,39, Good,120000,Jakarta Utara
+ MYSTIQUE Pool Lounge Dine, Western, Bar,35, Good,250000,Jakarta Utara
+ Afterhour, Grill, Bar,37, Good,400000,Jakarta Utara
+ Afterhour, Grill, Bar,35, Good,400000,Jakarta Utara
+ Ibzas Bar and Lounge, Beverages, Bar,34, Average,300000,Jakarta Utara
+ Beertender, Western, Bar,35, Good,300000,Jakarta Utara
+ MVP Sports Bar  Grill  Tematik Hotel, Western, Bar,32, Average,330000,Jakarta Utara
+ ELIXIR Bar  Lounge, Finger Food, Bar,34, Average,200000,Jakarta Utara
+ Europe Sport BarCafe, Western, Bar,31, Average,180000,Jakarta Utara
+ 333 Lounge  Bar, Drinks Only, Bar,0, Not rated,150000,Jakarta Utara
+ JUBELOF, Drinks Only, Bar,0, Not rated,100000,Jakarta Utara
+ Geinshou, Western, Bar,0, Not rated,250000,Jakarta Utara
+ Cium  Cium Lounge  Bar  Aston Marina Hotel, Asian, Bar,0, Not rated,250000,Jakarta Utara
+ Komik Resto, Indonesian, Bar,0, Not rated,150000,Jakarta Utara
+ Bottega Ristorante, Italian, Bar,43, Sangat Baik,450000,Jakarta Selatan
+ Henshin  The Westin Jakarta, Asian, Bar,47, Excellent,1400000,Jakarta Selatan
+ Loewy, Western, Bar,43, Very Good,350000,Jakarta Selatan
+ Kashiwa, Japanese, Bar,44, Very Good,250000,Jakarta Selatan
+ Bluegrass, Grill, Bar,44, Very Good,450000,Jakarta Selatan
+ BASQUE Bar de Tapas, Spanish, Bar,44, Very Good,750000,Jakarta Selatan
+ Fujin Japanese Teppanyaki  Sake, Japanese, Bar,47, Excellent,400000,Jakarta Selatan
+ Beer Garden, Italian, Bar,40, Very Good,300000,Jakarta Selatan
+ Hard Rock Cafe, American, Bar,42, Very Good,400000,Jakarta Selatan
+ Potato Head Jakarta, French, Bar,41, Very Good,600000,Jakarta Selatan
+ J Sparrows, Italian, Bar,42, Very Good,480000,Jakarta Selatan
+ Amigos Bar  Cantina, Mexican, Bar,43, Very Good,300000,Jakarta Selatan
+ TGI Fridays, Burger, Bar,43, Very Good,400000,Jakarta Selatan
+ Pao Pao Liquor Bar  Dimsum Parlour, Chinese, Bar,41, Sangat Baik,300000,Jakarta Selatan
+ Harlow, Asian, Bar,41, Sangat Baik,350000,Jakarta Selatan
+ TGI Fridays, Burger, Bar,41, Sangat Baik,400000,Jakarta Selatan
+ FEZ Kinara Dining  Lounge, North Indian, Bar,43, Sangat Baik,250000,Jakarta Selatan
+ The SAFEHOUSE, Burger, Bar,41, Very Good,400000,Jakarta Selatan
+ Yesterday Backyard, Italian, Bar,39, Baik,250000,Jakarta Selatan
+ De Hooi, Indonesian, Bar,41, Very Good,350000,Jakarta Selatan
+ The Dutch, European, Bar,42, Sangat Baik,600000,Jakarta Selatan
+ Die Stube Germany Resto  Bar, German, Bar,45, Excellent,420000,Jakarta Selatan
+ BEER HALL, Western, Bar,44, Very Good,250000,Jakarta Selatan
+ CAMDEN BAR, Italian, Bar,39, Good,450000,Jakarta Selatan
+ Up In Smoke, American, Bar,42, Very Good,350000,Jakarta Selatan
+ TGI Fridays, Burger, Bar,43, Very Good,400000,Jakarta Selatan
+ QUEENS HEAD, British, Bar,40, Very Good,500000,Jakarta Selatan
+ LOLA, Mexican, Bar,43, Very Good,500000,Jakarta Selatan
+ The Pallas, Western, Bar,43, Very Good,550000,Jakarta Selatan
+ Amigos Bar  Cantina, Mexican, Bar,41, Sangat Baik,300000,Jakarta Selatan
+ Karumba Rooftop   Mercure Jakarta Simatupang, Italian, Bar,40, Very Good,500000,Jakarta Selatan
+ D Bollywood, Indian, Bar,49, Terbaik,350000,Jakarta Selatan
+ The DEN of Kalaha, Italian, Bar,39, Good,350000,Jakarta Selatan
+ Flow, Western, Bar,42, Very Good,500000,Jakarta Selatan
+ Koi Mahakam, European, Bar,41, Very Good,300000,Jakarta Selatan
+ CHAMBER, American, Bar,41, Sangat Baik,350000,Jakarta Selatan
+ Beer Brother, Western, Bar,40, Very Good,300000,Jakarta Selatan
+ Beer Garden, Italian, Bar,42, Very Good,300000,Jakarta Selatan
+ TGI Fridays, Burger, Bar,42, Very Good,400000,Jakarta Barat
+ Open Door, Asian, Bar,37, Good,200000,Jakarta Barat
+ Double Doors, American, Bar,37, Good,300000,Jakarta Barat
+ Beer Castle, European, Bar,36, Good,300000,Jakarta Barat
+ HALFWAY, Finger Food, Bar,34, Average,250000,Jakarta Barat
+ Ramblers Bar and Cafe Lokasari, Western, Bar,30, Average,250000,Jakarta Barat
+ Bistecca, Steak, Bar,43, Very Good,850000,Jakarta Selatan
+ Eastern Promise, North Indian, Bar,39, Good,300000,Jakarta Selatan
+ Chillers Cafe  Bar, Drinks Only, Bar,0, Not rated,200000,Jakarta Barat
+ KOI Cafe, Bubble Tea, Beverage Shop,45, Excellent,60000,Jakarta Pusat
+ Gulu Gulu, Beverages, Beverage Shop,42, Very Good,60000,Jakarta Pusat
+ Chatime, Bubble Tea, Beverage Shop,39, Good,60000,Jakarta Pusat
+ Coco, Bubble Tea, Beverage Shop,40, Very Good,50000,Jakarta Pusat
+ Kopi Kenangan, Coffee, Beverage Shop,41, Very Good,33000,Jakarta Pusat
+ Kedai Kopi Kulo, Beverages, Beverage Shop,40, Very Good,70000,Jakarta Pusat
+ Sharetea, Bubble Tea, Beverage Shop,39, Good,60000,Jakarta Pusat
+ Bear  Co, Beverages, Beverage Shop,37, Good,60000,Jakarta Pusat
+ Rejuve, Beverages, Beverage Shop,39, Good,100000,Jakarta Pusat
+ Harmoni Tea, Tea, Beverage Shop,38, Good,110000,Jakarta Pusat
+ Di Bawah Tangga, Coffee, Beverage Shop,37, Good,60000,Jakarta Pusat
+ Kamu Tea Cafe, Beverages, Beverage Shop,39, Good,60000,Jakarta Pusat
+ Kopi Coga, Cafe, Beverage Shop,34, Average,50000,Jakarta Pusat
+ Chatime, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Pusat
+ King Mango Thai, Beverages, Beverage Shop,39, Good,70000,Jakarta Pusat
+ Kopi Wahid, Coffee, Beverage Shop,38, Good,60000,Jakarta Pusat
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,38, Good,50000,Jakarta Pusat
+ Origins Authentic, Beverages, Beverage Shop,35, Good,50000,Jakarta Pusat
+ Chatime, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Pusat
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,36, Good,50000,Jakarta Pusat
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,35, Good,50000,Jakarta Pusat
+ MM Juice, Juices, Beverage Shop,35, Good,150000,Jakarta Pusat
+ Jamu Bukti Mentjos, Beverages, Beverage Shop,38, Good,40000,Jakarta Pusat
+ Rejuve, Beverages, Beverage Shop,36, Good,100000,Jakarta Pusat
+ DOJ Juice Bar, Juices, Beverage Shop,36, Good,80000,Jakarta Pusat
+ Kopi Kenangan, Coffee, Beverage Shop,36, Good,33000,Jakarta Pusat
+ Chatime, Bubble Tea, Beverage Shop,36, Good,60000,Jakarta Pusat
+ Waroeng Teh Kotjok, Beverages, Beverage Shop,35, Good,30000,Jakarta Pusat
+ Sharetea, Bubble Tea, Beverage Shop,36, Good,60000,Jakarta Pusat
+ Lulla Thai, Beverages, Beverage Shop,34, Average,40000,Jakarta Pusat
+ Chatime, Bubble Tea, Beverage Shop,36, Good,60000,Jakarta Pusat
+ Chapayom, Beverages, Beverage Shop,36, Good,120000,Jakarta Pusat
+ Kopi Kenangan, Coffee, Beverage Shop,34, Average,33000,Jakarta Pusat
+ Ice Hill, Beverages, Beverage Shop,33, Average,50000,Jakarta Pusat
+ Waroeng Teh Kotjok, Beverages, Beverage Shop,33, Average,30000,Jakarta Pusat
+ Chatime, Bubble Tea, Beverage Shop,36, Good,60000,Jakarta Pusat
+ Chatime, Bubble Tea, Beverage Shop,34, Average,60000,Jakarta Pusat
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,34, Average,50000,Jakarta Pusat
+ Chapayom, Beverages, Beverage Shop,32, Average,120000,Jakarta Pusat
+ Chatime, Bubble Tea, Beverage Shop,35, Good,60000,Jakarta Pusat
+ King Mango Thai, Beverages, Beverage Shop,38, Good,70000,Jakarta Timur
+ Chatime, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Timur
+ Chatime, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Timur
+ Sharetea, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Timur
+ Kedai Kopi Kulo, Beverages, Beverage Shop,34, Average,70000,Jakarta Timur
+ Chatime, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Timur
+ Chapayom, Beverages, Beverage Shop,34, Average,120000,Jakarta Timur
+ Cimory, Beverages, Beverage Shop,35, Good,75000,Jakarta Timur
+ Gulu Gulu, Beverages, Beverage Shop,32, Average,60000,Jakarta Timur
+ Calais, Bubble Tea, Beverage Shop,34, Average,70000,Jakarta Timur
+ DaYungs Tea, Beverages, Beverage Shop,30, Average,60000,Jakarta Timur
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,30, Average,50000,Jakarta Timur
+ Chatime, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Timur
+ King Durian, Beverages, Beverage Shop,33, Average,50000,Jakarta Timur
+ Chatime, Bubble Tea, Beverage Shop,35, Good,60000,Jakarta Timur
+ Chatime, Bubble Tea, Beverage Shop,33, Average,60000,Jakarta Timur
+ GO JUICE, Juices, Beverage Shop,0, Not rated,50000,Jakarta Timur
+ Hop Hop, Bubble Tea, Beverage Shop,30, Average,60000,Jakarta Timur
+ Rejuve, Beverages, Beverage Shop,34, Average,100000,Jakarta Timur
+ Sakura Juice Bar, Beverages, Beverage Shop,31, Average,80000,Jakarta Timur
+ Think Thai Tea, Beverages, Beverage Shop,29, Average,60000,Jakarta Timur
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,32, Average,50000,Jakarta Timur
+ Royale Mango, Beverages, Beverage Shop,34, Average,80000,Jakarta Timur
+ MM Juice, Juices, Beverage Shop,33, Average,150000,Jakarta Timur
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,32, Average,50000,Jakarta Timur
+ Chatime, Bubble Tea, Beverage Shop,34, Average,60000,Jakarta Timur
+ Hop Hop, Bubble Tea, Beverage Shop,30, Average,60000,Jakarta Timur
+ Hop Hop, Bubble Tea, Beverage Shop,32, Average,60000,Jakarta Timur
+ Hop Hop, Bubble Tea, Beverage Shop,30, Average,60000,Jakarta Timur
+ Chatime, Bubble Tea, Beverage Shop,28, Average,60000,Jakarta Timur
+ Chapayom, Beverages, Beverage Shop,32, Average,120000,Jakarta Timur
+ Chatime, Bubble Tea, Beverage Shop,32, Average,60000,Jakarta Timur
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,33, Average,50000,Jakarta Timur
+ Kedai Kopi Kulo, Beverages, Beverage Shop,0, Not rated,50000,Jakarta Timur
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,31, Average,50000,Jakarta Timur
+ MM Juice, Indonesian, Beverage Shop,30, Average,180000,Jakarta Timur
+ Gulu Gulu, Beverages, Beverage Shop,0, Not rated,60000,Jakarta Timur
+ Pondok Delima, Beverages, Beverage Shop,0, Not rated,70000,Jakarta Timur
+ Chatime, Bubble Tea, Beverage Shop,0, Not rated,60000,Jakarta Timur
+ Kedai Kopi Kulo, Beverages, Beverage Shop,0, Not rated,70000,Jakarta Timur
+ KOI Cafe, Bubble Tea, Beverage Shop,42, Very Good,60000,Jakarta Utara
+ ShuShu, Beverages, Beverage Shop,45, Excellent,60000,Jakarta Utara
+ Kamu Tea, Beverages, Beverage Shop,41, Very Good,60000,Jakarta Utara
+ KOI Cafe, Bubble Tea, Beverage Shop,43, Very Good,60000,Jakarta Utara
+ Fat straw, Bubble Tea, Beverage Shop,42, Very Good,80000,Jakarta Utara
+ Origins Authentic, Beverages, Beverage Shop,40, Very Good,50000,Jakarta Utara
+ Calais, Bubble Tea, Beverage Shop,38, Good,70000,Jakarta Utara
+ KOI Cafe, Bubble Tea, Beverage Shop,43, Very Good,60000,Jakarta Utara
+ Kedai Kopi Kulo, Beverages, Beverage Shop,37, Good,70000,Jakarta Utara
+ Kopi Melali, Cafe, Beverage Shop,37, Good,80000,Jakarta Utara
+ Gulu Gulu, Beverages, Beverage Shop,36, Good,60000,Jakarta Utara
+ KOI Cafe, Bubble Tea, Beverage Shop,42, Very Good,60000,Jakarta Utara
+ Chatime, Bubble Tea, Beverage Shop,39, Good,60000,Jakarta Utara
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,38, Good,50000,Jakarta Utara
+ Yucha, Bubble Tea, Beverage Shop,39, Good,70000,Jakarta Utara
+ BubbleZ, Beverages, Beverage Shop,39, Good,60000,Jakarta Utara
+ Sharetea, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Utara
+ Chatime, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Utara
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,39, Good,50000,Jakarta Utara
+ Chatime, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Utara
+ Sharetea, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Utara
+ Kopi Yor, Beverages, Beverage Shop,36, Good,50000,Jakarta Utara
+ Dakasi, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Utara
+ KOI Cafe, Bubble Tea, Beverage Shop,40, Very Good,60000,Jakarta Utara
+ Rinne Cheese Tea, Beverages, Beverage Shop,39, Good,50000,Jakarta Utara
+ Chatime, Bubble Tea, Beverage Shop,39, Good,60000,Jakarta Utara
+ Tea Amo, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Utara
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,38, Good,50000,Jakarta Utara
+ Sharetea, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Utara
+ YAW TEA, Thai, Beverage Shop,36, Good,50000,Jakarta Utara
+ Shiny Tea, Bubble Tea, Beverage Shop,37, Good,50000,Jakarta Utara
+ Chatime, Bubble Tea, Beverage Shop,36, Good,60000,Jakarta Utara
+ Simply, Juices, Beverage Shop,37, Good,50000,Jakarta Utara
+ Chapayom, Beverages, Beverage Shop,39, Good,120000,Jakarta Utara
+ Sharetea, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Utara
+ Kamu Tea , Bubble Tea, Beverage Shop,34, Average,60000,Jakarta Utara
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,37, Good,50000,Jakarta Utara
+ Avocado Lovers, Beverages, Beverage Shop,36, Good,50000,Jakarta Utara
+ Maw Maw Tea, Beverages, Beverage Shop,34, Average,50000,Jakarta Utara
+ Shiny Tea, Bubble Tea, Beverage Shop,35, Good,50000,Jakarta Utara
+ Di Bawah Tangga, Coffee, Beverage Shop,42, Very Good,60000,Jakarta Selatan
+ Samakamu Kopi, Coffee, Beverage Shop,40, Very Good,60000,Jakarta Selatan
+ Kopi SANA, Cafe, Beverage Shop,43, Very Good,50000,Jakarta Selatan
+ Kedai Kopi Kulo, Beverages, Beverage Shop,41, Very Good,70000,Jakarta Selatan
+ Rejuve, Beverages, Beverage Shop,42, Very Good,100000,Jakarta Selatan
+ Kopi Kenangan, Coffee, Beverage Shop,42, Very Good,33000,Jakarta Selatan
+ Kopi Kenangan, Coffee, Beverage Shop,43, Sangat Baik,33000,Jakarta Selatan
+ Chatime, Bubble Tea, Beverage Shop,39, Good,60000,Jakarta Selatan
+ Kopi Kenangan, Coffee, Beverage Shop,39, Good,33000,Jakarta Selatan
+ MM Juice, Juices, Beverage Shop,39, Good,150000,Jakarta Selatan
+ Chatime, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Selatan
+ Kamu Tea, Beverages, Beverage Shop,40, Very Good,60000,Jakarta Selatan
+ Kopi Cuan, Coffee, Beverage Shop,40, Very Good,50000,Jakarta Selatan
+ Sagaleh, Beverages, Beverage Shop,42, Very Good,50000,Jakarta Selatan
+ Suasanakopi, Coffee and Tea, Beverage Shop,38, Good,70000,Jakarta Selatan
+ Chatime, Bubble Tea, Beverage Shop,40, Very Good,60000,Jakarta Selatan
+ Coco, Bubble Tea, Beverage Shop,40, Very Good,50000,Jakarta Selatan
+ Rejuve, Beverages, Beverage Shop,37, Good,100000,Jakarta Selatan
+ Kamu Tea Cafe, Beverages, Beverage Shop,40, Very Good,60000,Jakarta Selatan
+ Sharetea, Bubble Tea, Beverage Shop,38, Baik,60000,Jakarta Selatan
+ Chatime, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Selatan
+ Chatime, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Selatan
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,38, Good,50000,Jakarta Selatan
+ Sunseed Juice Bar, Beverages, Beverage Shop,38, Good,60000,Jakarta Selatan
+ Sagaleh, Coffee, Beverage Shop,37, Good,50000,Jakarta Selatan
+ Kopi Janji Jiwa, Coffee, Beverage Shop,40, Very Good,80000,Jakarta Selatan
+ Chatime, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Selatan
+ Presotea, Bubble Tea, Beverage Shop,37, Good,50000,Jakarta Selatan
+ Chang Tea, Thai, Beverage Shop,37, Good,40000,Jakarta Selatan
+ Tuk Tuk Cha, Beverages, Beverage Shop,38, Good,70000,Jakarta Selatan
+ Rejuve, Beverages, Beverage Shop,39, Good,100000,Jakarta Selatan
+ Gulu Gulu, Beverages, Beverage Shop,38, Good,60000,Jakarta Selatan
+ Sancha, Bubble Tea, Beverage Shop,34, Average,100000,Jakarta Selatan
+ Coco, Bubble Tea, Beverage Shop,39, Good,50000,Jakarta Selatan
+ Avocado Lovers, Beverages, Beverage Shop,39, Good,50000,Jakarta Selatan
+ Gulu Gulu, Beverages, Beverage Shop,36, Good,60000,Jakarta Selatan
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,37, Good,50000,Jakarta Selatan
+ Quickly, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Selatan
+ Ban Ban Cheese Tea, Bubble Tea, Beverage Shop,42, Very Good,70000,Jakarta Barat
+ KOI Cafe, Bubble Tea, Beverage Shop,44, Very Good,60000,Jakarta Barat
+ KOI Cafe, Bubble Tea, Beverage Shop,44, Very Good,60000,Jakarta Barat
+ Jamba Juice, Juices, Beverage Shop,42, Very Good,80000,Jakarta Barat
+ Mango Mango, Juices, Beverage Shop,38, Good,50000,Jakarta Barat
+ KOI Cafe, Bubble Tea, Beverage Shop,43, Very Good,60000,Jakarta Barat
+ Acaraki Jamu, Jawa, Beverage Shop,39, Good,80000,Jakarta Barat
+ Sharetea 8, Bubble Tea, Beverage Shop,40, Very Good,60000,Jakarta Barat
+ BRUN, Beverages, Beverage Shop,40, Very Good,70000,Jakarta Barat
+ Chatime, Bubble Tea, Beverage Shop,40, Very Good,60000,Jakarta Barat
+ Calais, Bubble Tea, Beverage Shop,37, Good,70000,Jakarta Barat
+ Sharetea, Bubble Tea, Beverage Shop,36, Good,60000,Jakarta Barat
+ Kopi Janji Jiwa, Coffee, Beverage Shop,40, Very Good,80000,Jakarta Barat
+ Teh Tarik Uncle G, Beverages, Beverage Shop,38, Good,50000,Jakarta Barat
+ Chatime, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Barat
+ KOI Cafe, Bubble Tea, Beverage Shop,40, Very Good,60000,Jakarta Barat
+ KOI Cafe, Bubble Tea, Beverage Shop,42, Very Good,60000,Jakarta Barat
+ Presotea, Bubble Tea, Beverage Shop,37, Good,50000,Jakarta Barat
+ Chatime, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Barat
+ Chatime, Bubble Tea, Beverage Shop,36, Good,60000,Jakarta Barat
+ Sharetea, Bubble Tea, Beverage Shop,36, Good,60000,Jakarta Barat
+ Chatime, Bubble Tea, Beverage Shop,37, Good,60000,Jakarta Barat
+ Dum Dum Thai Drinks, Beverages, Beverage Shop,38, Good,50000,Jakarta Barat
+ HEYCHA, Beverages, Beverage Shop,38, Good,70000,Jakarta Barat
+ Tea Time Cafe, Bubble Tea, Beverage Shop,38, Good,160000,Jakarta Barat
+ KOI Cafe, Bubble Tea, Beverage Shop,40, Very Good,60000,Jakarta Barat
+ Kedai Kopi Kulo, Beverages, Beverage Shop,36, Good,70000,Jakarta Barat
+ Rejuve, Beverages, Beverage Shop,38, Good,100000,Jakarta Barat
+ Chapayom, Desserts, Beverage Shop,37, Good,60000,Jakarta Barat
+ Chatime, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Barat
+ Logika Coffee, Coffee, Beverage Shop,40, Very Good,40000,Jakarta Barat
+ Origins Authentic, Beverages, Beverage Shop,34, Average,50000,Jakarta Barat
+ Sharetea, Bubble Tea, Beverage Shop,38, Good,60000,Jakarta Barat
+ Calais, Bubble Tea, Beverage Shop,37, Good,70000,Jakarta Barat
+ Mango Tango, Juices, Beverage Shop,25, Average,100000,Jakarta Barat
+ Ice Hill, Beverages, Beverage Shop,37, Good,50000,Jakarta Barat
+ Kopi Gawe, Coffee, Beverage Shop,36, Good,80000,Jakarta Barat
+ Haus, Beverages, Beverage Shop,35, Good,30000,Jakarta Barat
+ Kopi Janji Jiwa, Coffee, Beverage Shop,36, Good,80000,Jakarta Barat
+ Kedai Kopi Kulo, Beverages, Beverage Shop,36, Good,70000,Jakarta Barat
+ Gambino, Beverages, Beverage Shop,27, Average,100000,Jakarta Selatan
+ Chang Tea, Beverages, Beverage Shop,39, Good,60000,Jakarta Selatan
+ Joe  Dough, Coffee, Café,39, Good,280000,Jakarta Pusat
+ Goedkoop, Cafe, Café,42, Very Good,150000,Jakarta Pusat
+ Paradigma, Coffee, Café,40, Very Good,200000,Jakarta Pusat
+ Gelato Secrets, Ice Cream, Café,46, Excellent,130000,Jakarta Pusat
+ Common Grounds, Cafe, Café,43, Very Good,250000,Jakarta Pusat
+ Djournal Coffee, Cafe, Café,42, Very Good,150000,Jakarta Pusat
+ Kopi Kenangan, Coffee, Café,44, Sangat Baik,200000,Jakarta Pusat
+ Tjikini, Coffee, Café,41, Very Good,180000,Jakarta Pusat
+ Bakoel Koffie, Coffee, Café,39, Good,250000,Jakarta Pusat
+ Caffè Milano, Italian, Café,44, Very Good,600000,Jakarta Pusat
+ Watt Coffee, Cafe, Café,42, Very Good,100000,Jakarta Pusat
+ Tanamera Coffee Roastery, Coffee, Café,44, Very Good,250000,Jakarta Pusat
+ 115 Coffee, Cafe, Café,44, Very Good,200000,Jakarta Pusat
+ Anomali Coffee, Coffee, Café,40, Very Good,200000,Jakarta Pusat
+ Colette  Lola, Desserts, Café,42, Very Good,210000,Jakarta Pusat
+ Sabang 16, Cafe, Café,42, Very Good,70000,Jakarta Pusat
+ KLTR Coffee Roasters, Coffee, Café,47, Excellent,350000,Jakarta Pusat
+ Brownbag, Italian, Café,39, Good,250000,Jakarta Pusat
+ Exquise Patisserie, Cafe, Café,43, Very Good,140000,Jakarta Pusat
+ Paul, Cafe, Café,43, Very Good,450000,Jakarta Pusat
+ Saudagar Kopi, Coffee, Café,42, Very Good,130000,Jakarta Pusat
+ Iceberg  Gelato  Pizza, Coffee, Café,39, Good,200000,Jakarta Pusat
+ La Maison, Desserts, Café,45, Excellent,150000,Jakarta Pusat
+ Pigeonhole Coffee, Cafe, Café,42, Very Good,150000,Jakarta Pusat
+ Caribou Coffee, Cafe, Café,43, Very Good,100000,Jakarta Pusat
+ Chicory European Patisserie, Cafe, Café,43, Very Good,230000,Jakarta Pusat
+ Starbucks Coffee, Cafe, Café,42, Very Good,120000,Jakarta Pusat
+ Tobys Estate, Coffee, Café,41, Very Good,300000,Jakarta Pusat
+ Work Room Coffee, Coffee, Café,38, Good,180000,Jakarta Pusat
+ METRO Coffee Bar etc, Coffee, Café,41, Very Good,200000,Jakarta Pusat
+ Upnormal Coffee Roaster, Coffee, Café,41, Very Good,120000,Jakarta Pusat
+ Karai Canteen, Cafe, Café,36, Good,100000,Jakarta Pusat
+ Starbucks Coffee, Coffee, Café,40, Very Good,160000,Jakarta Pusat
+ Wake Cup Coffee, Cafe, Café,41, Very Good,200000,Jakarta Pusat
+ ALIBI Coffee, Coffee, Café,36, Good,160000,Jakarta Pusat
+ Warung Koffie Batavia, Cafe, Café,38, Good,150000,Jakarta Pusat
+ Lobby Resto  Hotel Mercure, Western, Café,38, Good,300000,Jakarta Pusat
+ Identic Coffee, Cafe, Café,39, Good,100000,Jakarta Pusat
+ Maarkeze, Cafe, Café,41, Very Good,100000,Jakarta Pusat
+ Starbucks Coffee, Coffee, Café,40, Very Good,160000,Jakarta Pusat
+ Cerita Cafe, Cafe, Café,37, Good,150000,Jakarta Timur
+ Rumah Kongkow, Cafe, Café,36, Good,100000,Jakarta Timur
+ PAUSE, Cafe, Café,39, Good,200000,Jakarta Timur
+ De Facto Coffee  Eatery, Cafe, Café,42, Very Good,150000,Jakarta Timur
+ Omija, Cafe, Café,37, Good,150000,Jakarta Timur
+ KOPILOT, Coffee, Café,42, Very Good,80000,Jakarta Timur
+ ORVIA, Coffee, Café,37, Good,150000,Jakarta Timur
+ Kopi Kecil, Cafe, Café,43, Very Good,150000,Jakarta Timur
+ 404 Eatery and Coffee, Cafe, Café,38, Good,150000,Jakarta Timur
+ Monster Shaker, Cafe, Café,37, Good,40000,Jakarta Timur
+ Bean  Brew, Cafe, Café,39, Baik,130000,Jakarta Timur
+ BEEM Cafe, Coffee, Café,38, Good,100000,Jakarta Timur
+ Sanderson Coffee, Cafe, Café,37, Good,150000,Jakarta Timur
+ Rumah Mantan Cafe  Nostalgia, Cafe, Café,24, Poor,80000,Jakarta Timur
+ COFFEERIGHT, Cafe, Café,41, Very Good,100000,Jakarta Timur
+ Kopi Made, Cafe, Café,38, Good,150000,Jakarta Timur
+ Torry Coffee, Coffee, Café,36, Good,120000,Jakarta Timur
+ Volks Kaffe, Cafe, Café,38, Good,80000,Jakarta Timur
+ Dunkin Donuts, Desserts, Café,35, Good,125000,Jakarta Timur
+ Anastomosis Coffee, Cafe, Café,37, Good,120000,Jakarta Timur
+ Kowok Coffee  Gallery, Coffee, Café,39, Good,160000,Jakarta Timur
+ Kopi Gayo Kopitiam Heritage, Coffee, Café,36, Good,160000,Jakarta Timur
+ Fat Bubble, Desserts, Café,37, Baik,150000,Jakarta Timur
+ Starbucks Coffee, Coffee, Café,38, Good,160000,Jakarta Timur
+ Kupinami Cafe, Cafe, Café,40, Very Good,150000,Jakarta Timur
+ JCO Donuts  Coffee, Coffee, Café,38, Good,70000,Jakarta Timur
+ Jung Coffee, Cafe, Café,36, Good,80000,Jakarta Timur
+ Starbucks Coffee, Coffee, Café,38, Good,160000,Jakarta Timur
+ Upnormal Coffee Roaster, Coffee, Café,24, Poor,120000,Jakarta Timur
+ Duatujulapan Coffee Roastery, Cafe, Café,38, Good,80000,Jakarta Timur
+ Starbucks Coffee, Coffee, Café,39, Good,160000,Jakarta Timur
+ Dunkin Donuts, Desserts, Café,36, Good,125000,Jakarta Timur
+ Baks Coffee  Kitchen, Coffee, Café,36, Good,120000,Jakarta Timur
+ Delico, Cafe, Café,33, Average,190000,Jakarta Timur
+ Kultur Jaringan Kopi, Coffee, Café,36, Good,60000,Jakarta Timur
+ JCO Donuts  Coffee, Coffee, Café,36, Good,70000,Jakarta Timur
+ Dapoer Roti Bakar, Coffee, Café,30, Average,70000,Jakarta Timur
+ La Coco Cafe, Coffee, Café,35, Good,150000,Jakarta Timur
+ Panglima Kopi, Cafe, Café,36, Good,100000,Jakarta Timur
+ Excelso, Coffee, Café,36, Good,230000,Jakarta Timur
+ MONKS, Western, Café,43, Very Good,250000,Jakarta Utara
+ Tobys Estate, Cafe, Café,42, Very Good,300000,Jakarta Utara
+ Social Affair, Western, Café,43, Very Good,300000,Jakarta Utara
+ Wooyoo, Ice Cream, Café,40, Very Good,150000,Jakarta Utara
+ First Crack Coffee, Cafe, Café,46, Terbaik,210000,Jakarta Utara
+ Kopium Artisan Coffee, Coffee, Café,43, Very Good,180000,Jakarta Utara
+ Hario Cafe, Cafe, Café,43, Very Good,200000,Jakarta Utara
+ Amyrea Art  Kitchen, Coffee, Café,42, Very Good,220000,Jakarta Utara
+ BERMVDA Coffee, Coffee, Café,45, Excellent,180000,Jakarta Utara
+ Portafilter Coffee, Cafe, Café,43, Very Good,150000,Jakarta Utara
+ PB Cafe  Resto, Coffee, Café,39, Good,350000,Jakarta Utara
+ Ravelle, American, Café,43, Very Good,250000,Jakarta Utara
+ Awesome Coffee, Cafe, Café,45, Excellent,200000,Jakarta Utara
+ Ombe Kofie, Cafe, Café,45, Excellent,120000,Jakarta Utara
+ Lima, Cafe, Café,42, Very Good,250000,Jakarta Utara
+ TOF Sicacilla, Cafe, Café,42, Very Good,150000,Jakarta Utara
+ Ignasias, Healthy Food, Café,41, Very Good,200000,Jakarta Utara
+ Kedai Roti Kobi, Cafe, Café,43, Very Good,100000,Jakarta Utara
+ Coffee Kulture, Cafe, Café,39, Good,260000,Jakarta Utara
+ Caffe Pralet, Asian, Café,43, Very Good,230000,Jakarta Utara
+ Copper Club, Cafe, Café,41, Very Good,150000,Jakarta Utara
+ The Hideout, Cafe, Café,42, Very Good,120000,Jakarta Utara
+ Tanamera Coffee Roastery, Cafe, Café,42, Very Good,250000,Jakarta Utara
+ Kopium Artisan Coffee, Cafe, Café,41, Very Good,120000,Jakarta Utara
+ Oetara, Cafe, Café,45, Excellent,150000,Jakarta Utara
+ Sensory Lab, Western, Café,41, Very Good,200000,Jakarta Utara
+ Monkey Tail Cafe, Cafe, Café,40, Very Good,200000,Jakarta Utara
+ One Fine Day Cafe, Coffee, Café,43, Very Good,250000,Jakarta Utara
+ Coffee with Me, Coffee, Café,40, Very Good,150000,Jakarta Utara
+ FRED, Coffee, Café,28, Average,80000,Jakarta Utara
+ Nocturnal, Western, Café,28, Average,300000,Jakarta Utara
+ Conversations Over Coffee, Cafe, Café,41, Very Good,90000,Jakarta Utara
+ Sensory Lab, Western, Café,42, Very Good,200000,Jakarta Utara
+ Muju Avenue, Cafe, Café,41, Very Good,230000,Jakarta Utara
+ Wake Cup Coffee, Cafe, Café,39, Good,200000,Jakarta Utara
+ Native Coffee Tribe, Cafe, Café,42, Very Good,100000,Jakarta Utara
+ Mokka Coffee Cabana, Cafe, Café,40, Very Good,240000,Jakarta Utara
+ North Pole Cafe, Cafe, Café,39, Good,150000,Jakarta Utara
+ Coffee AYA, Coffee, Café,41, Very Good,150000,Jakarta Utara
+ HYGGE Coffee, Cafe, Café,42, Very Good,225000,Jakarta Utara
+ BEAU by Talita Setyadi, Cafe, Café,44, Very Good,150000,Jakarta Selatan
+ Fedwell, Healthy Food, Café,47, Excellent,250000,Jakarta Selatan
+ Ottomans Coffee Brewers, Cafe, Café,42, Very Good,200000,Jakarta Selatan
+ Toodz House, Cafe, Café,47, Terbaik,240000,Jakarta Selatan
+ Mangia, Cafe, Café,43, Very Good,250000,Jakarta Selatan
+ Kopi Kalyan, Cafe, Café,43, Very Good,100000,Jakarta Selatan
+ Crematology Coffee Roasters, Coffee, Café,42, Very Good,250000,Jakarta Selatan
+ Kopi Nalar, Coffee, Café,44, Very Good,170000,Jakarta Selatan
+ Pison Coffee, Cafe, Café,44, Very Good,150000,Jakarta Selatan
+ Gordi HQ, Cafe, Café,44, Very Good,150000,Jakarta Selatan
+ Paul, Cafe, Café,43, Very Good,450000,Jakarta Selatan
+ Lewis  Carroll Tea, Coffee, Café,45, Excellent,200000,Jakarta Selatan
+ Fat Bubble, Desserts, Café,41, Very Good,150000,Jakarta Selatan
+ 115 Coffee, Coffee, Café,43, Very Good,280000,Jakarta Selatan
+ Kedai Filosofi Kopi, Coffee, Café,41, Very Good,100000,Jakarta Selatan
+ Monolog, Coffee, Café,42, Very Good,400000,Jakarta Selatan
+ Caribou Coffee, Coffee, Café,42, Very Good,100000,Jakarta Selatan
+ Anomali Coffee, Coffee, Café,42, Very Good,200000,Jakarta Selatan
+ Trafique Coffee, Cafe, Café,42, Very Good,100000,Jakarta Selatan
+ Happiness Kitchen  Coffee, Coffee, Café,41, Very Good,100000,Jakarta Selatan
+ Journey Coffee, Cafe, Café,37, Good,120000,Jakarta Selatan
+ ST ALi, Coffee, Café,39, Good,350000,Jakarta Selatan
+ Komunal88, Italian, Café,43, Very Good,430000,Jakarta Selatan
+ Sajiva Coffee Company, Coffee, Café,43, Very Good,230000,Jakarta Selatan
+ Walking Drums, Cafe, Café,41, Very Good,150000,Jakarta Selatan
+ Woodpecker Coffee, Cafe, Café,41, Very Good,80000,Jakarta Selatan
+ Roti Eneng, Coffee, Café,43, Very Good,70000,Jakarta Selatan
+ Mister  Sunday, Cafe, Café,41, Very Good,150000,Jakarta Selatan
+ Casadina Kitchen  Bakery, Cafe, Café,40, Very Good,200000,Jakarta Selatan
+ Kopimana 27, Coffee, Café,45, Excellent,130000,Jakarta Selatan
+ 7 Speed Coffee, Coffee, Café,46, Excellent,160000,Jakarta Selatan
+ The Reading Room, Cafe, Café,37, Good,160000,Jakarta Selatan
+ Kopi Manyar, Cafe, Café,42, Very Good,80000,Jakarta Selatan
+ Kanawa Coffee  Munch, Coffee, Café,39, Good,150000,Jakarta Selatan
+ Sophie Authentique, Coffee, Café,43, Very Good,200000,Jakarta Selatan
+ Sama Dengan, Cafe, Café,45, Excellent,100000,Jakarta Selatan
+ Cliq Coffee, Coffee, Café,41, Very Good,160000,Jakarta Selatan
+ Kopikina, Cafe, Café,39, Good,100000,Jakarta Selatan
+ On Three, Cafe, Café,43, Very Good,150000,Jakarta Selatan
+ Sophie Authentique, Coffee, Café,42, Very Good,200000,Jakarta Selatan
+ The Baileys and Chloe, Western, CafÃ,42, Very Good,150000,Jakarta Barat
+ Ardent Coffee  Kitchen, Coffee, CafÃ,44, Sangat Baik,350000,Jakarta Barat
+ Crematology Coffee Roasters, Cafe, CafÃ,45, Excellent,200000,Jakarta Barat
+ Common Grounds, Cafe, CafÃ,43, Very Good,250000,Jakarta Barat
+ Simetri Coffee Roasters, Cafe, CafÃ,43, Very Good,200000,Jakarta Barat
+ Three Folks, Coffee, CafÃ,44, Very Good,150000,Jakarta Barat
+ Kedai Seni Djakarte, Cafe, CafÃ,41, Very Good,80000,Jakarta Barat
+ Dancing Goat Coffee Co, Cafe, CafÃ,43, Sangat Baik,150000,Jakarta Barat
+ The Cortado, Cafe, CafÃ,38, Good,150000,Jakarta Barat
+ Djournal Coffee, Cafe, CafÃ,41, Very Good,150000,Jakarta Barat
+ Blacklisted, Western, CafÃ,39, Good,300000,Jakarta Barat
+ Say Something Coffee, Cafe, CafÃ,41, Sangat Baik,100000,Jakarta Barat
+ Dinobites Cafe, Cafe, CafÃ,43, Very Good,120000,Jakarta Barat
+ Colette  Lola, Desserts, CafÃ,41, Very Good,210000,Jakarta Barat
+ Coteca, Cafe, CafÃ,40, Very Good,150000,Jakarta Barat
+ My Warm Day, Taiwanese, CafÃ,39, Good,250000,Jakarta Barat
+ Historia Kotatua, Cafe, CafÃ,40, Very Good,250000,Jakarta Barat
+ Mokka Coffee Cabana, Cafe, CafÃ,37, Good,240000,Jakarta Barat
+ Guten Morgen Coffee Lab  Shop, Cafe, CafÃ,43, Very Good,150000,Jakarta Barat
+ Papa  Mama Bistro and Coffee, Cafe, CafÃ,42, Very Good,150000,Jakarta Barat
+ Seulawah Coffee, Cafe, CafÃ,24, Poor,70000,Jakarta Barat
+ St Marc Cafe, Cafe, CafÃ,40, Very Good,120000,Jakarta Barat
+ Tous Les Jours, Bakery, CafÃ,40, Very Good,135000,Jakarta Barat
+ Kedai Lante Satu, Coffee, CafÃ,39, Good,140000,Jakarta Barat
+ Bobba House, Cafe, CafÃ,39, Good,190000,Jakarta Barat
+ TOSKA, Cafe, CafÃ,41, Very Good,150000,Jakarta Barat
+ KOFIÄ Coffee  Tea Shop, Cafe, CafÃ,42, Very Good,160000,Jakarta Barat
+ Phos Coffee  Eatery, Coffee, CafÃ,40, Very Good,200000,Jakarta Barat
+ Ali Kopi Cafe  Roastery, Cafe, CafÃ,38, Good,120000,Jakarta Barat
+ Pappa Jack Asian Cuisine, Peranakan, CafÃ,33, Average,330000,Jakarta Barat
+ My Warm Day, Asian, CafÃ,38, Good,250000,Jakarta Barat
+ Kolary Coffee, Coffee, CafÃ,41, Very Good,160000,Jakarta Barat
+ Evlogia Cafe  Store, Cafe, CafÃ,42, Very Good,150000,Jakarta Barat
+ JCO Donuts  Coffee, Coffee, CafÃ,38, Good,70000,Jakarta Barat
+ GOODHOOD Coffee  Kitchen, Cafe, CafÃ,36, Good,200000,Jakarta Barat
+ Blessed Brothers Cafe, Coffee, CafÃ,38, Good,160000,Jakarta Barat
+ Excelso, Coffee, CafÃ,35, Good,230000,Jakarta Barat
+ Starbucks Coffee, Coffee, CafÃ,40, Sangat Baik,160000,Jakarta Barat
+ Calibrate Coffee, Cafe, CafÃ,43, Sangat Baik,150000,Jakarta Barat
+ Trelatte Coffee  Soul, Coffee, CafÃ,40, Very Good,200000,Jakarta Barat
+ Social House, Italian, Casual Dining,48, Excellent,400000,Jakarta Pusat
+ Pancious, Western, Casual Dining,44, Very Good,400000,Jakarta Pusat
+ Itacho Sushi, Japanese, Casual Dining,45, Excellent,250000,Jakarta Pusat
+ Paulaner Brauhaus, German, Casual Dining,47, Excellent,500000,Jakarta Pusat
+ Gyu  Kaku Japanese BBQ, Japanese, Casual Dining,48, Excellent,350000,Jakarta Pusat
+ Tucanos Churrascaria  Brazilian BBQ  Buffet, Steak, Casual Dining,48, Excellent,500000,Jakarta Pusat
+ Maple  Oak, Western, Casual Dining,43, Very Good,250000,Jakarta Pusat
+ OJJU, Korean, Casual Dining,42, Very Good,200000,Jakarta Pusat
+ Nomz Kitchen  Pastry, Western, Casual Dining,42, Sangat Baik,400000,Jakarta Pusat
+ Popolamama, Pizza, Casual Dining,46, Excellent,180000,Jakarta Pusat
+ Benedict, Western, Casual Dining,46, Excellent,350000,Jakarta Pusat
+ Olivier, Western, Casual Dining,42, Very Good,350000,Jakarta Pusat
+ Hello Sunday, Italian, Casual Dining,47, Excellent,350000,Jakarta Pusat
+ Tokyo Belly, Ramen, Casual Dining,40, Very Good,200000,Jakarta Pusat
+ Marche, Western, Casual Dining,42, Very Good,350000,Jakarta Pusat
+ Union Deli, Western, Casual Dining,47, Excellent,300000,Jakarta Pusat
+ Publik Markette, Asian, Casual Dining,42, Very Good,500000,Jakarta Pusat
+ Cloud Lounge  Dining, European, Casual Dining,44, Sangat Baik,650000,Jakarta Pusat
+ Tom Tom, Thai, Casual Dining,43, Very Good,300000,Jakarta Pusat
+ Zenbu, Japanese, Casual Dining,43, Very Good,200000,Jakarta Pusat
+ Seribu Rasa, Seafood, Casual Dining,45, Excellent,400000,Jakarta Pusat
+ Djournal Coffee, Cafe, Casual Dining,42, Very Good,150000,Jakarta Pusat
+ Fook Yew, Chinese, Casual Dining,41, Very Good,300000,Jakarta Pusat
+ Bubur Kwang Tung, Seafood, Casual Dining,43, Very Good,150000,Jakarta Pusat
+ The Peoples Cafe, Italian, Casual Dining,41, Very Good,200000,Jakarta Pusat
+ Greyhound Cafe, Thai, Casual Dining,43, Very Good,300000,Jakarta Pusat
+ YaUdah Bistro, European, Casual Dining,41, Very Good,200000,Jakarta Pusat
+ Negiya, Japanese, Casual Dining,43, Very Good,200000,Jakarta Pusat
+ Kopi Kenangan, Coffee, Casual Dining,44, Very Good,200000,Jakarta Pusat
+ Pisa Kafe, Italian, Casual Dining,40, Very Good,300000,Jakarta Pusat
+ Kokoro Mazesoba, Japanese, Casual Dining,43, Very Good,250000,Jakarta Pusat
+ Tjikini, Coffee, Casual Dining,41, Very Good,180000,Jakarta Pusat
+ Ippudo, Ramen, Casual Dining,46, Excellent,250000,Jakarta Pusat
+ Por Que No, Spanish, Casual Dining,41, Very Good,350000,Jakarta Pusat
+ Bakoel Koffie, Coffee, Casual Dining,39, Good,250000,Jakarta Pusat
+ Caffè Milano, Italian, Casual Dining,44, Very Good,600000,Jakarta Pusat
+ BART  Bar at The Roof Top  Artotel Jakarta, Continental, Casual Dining,39, Good,300000,Jakarta Pusat
+ CorkScrew, European, Casual Dining,43, Very Good,600000,Jakarta Pusat
+ Kikugawa, Japanese, Casual Dining,44, Very Good,250000,Jakarta Pusat
+ NinetyNine, Jawa, Casual Dining,42, Very Good,250000,Jakarta Pusat
+ OnYasai Shabu Shabu, Japanese, Casual Dining,45, Excellent,300000,Jakarta Timur
+ Kedai Locale, Indonesian, Casual Dining,40, Very Good,190000,Jakarta Timur
+ Warung Pasta, Asian, Casual Dining,39, Good,150000,Jakarta Timur
+ Cerita Cafe, Cafe, Casual Dining,37, Good,150000,Jakarta Timur
+ SeirockYa, Japanese, Casual Dining,43, Very Good,160000,Jakarta Timur
+ Ichiro Ramen Market, Ramen, Casual Dining,41, Very Good,150000,Jakarta Timur
+ De Facto Coffee  Eatery, Cafe, Casual Dining,42, Very Good,150000,Jakarta Timur
+ Naniura Sushibar  Resto, Sushi, Casual Dining,39, Good,150000,Jakarta Timur
+ Holycow STEAKHOUSE by Chef Afit, Steak, Casual Dining,41, Very Good,380000,Jakarta Timur
+ Popolamama, Pizza, Casual Dining,42, Very Good,180000,Jakarta Timur
+ Ol Star, Indonesian, Casual Dining,38, Good,150000,Jakarta Timur
+ Nannys Pavillon, Italian, Casual Dining,40, Very Good,250000,Jakarta Timur
+ HEMA Resto, Belanda, Casual Dining,37, Good,200000,Jakarta Timur
+ Abuba Steak, Steak, Casual Dining,38, Good,300000,Jakarta Timur
+ Abunawas, Arabian, Casual Dining,41, Very Good,250000,Jakarta Timur
+ Mujigae, Korean, Casual Dining,39, Good,60000,Jakarta Timur
+ Dapur Solo, Jawa, Casual Dining,38, Good,140000,Jakarta Timur
+ Abuba Steak, Steak, Casual Dining,37, Good,300000,Jakarta Timur
+ Holycow STEAKHOUSE by Chef Afit, Steak, Casual Dining,42, Very Good,380000,Jakarta Timur
+ Ichiban Sushi, Sushi, Casual Dining,36, Good,200000,Jakarta Timur
+ Nannys Pavillon, Italian, Casual Dining,39, Good,250000,Jakarta Timur
+ Ikan Bakar dalam Bambu Karimata, Kalimantan, Casual Dining,41, Very Good,200000,Jakarta Timur
+ Zenbu, Sushi, Casual Dining,40, Very Good,200000,Jakarta Timur
+ Hanamasa, Japanese, Casual Dining,42, Very Good,350000,Jakarta Timur
+ Ai Sushi, Japanese, Casual Dining,35, Good,150000,Jakarta Timur
+ Pagi Sore, Padang, Casual Dining,39, Good,150000,Jakarta Timur
+ Pagi Sore, Padang, Casual Dining,39, Good,150000,Jakarta Timur
+ Sushi King, Japanese, Casual Dining,34, Average,150000,Jakarta Timur
+ Celsius Cafe  Grill, Western, Casual Dining,36, Good,100000,Jakarta Timur
+ Sushi Tei, Sushi, Casual Dining,38, Good,280000,Jakarta Timur
+ Telaga Seafood, Seafood, Casual Dining,38, Good,200000,Jakarta Timur
+ Imperial Kitchen  Dimsum, Dimsum, Casual Dining,37, Good,220000,Jakarta Timur
+ Ichiban Sushi, Sushi, Casual Dining,36, Good,200000,Jakarta Timur
+ Wills Steak, Steak, Casual Dining,38, Good,350000,Jakarta Timur
+ Pan  Flip, Western, Casual Dining,37, Good,150000,Jakarta Timur
+ SUKIYA, Japanese, Casual Dining,36, Good,100000,Jakarta Timur
+ AlJazeerah, Arabian, Casual Dining,40, Very Good,350000,Jakarta Timur
+ Ta Wan, Chinese, Casual Dining,37, Good,170000,Jakarta Timur
+ Beatrice Quarters, Japanese, Casual Dining,40, Very Good,300000,Jakarta Timur
+ Sate Khas Senayan, Satay, Casual Dining,38, Good,280000,Jakarta Timur
+ The Garden, Western, Casual Dining,46, Excellent,250000,Jakarta Utara
+ Bandar Djakarta, Seafood, Casual Dining,43, Very Good,250000,Jakarta Utara
+ Kintaro Sushi, Sushi, Casual Dining,47, Excellent,200000,Jakarta Utara
+ Sushi Hiro, Sushi, Casual Dining,49, Excellent,400000,Jakarta Utara
+ Sushi Hiro, Sushi, Casual Dining,48, Excellent,400000,Jakarta Utara
+ Sushi Masa, Sushi, Casual Dining,49, Excellent,500000,Jakarta Utara
+ Gyu  Kaku Japanese BBQ, Japanese, Casual Dining,48, Excellent,350000,Jakarta Utara
+ Talaga Sampireun, Sunda, Casual Dining,48, Excellent,200000,Jakarta Utara
+ Kanpai, Japanese, Casual Dining,44, Very Good,270000,Jakarta Utara
+ OnYasai Shabu Shabu, Japanese, Casual Dining,45, Excellent,300000,Jakarta Utara
+ Mujigae, Korean, Casual Dining,39, Good,60000,Jakarta Utara
+ Segarra, Seafood, Casual Dining,42, Very Good,750000,Jakarta Utara
+ Momo Paradise, Japanese, Casual Dining,49, Excellent,400000,Jakarta Utara
+ Sushi Tei, Sushi, Casual Dining,44, Very Good,280000,Jakarta Utara
+ Six Ounces Coffee, Cafe, Casual Dining,45, Excellent,200000,Jakarta Utara
+ Onokabe, Japanese, Casual Dining,39, Good,300000,Jakarta Utara
+ MONKS, Western, Casual Dining,43, Very Good,250000,Jakarta Utara
+ Larb Thai Cuisine, Thai, Casual Dining,45, Excellent,200000,Jakarta Utara
+ Jetski Cafe, Italian, Casual Dining,41, Very Good,350000,Jakarta Utara
+ Pancious, Western, Casual Dining,45, Excellent,400000,Jakarta Utara
+ Ying Thai, Asian, Casual Dining,43, Very Good,200000,Jakarta Utara
+ Social Affair, Western, Casual Dining,43, Very Good,300000,Jakarta Utara
+ Sop Konro Karebosi, Makassar, Casual Dining,41, Very Good,120000,Jakarta Utara
+ Goobne, Korean, Casual Dining,44, Very Good,200000,Jakarta Utara
+ Union, Italian, Casual Dining,45, Excellent,400000,Jakarta Utara
+ Abura Soba Yamatoten, Japanese, Casual Dining,44, Very Good,200000,Jakarta Utara
+ Negiya Dining, Japanese, Casual Dining,43, Very Good,200000,Jakarta Utara
+ PUTIEN, Chinese, Casual Dining,45, Excellent,250000,Jakarta Utara
+ Magal Mapogalmaegi BBQ, BBQ, Casual Dining,44, Very Good,300000,Jakarta Utara
+ PUTIEN, Chinese, Casual Dining,43, Very Good,250000,Jakarta Utara
+ Yuraku, Japanese, Casual Dining,43, Very Good,330000,Jakarta Utara
+ Sisterfields, Healthy Food, Casual Dining,38, Good,300000,Jakarta Utara
+ Magal Mapogalmaegi BBQ, BBQ, Casual Dining,46, Excellent,300000,Jakarta Utara
+ Shaburi Shabu Shabu, Japanese, Casual Dining,46, Excellent,600000,Jakarta Utara
+ Seorae, Korean, Casual Dining,41, Very Good,250000,Jakarta Utara
+ Kincir  Souvenir, Indonesian, Casual Dining,42, Very Good,170000,Jakarta Utara
+ Kintan Buffet, Asian, Casual Dining,43, Very Good,600000,Jakarta Utara
+ Holycow STEAKHOUSE by Chef Afit, Steak, Casual Dining,42, Very Good,380000,Jakarta Utara
+ Sainé Daise Bistro, Indonesian, Casual Dining,41, Very Good,300000,Jakarta Utara
+ Seorae, Korean, Casual Dining,40, Very Good,250000,Jakarta Utara
+ Sushi Hiro, Sushi, Casual Dining,47, Excellent,400000,Jakarta Selatan
+ Lucky Cat Coffee  Kitchen, Cafe, Casual Dining,43, Very Good,300000,Jakarta Selatan
+ 3 Wise Monkeys, Japanese, Casual Dining,44, Very Good,450000,Jakarta Selatan
+ Okuzono, Japanese, Casual Dining,45, Excellent,300000,Jakarta Selatan
+ Warung MJS, Jawa, Casual Dining,42, Very Good,170000,Jakarta Selatan
+ Ippudo, Japanese, Casual Dining,47, Excellent,250000,Jakarta Selatan
+ BEAU by Talita Setyadi, Cafe, Casual Dining,44, Very Good,150000,Jakarta Selatan
+ Union, Italian, Casual Dining,46, Excellent,400000,Jakarta Selatan
+ Gioi, Asian, Casual Dining,47, Excellent,550000,Jakarta Selatan
+ Hause Rooftop, Western, Casual Dining,44, Very Good,370000,Jakarta Selatan
+ Pokenbir, Asian, Casual Dining,49, Excellent,320000,Jakarta Selatan
+ SeirockYa, Japanese, Casual Dining,47, Excellent,160000,Jakarta Selatan
+ Yakinikuya, Japanese, Casual Dining,48, Excellent,250000,Jakarta Selatan
+ Bottega Ristorante, Italian, Casual Dining,43, Very Good,450000,Jakarta Selatan
+ Legend of Noodle, Korean, Casual Dining,46, Excellent,200000,Jakarta Selatan
+ Kintan Buffet, Grill, Casual Dining,46, Excellent,600000,Jakarta Selatan
+ Lawless Burgerbar, Burger, Casual Dining,47, Excellent,150000,Jakarta Selatan
+ OJJU, Korean, Casual Dining,44, Sangat Baik,200000,Jakarta Selatan
+ Kintaro Sushi, Sushi, Casual Dining,43, Very Good,200000,Jakarta Selatan
+ Twinhouse, Asian, Casual Dining,44, Very Good,250000,Jakarta Selatan
+ Garcon, Western, Casual Dining,46, Excellent,600000,Jakarta Selatan
+ Sofia at The Gunawarman, Western, Casual Dining,43, Very Good,700000,Jakarta Selatan
+ MammaRosy, Italian, Casual Dining,44, Very Good,300000,Jakarta Selatan
+ Odysseia, Italian, Casual Dining,41, Sangat Baik,400000,Jakarta Selatan
+ AB Steak by Chef Akira Back, Steak, Casual Dining,49, Excellent,1200000,Jakarta Selatan
+ Gyu  Kaku Japanese BBQ, Japanese, Casual Dining,49, Excellent,350000,Jakarta Selatan
+ Shabu Hachi, Japanese, Casual Dining,46, Excellent,350000,Jakarta Selatan
+ Mangia, Cafe, Casual Dining,43, Very Good,250000,Jakarta Selatan
+ Loewy, Western, Casual Dining,43, Very Good,350000,Jakarta Selatan
+ Union, Italian, Casual Dining,43, Very Good,400000,Jakarta Selatan
+ Seasonal Tastes  The Westin Jakarta, Indonesian, Casual Dining,45, Excellent,500000,Jakarta Selatan
+ Sailendra  JW Marriott Hotel, Western, Casual Dining,42, Very Good,780000,Jakarta Selatan
+ Crematology Coffee Roasters, Coffee, Casual Dining,42, Very Good,250000,Jakarta Selatan
+ Kashiwa, Japanese, Casual Dining,44, Very Good,250000,Jakarta Selatan
+ OJJU, Korean, Casual Dining,43, Very Good,200000,Jakarta Selatan
+ The Holy Crab, Seafood, Casual Dining,42, Very Good,300000,Jakarta Selatan
+ Zenbu, Sushi, Casual Dining,44, Very Good,200000,Jakarta Selatan
+ Tokyo Skipjack, Japanese, Casual Dining,45, Excellent,240000,Jakarta Selatan
+ Gyu  Kaku Japanese BBQ, Japanese, Casual Dining,49, Excellent,350000,Jakarta Barat
+ Talaga Sampireun, Sunda, Casual Dining,46, Excellent,200000,Jakarta Barat
+ Gyu  Kaku Japanese BBQ, Japanese, Casual Dining,48, Excellent,350000,Jakarta Barat
+ ONNI House, Indonesian, Casual Dining,40, Very Good,250000,Jakarta Barat
+ Oma Seafood, Seafood, Casual Dining,45, Excellent,250000,Jakarta Barat
+ Koultoura, Cafe, Casual Dining,43, Very Good,400000,Jakarta Barat
+ Ippudo, Japanese, Casual Dining,46, Excellent,250000,Jakarta Barat
+ Willie Brothers, Steak, Casual Dining,40, Very Good,300000,Jakarta Barat
+ Zenbu, Sushi, Casual Dining,44, Very Good,200000,Jakarta Barat
+ Cafe Batavia, Indonesian, Casual Dining,42, Very Good,300000,Jakarta Barat
+ Shu Guo Yin Xiang, Chinese, Casual Dining,47, Excellent,250000,Jakarta Barat
+ Sushi Tei, Sushi, Casual Dining,45, Excellent,280000,Jakarta Barat
+ Hachi Hachi Bistro, Japanese, Casual Dining,42, Very Good,350000,Jakarta Barat
+ Layar Seafood, Seafood, Casual Dining,47, Excellent,200000,Jakarta Barat
+ So Fashion Cafe, Western, Casual Dining,40, Very Good,200000,Jakarta Barat
+ The Baileys and Chloe, Western, Casual Dining,42, Very Good,150000,Jakarta Barat
+ Ardent Coffee  Kitchen, Coffee, Casual Dining,44, Very Good,350000,Jakarta Barat
+ Pingoo Restaurant, Seafood, Casual Dining,40, Very Good,500000,Jakarta Barat
+ Nannys Pavillon, Italian, Casual Dining,41, Very Good,250000,Jakarta Barat
+ Mujigae, Korean, Casual Dining,40, Very Good,60000,Jakarta Barat
+ Jun Njan, Seafood, Casual Dining,47, Excellent,280000,Jakarta Barat
+ TGI Fridays, Burger, Casual Dining,41, Very Good,400000,Jakarta Barat
+ Crematology Coffee Roasters, Cafe, Casual Dining,45, Excellent,200000,Jakarta Barat
+ Common Grounds, Cafe, Casual Dining,43, Very Good,250000,Jakarta Barat
+ Holycow STEAKHOUSE by Chef Afit, Steak, Casual Dining,44, Very Good,380000,Jakarta Barat
+ Glosis, Western, Casual Dining,43, Very Good,300000,Jakarta Barat
+ OnYasai Shabu Shabu, Japanese, Casual Dining,44, Very Good,300000,Jakarta Barat
+ Manhattan Fish Market, Seafood, Casual Dining,38, Good,300000,Jakarta Barat
+ Paradise Dynasty, Chinese, Casual Dining,43, Sangat Baik,400000,Jakarta Barat
+ Penang Bistro, Peranakan, Casual Dining,44, Very Good,250000,Jakarta Barat
+ Kamseng Restaurant, Chinese, Casual Dining,41, Very Good,180000,Jakarta Barat
+ Bariuma Ramen, Ramen, Casual Dining,44, Very Good,230000,Jakarta Barat
+ Pancious, Western, Casual Dining,43, Very Good,400000,Jakarta Barat
+ Coco Ichibanya Curry, Japanese, Casual Dining,44, Very Good,260000,Jakarta Barat
+ TGI Fridays, Burger, Casual Dining,42, Very Good,400000,Jakarta Barat
+ Tuttonero Coffee  Eat, Western, Casual Dining,40, Very Good,160000,Jakarta Barat
+ Fish  Co, Seafood, Casual Dining,42, Very Good,330000,Jakarta Barat
+ Restaurant Sarang Oci, Manado, Casual Dining,43, Very Good,250000,Jakarta Barat
+ Le Quartier, French, Casual Dining,45, Excellent,500000,Jakarta Selatan
+ Toodz House, Cafe, Casual Dining,47, Terbaik,240000,Jakarta Selatan
+ Popolamama, Pizza, Casual Dining,44, Very Good,180000,Jakarta Barat
+ Kitchenette, Italian, Casual Dining,41, Very Good,350000,Jakarta Barat
+ Gelato Secrets, Ice Cream, Dessert Parlour,46, Excellent,130000,Jakarta Pusat
+ Colette  Lola, Desserts, Dessert Parlour,42, Very Good,210000,Jakarta Pusat
+ Sumoboo, Desserts, Dessert Parlour,41, Very Good,180000,Jakarta Pusat
+ Hong Tang, Desserts, Dessert Parlour,40, Very Good,100000,Jakarta Pusat
+ Godiva, Desserts, Dessert Parlour,46, Excellent,120000,Jakarta Pusat
+ La Maison, Desserts, Dessert Parlour,45, Excellent,150000,Jakarta Pusat
+ DORÉ by LeTAO, Desserts, Dessert Parlour,46, Excellent,250000,Jakarta Pusat
+ Sour Sally, Desserts, Dessert Parlour,43, Very Good,100000,Jakarta Pusat
+ llaollao, Ice Cream, Dessert Parlour,42, Very Good,110000,Jakarta Pusat
+ Pipiltin Cocoa, Desserts, Dessert Parlour,42, Very Good,150000,Jakarta Pusat
+ Haagen  Dazs, Desserts, Dessert Parlour,41, Very Good,330000,Jakarta Pusat
+ Krispy Kreme, Bakery, Dessert Parlour,40, Very Good,75000,Jakarta Pusat
+ Dairy Queen, Ice Cream, Dessert Parlour,42, Very Good,80000,Jakarta Pusat
+ Kibo, Desserts, Dessert Parlour,42, Very Good,120000,Jakarta Pusat
+ Sweet Monster, Desserts, Dessert Parlour,41, Very Good,100000,Jakarta Pusat
+ Gaya Gelato, Ice Cream, Dessert Parlour,42, Very Good,80000,Jakarta Pusat
+ Gelato Secrets, Ice Cream, Dessert Parlour,40, Very Good,130000,Jakarta Pusat
+ Cold Stone Creamery, Ice Cream, Dessert Parlour,40, Very Good,110000,Jakarta Pusat
+ Sop Duren 88, Desserts, Dessert Parlour,36, Good,50000,Jakarta Pusat
+ The Harvest, Desserts, Dessert Parlour,36, Good,100000,Jakarta Pusat
+ First Love Patisserie, Desserts, Dessert Parlour,39, Good,70000,Jakarta Pusat
+ aROMA Gelato Experience, Desserts, Dessert Parlour,42, Very Good,95000,Jakarta Pusat
+ Gourmet  Hotel Borobudur, Cafe, Dessert Parlour,37, Good,120000,Jakarta Pusat
+ Cold Stone Creamery, Ice Cream, Dessert Parlour,37, Good,110000,Jakarta Pusat
+ AH Resto Cafe, American, Dessert Parlour,34, Average,120000,Jakarta Pusat
+ 21 Factory, Coffee, Dessert Parlour,36, Good,100000,Jakarta Pusat
+ Sour Sally, Desserts, Dessert Parlour,38, Good,100000,Jakarta Pusat
+ Baltic Ice Cream, Desserts, Dessert Parlour,40, Very Good,60000,Jakarta Pusat
+ Blueberry Pancake House  Hotel Cipta, Western, Dessert Parlour,34, Average,180000,Jakarta Pusat
+ Maquis, Desserts, Dessert Parlour,36, Good,75000,Jakarta Pusat
+ Krispy Kreme, Bakery, Dessert Parlour,37, Good,100000,Jakarta Pusat
+ Pipiltin Cocoa, Desserts, Dessert Parlour,36, Good,100000,Jakarta Pusat
+ Nadine Wibowo Pie Pisang, Desserts, Dessert Parlour,37, Good,90000,Jakarta Pusat
+ Puyo Silky Desserts, Desserts, Dessert Parlour,37, Good,40000,Jakarta Pusat
+ The Harvest, Desserts, Dessert Parlour,26, Average,100000,Jakarta Pusat
+ Maquis, Desserts, Dessert Parlour,37, Good,75000,Jakarta Pusat
+ The Harvest, Desserts, Dessert Parlour,33, Average,100000,Jakarta Pusat
+ Baskin Robbins, Ice Cream, Dessert Parlour,35, Good,130000,Jakarta Pusat
+ Tjanang Ice Cream, Ice Cream, Dessert Parlour,33, Biasa,50000,Jakarta Pusat
+ Dorayaki Addict by Shokupan, Desserts, Dessert Parlour,33, Average,90000,Jakarta Pusat
+ Fat Bubble, Desserts, Dessert Parlour,37, Good,150000,Jakarta Timur
+ Sop Duren Addict, Desserts, Dessert Parlour,35, Good,60000,Jakarta Timur
+ Chezini, Bakery, Dessert Parlour,36, Good,100000,Jakarta Timur
+ AEON Ice Cream, Ice Cream, Dessert Parlour,37, Good,50000,Jakarta Timur
+ Rumah Durian Harum, Desserts, Dessert Parlour,35, Good,60000,Jakarta Timur
+ Puyo Silky Desserts, Desserts, Dessert Parlour,38, Baik,40000,Jakarta Timur
+ Krispy Kreme, Bakery, Dessert Parlour,33, Average,75000,Jakarta Timur
+ The Harvest, Desserts, Dessert Parlour,33, Average,100000,Jakarta Timur
+ Puyo Silky Desserts, Desserts, Dessert Parlour,34, Biasa,40000,Jakarta Timur
+ Cold Stone Creamery, Ice Cream, Dessert Parlour,34, Average,110000,Jakarta Timur
+ D Crepes, Desserts, Dessert Parlour,32, Biasa,50000,Jakarta Timur
+ The Dorcas, Desserts, Dessert Parlour,34, Average,60000,Jakarta Timur
+ Serabi Solo Aroma, Desserts, Dessert Parlour,31, Average,50000,Jakarta Timur
+ Sakura Juice Bar, Beverages, Dessert Parlour,31, Average,80000,Jakarta Timur
+ Baskin Robbins, Ice Cream, Dessert Parlour,33, Average,130000,Jakarta Timur
+ Ice Hill, Desserts, Dessert Parlour,32, Average,85000,Jakarta Timur
+ Super Slice, Desserts, Dessert Parlour,32, Average,50000,Jakarta Timur
+ Puyo Silky Desserts, Desserts, Dessert Parlour,34, Biasa,40000,Jakarta Timur
+ Baskin Robbins, Ice Cream, Dessert Parlour,33, Average,130000,Jakarta Timur
+ D Crepes, Desserts, Dessert Parlour,0, Not rated,50000,Jakarta Timur
+ Dairy Queen, Ice Cream, Dessert Parlour,32, Average,80000,Jakarta Timur
+ Baskin Robbins, Ice Cream, Dessert Parlour,0, Not rated,130000,Jakarta Timur
+ Baskin Robbins, Ice Cream, Dessert Parlour,0, Not rated,130000,Jakarta Timur
+ Ice Cream Gentong, Ice Cream, Dessert Parlour,31, Average,60000,Jakarta Timur
+ Puyo Silky Desserts, Desserts, Dessert Parlour,0, Belum ada penilaian,40000,Jakarta Timur
+ Donut Berry, Desserts, Dessert Parlour,31, Average,70000,Jakarta Timur
+ McDonalds Ice Cream, Desserts, Dessert Parlour,0, Not rated,30000,Jakarta Timur
+ Yole, Desserts, Dessert Parlour,0, Not rated,100000,Jakarta Timur
+ Kaiso, Desserts, Dessert Parlour,0, Not rated,70000,Jakarta Timur
+ Baskin Robbins, Ice Cream, Dessert Parlour,0, Not rated,130000,Jakarta Timur
+ Kedai Panglima, Desserts, Dessert Parlour,0, Not rated,80000,Jakarta Timur
+ Mrs Waffles, Desserts, Dessert Parlour,0, Not rated,50000,Jakarta Timur
+ Ichigo Crepes, Desserts, Dessert Parlour,0, Not rated,40000,Jakarta Timur
+ Baskin Robbins, Ice Cream, Dessert Parlour,0, Not rated,130000,Jakarta Timur
+ The Gorpiz, Desserts, Dessert Parlour,0, Not rated,70000,Jakarta Timur
+ Pisang Nugget Markotop, Desserts, Dessert Parlour,0, Not rated,50000,Jakarta Timur
+ Gelato Bon Bon, Ice Cream, Dessert Parlour,0, Not rated,70000,Jakarta Timur
+ Eggo Waffle, Desserts, Dessert Parlour,0, Not rated,60000,Jakarta Timur
+ McDonalds Ice Cream, Desserts, Dessert Parlour,0, Not rated,30000,Jakarta Timur
+ McDonalds Ice Cream, Desserts, Dessert Parlour,0, Not rated,30000,Jakarta Timur
+ Sumoboo, Desserts, Dessert Parlour,41, Very Good,180000,Jakarta Utara
+ Sweet Hut, Desserts, Dessert Parlour,40, Sangat Baik,150000,Jakarta Utara
+ Sumoboo, Desserts, Dessert Parlour,38, Good,180000,Jakarta Utara
+ Hong Tang, Desserts, Dessert Parlour,38, Good,100000,Jakarta Utara
+ Gaya Gelato, Ice Cream, Dessert Parlour,43, Sangat Baik,80000,Jakarta Utara
+ Banainai, Desserts, Dessert Parlour,43, Very Good,80000,Jakarta Utara
+ Hokkaido Ice Cream Puff, Desserts, Dessert Parlour,42, Very Good,80000,Jakarta Utara
+ North Pole Cafe, Cafe, Dessert Parlour,39, Good,150000,Jakarta Utara
+ Milkbar, Ice Cream, Dessert Parlour,38, Good,100000,Jakarta Utara
+ The Young Dong, Korean, Dessert Parlour,40, Very Good,110000,Jakarta Utara
+ The Harvest, Desserts, Dessert Parlour,40, Very Good,100000,Jakarta Utara
+ Hong Tang, Desserts, Dessert Parlour,39, Good,100000,Jakarta Utara
+ MOONI Artisan Gelato, Ice Cream, Dessert Parlour,40, Very Good,100000,Jakarta Utara
+ il Vero Gelateria, Ice Cream, Dessert Parlour,42, Sangat Baik,70000,Jakarta Utara
+ The Harvest, Desserts, Dessert Parlour,39, Good,100000,Jakarta Utara
+ Hongkong Sheng Kee Dessert, Desserts, Dessert Parlour,38, Good,220000,Jakarta Utara
+ Koiyaki, Desserts, Dessert Parlour,41, Very Good,70000,Jakarta Utara
+ Eggo Waffle, Desserts, Dessert Parlour,38, Good,60000,Jakarta Utara
+ Sour Sally, Desserts, Dessert Parlour,41, Very Good,100000,Jakarta Utara
+ Zangrandi Ice Cream, Ice Cream, Dessert Parlour,39, Good,60000,Jakarta Utara
+ First Love Patisserie, Desserts, Dessert Parlour,41, Very Good,70000,Jakarta Utara
+ Uncle Tetsu, Desserts, Dessert Parlour,41, Very Good,100000,Jakarta Utara
+ Hokkaido Baked Cheese Tart, Desserts, Dessert Parlour,42, Very Good,100000,Jakarta Utara
+ Gaya Gelato, Ice Cream, Dessert Parlour,42, Very Good,80000,Jakarta Utara
+ Sour Sally, Desserts, Dessert Parlour,41, Very Good,100000,Jakarta Utara
+ Puyo Silky Desserts, Desserts, Dessert Parlour,38, Good,40000,Jakarta Utara
+ llaollao, Ice Cream, Dessert Parlour,39, Good,110000,Jakarta Utara
+ Kedai Gentong, Ice Cream, Dessert Parlour,37, Good,100000,Jakarta Utara
+ Sweet Monster, Desserts, Dessert Parlour,38, Good,100000,Jakarta Utara
+ Pablo, Desserts, Dessert Parlour,38, Good,200000,Jakarta Utara
+ Manon Chocolatier  Patissier, Desserts, Dessert Parlour,37, Good,120000,Jakarta Utara
+ Hokkaido Ice Cream Puff, Desserts, Dessert Parlour,40, Very Good,80000,Jakarta Utara
+ MOIVEL, Desserts, Dessert Parlour,39, Good,60000,Jakarta Utara
+ Pesca Ice Cream Cakes, Ice Cream, Dessert Parlour,39, Good,150000,Jakarta Utara
+ Humble, Desserts, Dessert Parlour,39, Good,120000,Jakarta Utara
+ Haagen  Dazs, Desserts, Dessert Parlour,41, Very Good,330000,Jakarta Utara
+ Alberto Gelato  Patisserie, Ice Cream, Dessert Parlour,39, Good,150000,Jakarta Utara
+ Paletas Wey, Ice Cream, Dessert Parlour,39, Good,70000,Jakarta Utara
+ Krispy Kreme, Bakery, Dessert Parlour,38, Good,75000,Jakarta Utara
+ Cold Stone Creamery, Ice Cream, Dessert Parlour,38, Good,110000,Jakarta Utara
+ Fat Bubble, Desserts, Dessert Parlour,41, Very Good,150000,Jakarta Selatan
+ Colette  Lola, Desserts, Dessert Parlour,41, Very Good,210000,Jakarta Selatan
+ Sumoboo, Desserts, Dessert Parlour,41, Very Good,180000,Jakarta Selatan
+ Shirokuma Cafe, Desserts, Dessert Parlour,40, Sangat Baik,200000,Jakarta Selatan
+ Pablo, Desserts, Dessert Parlour,36, Good,200000,Jakarta Selatan
+ GROM, Ice Cream, Dessert Parlour,46, Excellent,110000,Jakarta Selatan
+ Brown Fox Waffle  Coffee, Cafe, Dessert Parlour,42, Very Good,200000,Jakarta Selatan
+ Roti Bakar Kemang, Desserts, Dessert Parlour,39, Good,70000,Jakarta Selatan
+ Bing Go, Korean, Dessert Parlour,38, Good,150000,Jakarta Selatan
+ il Vero Gelateria, Ice Cream, Dessert Parlour,46, Excellent,70000,Jakarta Selatan
+ Hokkaido Baked Cheese Tart, Desserts, Dessert Parlour,46, Excellent,100000,Jakarta Selatan
+ Cold Moo, Desserts, Dessert Parlour,46, Excellent,80000,Jakarta Selatan
+ Island Creamery, Desserts, Dessert Parlour,39, Good,150000,Jakarta Selatan
+ Hong Tang, Desserts, Dessert Parlour,40, Very Good,100000,Jakarta Selatan
+ Cake Lab, Cafe, Dessert Parlour,41, Very Good,120000,Jakarta Selatan
+ North Pole Cafe, Cafe, Dessert Parlour,41, Very Good,150000,Jakarta Selatan
+ llaollao, Ice Cream, Dessert Parlour,42, Very Good,110000,Jakarta Selatan
+ aROMA Gelato Experience, Desserts, Dessert Parlour,44, Sangat Baik,95000,Jakarta Selatan
+ The Harvest, Desserts, Dessert Parlour,41, Very Good,100000,Jakarta Selatan
+ Gelato Secrets, Ice Cream, Dessert Parlour,45, Excellent,130000,Jakarta Selatan
+ Hokkaido Baked Cheese Tart, Desserts, Dessert Parlour,44, Very Good,100000,Jakarta Selatan
+ GROM, Ice Cream, Dessert Parlour,45, Excellent,110000,Jakarta Selatan
+ Alphabeth Gelato, Coffee, Dessert Parlour,41, Very Good,110000,Jakarta Selatan
+ Puyo Silky Desserts, Desserts, Dessert Parlour,41, Very Good,40000,Jakarta Selatan
+ Cold Stone Creamery, Ice Cream, Dessert Parlour,41, Very Good,110000,Jakarta Selatan
+ Hokkaido Baby, Bakery, Dessert Parlour,42, Very Good,50000,Jakarta Selatan
+ Haagen  Dazs, Desserts, Dessert Parlour,42, Very Good,330000,Jakarta Selatan
+ GROM, Ice Cream, Dessert Parlour,45, Excellent,110000,Jakarta Selatan
+ betterCHOCOlatethannever, Desserts, Dessert Parlour,45, Excellent,100000,Jakarta Selatan
+ Anns Bakehouse, Desserts, Dessert Parlour,44, Very Good,100000,Jakarta Selatan
+ Uncle Tetsu, Desserts, Dessert Parlour,41, Very Good,100000,Jakarta Selatan
+ Puyo Silky Desserts, Desserts, Dessert Parlour,41, Sangat Baik,40000,Jakarta Selatan
+ Ziato Artisan Gelato, Desserts, Dessert Parlour,43, Very Good,150000,Jakarta Selatan
+ Pooki Bbang, Desserts, Dessert Parlour,41, Very Good,50000,Jakarta Selatan
+ Sour Sally, Desserts, Dessert Parlour,42, Very Good,100000,Jakarta Selatan
+ Haagen  Dazs, Desserts, Dessert Parlour,40, Very Good,330000,Jakarta Selatan
+ GB Bistro  Dessert, Desserts, Dessert Parlour,40, Very Good,400000,Jakarta Selatan
+ Fat Bubble, Desserts, Dessert Parlour,39, Good,120000,Jakarta Selatan
+ Hong Tang, Desserts, Dessert Parlour,39, Good,100000,Jakarta Barat
+ Sumoboo, Desserts, Dessert Parlour,40, Very Good,180000,Jakarta Barat
+ llaollao, Ice Cream, Dessert Parlour,44, Very Good,110000,Jakarta Barat
+ Sumoboo, Desserts, Dessert Parlour,40, Sangat Baik,180000,Jakarta Barat
+ Patbingsoo Korean Dessert House, Korean, Dessert Parlour,40, Very Good,200000,Jakarta Barat
+ Uncle Tetsu, Desserts, Dessert Parlour,43, Very Good,100000,Jakarta Barat
+ Bing Go, Korean, Dessert Parlour,23, Poor,150000,Jakarta Barat
+ Colette  Lola, Desserts, Dessert Parlour,41, Very Good,210000,Jakarta Barat
+ Pablo, Desserts, Dessert Parlour,38, Good,200000,Jakarta Barat
+ Pooki Bbang, Desserts, Dessert Parlour,42, Very Good,50000,Jakarta Barat
+ St Marc Cafe, Cafe, Dessert Parlour,40, Very Good,120000,Jakarta Barat
+ Sour Sally, Desserts, Dessert Parlour,43, Very Good,100000,Jakarta Barat
+ Revel Cafe, Indonesian, Dessert Parlour,38, Good,150000,Jakarta Barat
+ Hongkong Sheng Kee Dessert, Desserts, Dessert Parlour,40, Very Good,220000,Jakarta Barat
+ The Harvest, Desserts, Dessert Parlour,39, Baik,100000,Jakarta Barat
+ Saychiizu  Hokkaido Cheese Toast, Desserts, Dessert Parlour,39, Good,80000,Jakarta Barat
+ Sour Sally, Desserts, Dessert Parlour,41, Very Good,100000,Jakarta Barat
+ Pondol  Pondok Es Cendol, Jawa, Dessert Parlour,40, Very Good,120000,Jakarta Barat
+ Pesca Ice Cream Cakes, Ice Cream, Dessert Parlour,40, Very Good,150000,Jakarta Barat
+ Haagen  Dazs, Desserts, Dessert Parlour,39, Good,330000,Jakarta Barat
+ Sumoboo, Desserts, Dessert Parlour,37, Good,180000,Jakarta Barat
+ The Harvest, Desserts, Dessert Parlour,37, Good,100000,Jakarta Barat
+ Hokkaido Ice Cream Puff, Desserts, Dessert Parlour,41, Very Good,80000,Jakarta Barat
+ Koiyaki, Desserts, Dessert Parlour,40, Very Good,70000,Jakarta Barat
+ Paletas Wey, Ice Cream, Dessert Parlour,40, Very Good,70000,Jakarta Barat
+ Vilo Gelato, Ice Cream, Dessert Parlour,40, Very Good,50000,Jakarta Barat
+ Haagen  Dazs, Desserts, Dessert Parlour,40, Very Good,330000,Jakarta Barat
+ Hokkaido Baked Cheese Tart, Desserts, Dessert Parlour,41, Very Good,100000,Jakarta Barat
+ Honey Lane, Beverages, Dessert Parlour,41, Very Good,80000,Jakarta Barat
+ Cold Stone Creamery, Ice Cream, Dessert Parlour,38, Good,110000,Jakarta Barat
+ Puyo Silky Desserts, Desserts, Dessert Parlour,39, Good,40000,Jakarta Barat
+ La Maison, Desserts, Dessert Parlour,39, Good,150000,Jakarta Barat
+ Dairy Queen, Ice Cream, Dessert Parlour,39, Good,80000,Jakarta Barat
+ DORÃ by LeTAO, Desserts, Dessert Parlour,40, Very Good,250000,Jakarta Barat
+ Maquis, Desserts, Dessert Parlour,40, Very Good,75000,Jakarta Barat
+ Puyo Silky Desserts, Desserts, Dessert Parlour,38, Good,40000,Jakarta Barat
+ Yole, Desserts, Dessert Parlour,38, Good,100000,Jakarta Barat
+ Paletas Wey, Ice Cream, Dessert Parlour,41, Very Good,70000,Jakarta Barat
+ Sour Sally, Desserts, Dessert Parlour,40, Sangat Baik,100000,Jakarta Barat
+ St Marc Cafe, Cafe, Dessert Parlour,41, Very Good,120000,Jakarta Selatan
+ Krispy Kreme, Bakery, Dessert Parlour,39, Good,75000,Jakarta Barat
+ Cocobeet, Healthy Food, Dessert Parlour,41, Very Good,200000,Jakarta Selatan
+ Martabakku Menteng, Street Food, Food Court,43, Very Good,100000,Jakarta Pusat
+ Miting Lobster, Seafood, Food Court,20, Poor,80000,Jakarta Pusat
+ The Halal Guys, Middle Eastern, Food Court,41, Very Good,200000,Jakarta Pusat
+ Golden Lamian, Bakmi, Food Court,41, Very Good,140000,Jakarta Pusat
+ Mie Tarik Laiker, Peranakan, Food Court,38, Good,120000,Jakarta Pusat
+ Hot Star, Fast Food, Food Court,39, Good,100000,Jakarta Pusat
+ Negiya Express, Japanese, Food Court,39, Good,120000,Jakarta Pusat
+ Dabelyuw, American, Food Court,39, Good,100000,Jakarta Pusat
+ Yoshinoya, Japanese, Food Court,37, Good,100000,Jakarta Pusat
+ MrPark, Korean, Food Court,27, Average,150000,Jakarta Pusat
+ Patbingsoo Korean Dessert House, Korean, Food Court,36, Good,200000,Jakarta Pusat
+ A Fung Baso Sapi Asli, Bakso, Food Court,39, Good,130000,Jakarta Pusat
+ My Pho, Vietnamese, Food Court,37, Good,150000,Jakarta Pusat
+ KFC, Fast Food, Food Court,40, Very Good,100000,Jakarta Pusat
+ Martabakku Menteng, Street Food, Food Court,39, Good,100000,Jakarta Pusat
+ Go Katsu, Japanese, Food Court,39, Good,80000,Jakarta Pusat
+ Doner Kebab, Kebab, Food Court,38, Good,80000,Jakarta Pusat
+ Sari Ratu, Padang, Food Court,37, Good,80000,Jakarta Pusat
+ Kin No Torikara, Street Food, Food Court,36, Good,120000,Jakarta Pusat
+ Nasi Uduk Kebon Kacang, Betawi, Food Court,37, Good,80000,Jakarta Pusat
+ Sophie Authentique, French, Food Court,39, Good,170000,Jakarta Pusat
+ Fish  Co, Seafood, Food Court,38, Good,330000,Jakarta Pusat
+ Warung Genjing, Indonesian, Food Court,29, Average,80000,Jakarta Pusat
+ Java Kitchen Express, Jawa, Food Court,28, Average,160000,Jakarta Pusat
+ PIG Me Up, Chinese, Food Court,37, Good,100000,Jakarta Pusat
+ Harum Segar, Chinese, Food Court,38, Good,100000,Jakarta Pusat
+ Pok Chop 18, Indonesian, Food Court,36, Good,100000,Jakarta Pusat
+ Jia Jia, Singaporean, Food Court,36, Good,100000,Jakarta Pusat
+ Bakmi Harum 88, Bakmi, Food Court,36, Good,90000,Jakarta Pusat
+ Seoul Street, Korean, Food Court,33, Average,100000,Jakarta Pusat
+ Sugakiya, Ramen, Food Court,36, Good,100000,Jakarta Pusat
+ Nasi Goreng Diplomat, Indonesian, Food Court,29, Average,70000,Jakarta Pusat
+ Bakmi Randa, Bakmi, Food Court,37, Good,80000,Jakarta Pusat
+ Mister Baso, Bakso, Food Court,26, Average,100000,Jakarta Pusat
+ Rice Walk, Asian, Food Court,35, Good,240000,Jakarta Pusat
+ Pondok Suryo Begor, Jawa, Food Court,37, Good,100000,Jakarta Pusat
+ Martabakku Menteng, Street Food, Food Court,36, Good,100000,Jakarta Pusat
+ D Crepes, Desserts, Food Court,37, Good,50000,Jakarta Pusat
+ Chatime, Bubble Tea, Food Court,36, Good,60000,Jakarta Pusat
+ Salty Sam, Asian, Food Court,36, Good,120000,Jakarta Pusat
+ Ayam Talari, Indonesian, Food Court,36, Good,80000,Jakarta Timur
+ Bakso Pukul Kota Malang, Bakso, Food Court,35, Good,45000,Jakarta Timur
+ Shigeru, Sushi, Food Court,29, Average,100000,Jakarta Timur
+ Bebek Dower, Jawa, Food Court,33, Average,135000,Jakarta Timur
+ Kwetiau 28 Aho, Chinese, Food Court,33, Average,90000,Jakarta Timur
+ Ayam Bakar Taliwang, Jawa, Food Court,34, Average,80000,Jakarta Timur
+ Cakwe Galaxy, Street Food, Food Court,35, Good,35000,Jakarta Timur
+ Coffee  Chat, Indonesian, Food Court,30, Average,100000,Jakarta Timur
+ Ayam Geprek Katineung, Indonesian, Food Court,31, Average,50000,Jakarta Timur
+ Bumbu Penyetz, Jawa, Food Court,28, Average,110000,Jakarta Timur
+ Bakmi Ayam Alok, Bakmi, Food Court,34, Average,80000,Jakarta Timur
+ HokBen, Fast Food, Food Court,29, Average,150000,Jakarta Timur
+ Al Dente, Italian, Food Court,34, Average,250000,Jakarta Timur
+ Soto Ambengan Pak Sadi, Soto, Food Court,30, Average,50000,Jakarta Timur
+ Tour Beans Coffee, Coffee, Food Court,0, Not rated,50000,Jakarta Timur
+ UPTOWN, Indonesian, Food Court,0, Not rated,150000,Jakarta Timur
+ Dapoer Qita, Indonesian, Food Court,0, Not rated,80000,Jakarta Timur
+ Soto Betawi H Mamat, Soto, Food Court,30, Average,70000,Jakarta Timur
+ Syahnas Fresh Juice, Jawa, Food Court,33, Average,80000,Jakarta Timur
+ CFC, Fast Food, Food Court,30, Average,100000,Jakarta Timur
+ Sop Kaki Kambing Dudung Roxy, Betawi, Food Court,29, Average,150000,Jakarta Timur
+ Osuki, Fast Food, Food Court,31, Average,70000,Jakarta Timur
+ Pastalicious, Italian, Food Court,28, Average,120000,Jakarta Timur
+ Refueling Station by Kopi Oey, Coffee, Food Court,0, Not rated,150000,Jakarta Timur
+ Soto Kaki Sapi Pak Udin, Soto, Food Court,0, Not rated,170000,Jakarta Timur
+ McDonalds Ice Cream, Desserts, Food Court,34, Average,30000,Jakarta Timur
+ Kwetiau Sapi, Chinese, Food Court,29, Average,80000,Jakarta Timur
+ Cheeky Monkey, Chinese, Food Court,0, Not rated,120000,Jakarta Timur
+ Sate Kambing H Giyo, Satay, Food Court,31, Average,65000,Jakarta Timur
+ The Holy Burger, Burger, Food Court,0, Not rated,70000,Jakarta Timur
+ Bakso Ajo, Bakso, Food Court,33, Average,40000,Jakarta Timur
+ Rujak Kolam Medan, Indonesian, Food Court,30, Average,70000,Jakarta Timur
+ Ayam Bakar Taliwang, Balinese, Food Court,30, Average,80000,Jakarta Timur
+ CFC, Fast Food, Food Court,0, Not rated,100000,Jakarta Timur
+ Sate Kuah Soto Tangkar Galaxy, Soto, Food Court,0, Not rated,100000,Jakarta Timur
+ CFC, Fast Food, Food Court,0, Not rated,100000,Jakarta Timur
+ Pempek Merdeka, Palembang, Food Court,29, Average,100000,Jakarta Timur
+ Singgahpai di Sambal Cobek, Sumatera, Food Court,31, Average,70000,Jakarta Timur
+ Mr Durian, Desserts, Food Court,0, Not rated,50000,Jakarta Timur
+ Bebek Kanoman, Indonesian, Food Court,0, Not rated,60000,Jakarta Timur
+ Kibo, Desserts, Food Court,45, Excellent,120000,Jakarta Utara
+ Pepper Lunch, Japanese, Food Court,41, Very Good,200000,Jakarta Utara
+ Hanako Sushi, Sushi, Food Court,40, Very Good,200000,Jakarta Utara
+ YamMie Hotplate, Asian, Food Court,39, Good,75000,Jakarta Utara
+ Koi Teppanyaki, Japanese, Food Court,39, Good,120000,Jakarta Utara
+ Negiya Express, Japanese, Food Court,39, Good,200000,Jakarta Utara
+ Bamboo Dimsum, Chinese, Food Court,22, Poor,100000,Jakarta Utara
+ Yoshinoya, Japanese, Food Court,40, Very Good,100000,Jakarta Utara
+ Dairy Queen, Ice Cream, Food Court,39, Good,80000,Jakarta Utara
+ Shihlin, Street Food, Food Court,39, Good,90000,Jakarta Utara
+ Hashi, Japanese, Food Court,40, Very Good,90000,Jakarta Utara
+ Born Ga Express, Korean, Food Court,37, Good,130000,Jakarta Utara
+ Mie Tarik Laiker, Peranakan, Food Court,37, Good,120000,Jakarta Utara
+ Hokkaido Ice Cream Puff, Desserts, Food Court,40, Very Good,80000,Jakarta Utara
+ Mister Donut, Bakery, Food Court,38, Good,60000,Jakarta Utara
+ Wakacao, Asian, Food Court,39, Good,100000,Jakarta Utara
+ KoFei, Japanese, Food Court,37, Good,60000,Jakarta Utara
+ Martabak Bruno, Desserts, Food Court,39, Good,120000,Jakarta Utara
+ Yoshinoya, Japanese, Food Court,39, Good,100000,Jakarta Utara
+ Porky Brothers, Asian, Food Court,41, Very Good,100000,Jakarta Utara
+ Hoghock, Asian, Food Court,42, Very Good,150000,Jakarta Utara
+ Bakso Akiaw 99, Chinese, Food Court,39, Good,120000,Jakarta Utara
+ Tamani Express, Jawa, Food Court,38, Good,200000,Jakarta Utara
+ Pepper Lunch Express, Japanese, Food Court,37, Good,200000,Jakarta Utara
+ Mie Tarik Laiker, Peranakan, Food Court,37, Good,120000,Jakarta Utara
+ Taiyaki Patisserie, Desserts, Food Court,37, Good,60000,Jakarta Utara
+ LaXiang Resto, Chinese, Food Court,40, Very Good,100000,Jakarta Utara
+ Bakmi Ayam Alok, Bakmi, Food Court,38, Good,100000,Jakarta Utara
+ Tetangga Sebelah, Beverages, Food Court,39, Good,40000,Jakarta Utara
+ Meog Da Korean BBQ, Korean, Food Court,38, Good,250000,Jakarta Utara
+ Sate Mak Syukur, Satay, Food Court,38, Good,70000,Jakarta Utara
+ Fiesta Steak, Steak, Food Court,26, Average,250000,Jakarta Utara
+ Bakmi Naga, Bakmi, Food Court,28, Average,150000,Jakarta Utara
+ My Sweet Bun, Desserts, Food Court,37, Good,60000,Jakarta Utara
+ Seoul, Korean, Food Court,41, Very Good,50000,Jakarta Utara
+ Doner Kebab, Kebab, Food Court,36, Good,80000,Jakarta Utara
+ PIG Me Up, Chinese, Food Court,39, Good,100000,Jakarta Utara
+ YolkBelly, Singaporean, Food Court,36, Good,100000,Jakarta Utara
+ Rujak Kolam Medan, Medan, Food Court,39, Good,80000,Jakarta Utara
+ KFC, Fast Food, Food Court,36, Good,100000,Jakarta Utara
+ Drinks by Food Fighters, Beverages, Food Court,36, Good,70000,Jakarta Selatan
+ Pepper Lunch Express, Japanese, Food Court,40, Very Good,200000,Jakarta Selatan
+ Yoshinoya, Japanese, Food Court,41, Very Good,100000,Jakarta Selatan
+ Sugakiya, Ramen, Food Court,41, Very Good,100000,Jakarta Selatan
+ Bakso Kumis, Bakso, Food Court,40, Very Good,70000,Jakarta Selatan
+ Flip Burger, Burger, Food Court,42, Very Good,120000,Jakarta Selatan
+ Born Ga Express, Korean, Food Court,39, Good,130000,Jakarta Selatan
+ Madame Mai, Vietnamese, Food Court,40, Very Good,120000,Jakarta Selatan
+ Hot Star, Fast Food, Food Court,37, Good,100000,Jakarta Selatan
+ Golden Lamian, Bakmi, Food Court,40, Very Good,140000,Jakarta Selatan
+ Wingstop, Fast Food, Food Court,41, Very Good,120000,Jakarta Selatan
+ Kobeshi Kitchen, Japanese, Food Court,41, Very Good,120000,Jakarta Selatan
+ Meimo Masakan Manado, Manado, Food Court,41, Very Good,100000,Jakarta Selatan
+ YamMie Hotplate, Bakmi, Food Court,38, Good,75000,Jakarta Selatan
+ Golden Lamian, Bakmi, Food Court,40, Very Good,140000,Jakarta Selatan
+ Ichiban Sushi, Japanese, Food Court,36, Good,150000,Jakarta Selatan
+ KKitchen, Korean, Food Court,38, Good,150000,Jakarta Selatan
+ Mie Tarik Laiker, Peranakan, Food Court,38, Good,120000,Jakarta Selatan
+ Bakmi GM, Bakmi, Food Court,40, Very Good,125000,Jakarta Selatan
+ Gong Kitchen, Japanese, Food Court,35, Good,150000,Jakarta Selatan
+ Dapur MTW, Indonesian, Food Court,39, Good,90000,Jakarta Selatan
+ Pizza Milano, Pizza, Food Court,38, Good,100000,Jakarta Selatan
+ Saint Cinnamon  Coffee, Bakery, Food Court,41, Very Good,70000,Jakarta Selatan
+ Sate Padang Ajo Ramon, Satay, Food Court,38, Good,80000,Jakarta Selatan
+ Yoshinoya, Japanese, Food Court,37, Good,100000,Jakarta Selatan
+ Go Mango, Desserts, Food Court,39, Good,50000,Jakarta Selatan
+ Nasi Kambing Abah Condet, Betawi, Food Court,38, Good,80000,Jakarta Selatan
+ Cold Stone Creamery, Ice Cream, Food Court,39, Good,110000,Jakarta Selatan
+ The Real Holysteak, Steak, Food Court,38, Good,220000,Jakarta Selatan
+ Go Katsu, Japanese, Food Court,39, Good,80000,Jakarta Selatan
+ Raffels, American, Food Court,38, Good,120000,Jakarta Selatan
+ Shihlin, Street Food, Food Court,38, Good,90000,Jakarta Selatan
+ Koi Teppanyaki, Japanese, Food Court,36, Good,120000,Jakarta Selatan
+ Richeese Factory, Fast Food, Food Court,37, Good,100000,Jakarta Selatan
+ Coco Ichibanya Curry, Japanese, Food Court,42, Very Good,260000,Jakarta Selatan
+ Dairy Queen, Ice Cream, Food Court,39, Good,150000,Jakarta Selatan
+ Tamani Express, Jawa, Food Court,37, Baik,200000,Jakarta Selatan
+ Salty Sam, Asian, Food Court,40, Very Good,120000,Jakarta Selatan
+ Born Ga Express, Korean, Food Court,38, Good,130000,Jakarta Barat
+ SamWon Express, Korean, Food Court,26, Average,150000,Jakarta Barat
+ Bakmi GM, Bakmi, Food Court,38, Good,125000,Jakarta Barat
+ Holdak Crispy Chicken, Korean, Food Court,35, Good,100000,Jakarta Barat
+ Doner Kebab, Kebab, Food Court,37, Good,80000,Jakarta Barat
+ Kyodong Noodle, Japanese, Food Court,37, Good,200000,Jakarta Barat
+ Dogkyo, Fast Food, Food Court,39, Good,100000,Jakarta Barat
+ Jikasei Sushi  Ricebowl, Sushi, Food Court,34, Average,80000,Jakarta Barat
+ Tempura Tendon Tenya, Japanese, Food Court,37, Good,120000,Jakarta Barat
+ Nasi Campur Putri Kenanga, Chinese, Food Court,25, Average,120000,Jakarta Barat
+ Nasi Cumi Hitam Madura Pak Kris, Indonesian, Food Court,39, Good,100000,Jakarta Barat
+ Hot Star, Fast Food, Food Court,36, Good,100000,Jakarta Barat
+ Soto Kudus Senayan, Jawa, Food Court,24, Poor,70000,Jakarta Barat
+ Fiesta Steak, Steak, Food Court,36, Good,250000,Jakarta Barat
+ Fiesta Steak, Steak, Food Court,33, Average,250000,Jakarta Barat
+ Jianbing Master, Chinese, Food Court,36, Good,60000,Jakarta Barat
+ Yammie Hotplate, Bakmi, Food Court,37, Good,75000,Jakarta Barat
+ Kkuldak, Fast Food, Food Court,38, Good,120000,Jakarta Barat
+ Bebek Kaleyo, Jawa, Food Court,38, Good,100000,Jakarta Barat
+ Limau Rice Bowl, Indonesian, Food Court,37, Good,100000,Jakarta Barat
+ Hachimitsu Udon  Dunbori, Japanese, Food Court,35, Good,80000,Jakarta Barat
+ A Fung Baso Sapi Asli, Bakso, Food Court,38, Good,130000,Jakarta Barat
+ Mie Kangkung  Siomay si Jangkung, Jawa, Food Court,36, Good,60000,Jakarta Barat
+ Tanoshi Sushi, Sushi, Food Court,36, Good,70000,Jakarta Barat
+ Pho 24, Vietnamese, Food Court,34, Average,120000,Jakarta Barat
+ Bebek Mafia, Indonesian, Food Court,37, Good,60000,Jakarta Barat
+ Seroja Baru, Chinese, Food Court,34, Average,120000,Jakarta Barat
+ Martabak Awesome, Martabak, Food Court,34, Average,90000,Jakarta Barat
+ Bakmie Amoy, Bakmi, Food Court,34, Average,80000,Jakarta Barat
+ Kerang Kiloan Pak Rudi, Street Food, Food Court,36, Good,150000,Jakarta Barat
+ Nasi Gurih Aceng, Bakmi, Food Court,36, Good,50000,Jakarta Barat
+ Soto Kito, Soto, Food Court,33, Average,100000,Jakarta Barat
+ A Fung Baso Sapi Asli, Bakso, Food Court,36, Good,130000,Jakarta Barat
+ Cap Go RM 15, Chinese, Food Court,35, Good,110000,Jakarta Barat
+ Wotie Kedoya, Chinese, Food Court,36, Good,30000,Jakarta Barat
+ Waroeng Teh Kotjok, Beverages, Food Court,35, Good,30000,Jakarta Barat
+ A Guan Bubur Ayam Tangki 18, Chinese, Food Court,35, Good,60000,Jakarta Barat
+ Pepper Lunch Express, Japanese, Food Court,35, Good,200000,Jakarta Barat
+ Bakmi Gocit, Bakmi, Food Court,37, Good,80000,Jakarta Barat
+ Endoq, Street Food, Food Court,33, Average,40000,Jakarta Barat
+ YOBE Cheese Tea, Beverages, Food Court,35, Good,60000,Jakarta Selatan
+ Pepper Lunch, Japanese, Food Court,39, Good,200000,Jakarta Selatan
+ D Crepes, Desserts, Kiosk,37, Good,50000,Jakarta Pusat
+ Shihlin, Street Food, Kiosk,33, Average,90000,Jakarta Pusat
+ Taucy, Street Food, Kiosk,35, Good,50000,Jakarta Pusat
+ Choux Cream, Desserts, Kiosk,28, Average,40000,Jakarta Pusat
+ Mochi Mochi, Desserts, Kiosk,29, Average,30000,Jakarta Pusat
+ Sauke, Indonesian, Kiosk,32, Average,80000,Jakarta Pusat
+ Mochi Mochio, Desserts, Kiosk,32, Average,30000,Jakarta Pusat
+ Mochi Mochi, Desserts, Kiosk,34, Average,30000,Jakarta Pusat
+ Mochi Mochi, Desserts, Kiosk,32, Average,30000,Jakarta Pusat
+ Verina Risoles, Street Food, Kiosk,34, Average,20000,Jakarta Pusat
+ Takoyaki Corner, Street Food, Kiosk,0, Not rated,50000,Jakarta Pusat
+ Bobby Bola Ubi, Desserts, Kiosk,33, Average,30000,Jakarta Pusat
+ Uncle Tetsu, Desserts, Kiosk,34, Average,100000,Jakarta Pusat
+ Nae Gimbap, Korean, Kiosk,29, Average,40000,Jakarta Pusat
+ Taucy, Street Food, Kiosk,0, Not rated,50000,Jakarta Pusat
+ Ichiban Crepes, Desserts, Kiosk,30, Average,45000,Jakarta Pusat
+ Mochi Mochi, Desserts, Kiosk,30, Average,30000,Jakarta Pusat
+ Selvy Manisan Jambu Bangkok, Desserts, Kiosk,0, Not rated,50000,Jakarta Pusat
+ Daily Fresh, Street Food, Kiosk,0, Not rated,40000,Jakarta Pusat
+ Mochi Mochi, Desserts, Kiosk,31, Average,30000,Jakarta Pusat
+ Helen Kuotie, Chinese, Kiosk,0, Not rated,40000,Jakarta Pusat
+ Es Sari Salju 899, Desserts, Kiosk,0, Not rated,50000,Jakarta Pusat
+ Hotdog Booth, Fast Food, Kiosk,0, Not rated,50000,Jakarta Pusat
+ Waffelicious, Desserts, Kiosk,0, Not rated,55000,Jakarta Pusat
+ Takoyaki Josho, Street Food, Kiosk,0, Not rated,400000,Jakarta Pusat
+ Hokkaido Legend, Bakery, Kiosk,0, Not rated,50000,Jakarta Pusat
+ Es Sari Salju, Desserts, Kiosk,0, Not rated,50000,Jakarta Pusat
+ Tahu Gila, Street Food, Kiosk,0, Not rated,40000,Jakarta Pusat
+ 7 King Tebu, Drinks Only, Kiosk,0, Not rated,40000,Jakarta Pusat
+ Chicken Popop, Street Food, Kiosk,0, Not rated,50000,Jakarta Pusat
+ Hokkaido Legend, Bakery, Kiosk,0, Not rated,50000,Jakarta Pusat
+ Mochi Mochi, Desserts, Kiosk,0, Not rated,30000,Jakarta Pusat
+ Potato Corner, Fast Food, Kiosk,0, Not rated,50000,Jakarta Pusat
+ Marfel  Martabak Wafel, Desserts, Kiosk,0, Not rated,80000,Jakarta Pusat
+ Orchard Road Ice Cream Singapore, Ice Cream, Kiosk,0, Not rated,50000,Jakarta Pusat
+ Bakso Goreng PIK, Street Food, Kiosk,0, Not rated,50000,Jakarta Pusat
+ Siomay Batagor, Street Food, Kiosk,0, Not rated,50000,Jakarta Pusat
+ Don Pizza, Pizza, Kiosk,0, Not rated,60000,Jakarta Pusat
+ Bom Bon, Desserts, Kiosk,0, Not rated,80000,Jakarta Pusat
+ Offle, Desserts, Kiosk,0, Not rated,60000,Jakarta Pusat
+ Cincau Master, Beverages, Kiosk,32, Average,60000,Jakarta Timur
+ Bagoja, Street Food, Kiosk,34, Average,50000,Jakarta Timur
+ Ramen n Sushi Box, Japanese, Kiosk,32, Average,80000,Jakarta Timur
+ Ramen  Gyoza, Japanese, Kiosk,33, Average,80000,Jakarta Timur
+ Yen Pao, Bakery, Kiosk,32, Average,30000,Jakarta Timur
+ Pop Chop, Taiwanese, Kiosk,0, Not rated,100000,Jakarta Timur
+ Dum Dum Thai Drinks, Beverages, Kiosk,0, Not rated,50000,Jakarta Timur
+ Takoyaki, Japanese, Kiosk,33, Average,30000,Jakarta Timur
+ Chick n Melt, Western, Kiosk,0, Not rated,60000,Jakarta Timur
+ Snack, Snacks, Kiosk,0, Not rated,60000,Jakarta Timur
+ Potato Corner, Fast Food, Kiosk,30, Average,50000,Jakarta Timur
+ Potato Corner, Fast Food, Kiosk,0, Not rated,50000,Jakarta Timur
+ Tako n Sushi Box, Japanese, Kiosk,0, Not rated,80000,Jakarta Timur
+ Takoyaki Corner, Street Food, Kiosk,0, Not rated,50000,Jakarta Timur
+ Siomay Lonjong, Desserts, Kiosk,0, Not rated,50000,Jakarta Timur
+ I Love Crepes, Desserts, Kiosk,30, Average,50000,Jakarta Timur
+ Mochi Mochi, Desserts, Kiosk,0, Not rated,30000,Jakarta Timur
+ Mochi Mochi, Desserts, Kiosk,0, Not rated,30000,Jakarta Timur
+ Coffee, Coffee, Kiosk,0, Not rated,50000,Jakarta Timur
+ Mochi Mochi, Desserts, Kiosk,0, Not rated,30000,Jakarta Timur
+ McDonalds Ice Cream, Desserts, Kiosk,0, Not rated,30000,Jakarta Timur
+ Selvy Manisan Jambu Bangkok, Desserts, Kiosk,0, Not rated,50000,Jakarta Timur
+ Diris Pizza, Pizza, Kiosk,0, Not rated,50000,Jakarta Timur
+ Pop Chop Chicken, Taiwanese, Kiosk,0, Not rated,100000,Jakarta Timur
+ Cocoo Ice Cream, Ice Cream, Kiosk,0, Not rated,60000,Jakarta Timur
+ Ichiban Crepes, Desserts, Kiosk,0, Not rated,45000,Jakarta Timur
+ I Love Crepes, Desserts, Kiosk,0, Not rated,50000,Jakarta Timur
+ Cireng Keraton, Street Food, Kiosk,0, Not rated,20000,Jakarta Timur
+ McDonalds Ice Cream, Desserts, Kiosk,0, Not rated,30000,Jakarta Timur
+ Cendol Sin, Desserts, Kiosk,0, Not rated,40000,Jakarta Timur
+ Tokio Street, Japanese, Kiosk,0, Not rated,60000,Jakarta Timur
+ Daily Fresh, Street Food, Kiosk,0, Not rated,40000,Jakarta Timur
+ Ichigo Crepes, Desserts, Kiosk,0, Not rated,40000,Jakarta Timur
+ Mochi Mochio, Desserts, Kiosk,0, Not rated,30000,Jakarta Timur
+ Smooky Days, Desserts, Kiosk,0, Not rated,50000,Jakarta Timur
+ Waffelicious, Desserts, Kiosk,0, Not rated,55000,Jakarta Timur
+ Cireng Keraton, Street Food, Kiosk,0, Not rated,20000,Jakarta Timur
+ Octopus Takoyaki, Japanese, Kiosk,0, Not rated,50000,Jakarta Timur
+ Hulala Ice Cream Roll, Ice Cream, Kiosk,0, Not rated,50000,Jakarta Timur
+ King Squid, Snacks, Kiosk,0, Not rated,50000,Jakarta Timur
+ Wow Banana, Street Food, Kiosk,34, Average,40000,Jakarta Utara
+ Tetsin Mochi Mochio, Desserts, Kiosk,37, Good,30000,Jakarta Utara
+ Montato, Snacks, Kiosk,33, Average,60000,Jakarta Utara
+ Shihlin, Street Food, Kiosk,34, Average,90000,Jakarta Utara
+ Bobobi, Street Food, Kiosk,35, Good,50000,Jakarta Utara
+ Miss B Kitchen, Street Food, Kiosk,34, Average,50000,Jakarta Utara
+ Pastel Ma Cik, Street Food, Kiosk,30, Average,50000,Jakarta Utara
+ Wowfel, Desserts, Kiosk,31, Average,70000,Jakarta Utara
+ Kopi Janji Jiwa, Coffee, Kiosk,33, Average,80000,Jakarta Utara
+ Mochi Mochi, Desserts, Kiosk,34, Average,30000,Jakarta Utara
+ HejoHejo Tjendol, Desserts, Kiosk,33, Average,60000,Jakarta Utara
+ Mochi Mochi, Desserts, Kiosk,35, Good,30000,Jakarta Utara
+ Selvy Manisan Jambu Bangkok, Desserts, Kiosk,34, Average,50000,Jakarta Utara
+ Muchas Gracias, Mexican, Kiosk,35, Good,100000,Jakarta Utara
+ Ichiban Crepes, Desserts, Kiosk,30, Average,45000,Jakarta Utara
+ Mochi Mochi, Desserts, Kiosk,32, Average,30000,Jakarta Utara
+ Kedai Kopi Kulo, Beverages, Kiosk,30, Average,70000,Jakarta Utara
+ Coco Tree, Beverages, Kiosk,31, Average,70000,Jakarta Utara
+ Pocoyo Waffle, Desserts, Kiosk,32, Biasa,100000,Jakarta Utara
+ Potato Corner, Fast Food, Kiosk,33, Average,50000,Jakarta Utara
+ Tokio Street, Japanese, Kiosk,0, Not rated,60000,Jakarta Utara
+ Royal Eggtart, Desserts, Kiosk,0, Not rated,60000,Jakarta Utara
+ My Sweet Bun, Desserts, Kiosk,0, Not rated,60000,Jakarta Utara
+ Sop Durian King Durian, Desserts, Kiosk,33, Average,70000,Jakarta Utara
+ Ichiban Crepes, Desserts, Kiosk,0, Not rated,45000,Jakarta Utara
+ Selvy Manisan Jambu Bangkok, Desserts, Kiosk,0, Not rated,50000,Jakarta Utara
+ Potato Corner, Snacks, Kiosk,0, Not rated,60000,Jakarta Utara
+ Mochi Mochi, Desserts, Kiosk,0, Not rated,30000,Jakarta Utara
+ Cha Yen Thai, Beverages, Kiosk,0, Not rated,60000,Jakarta Utara
+ Bos Pisang, Desserts, Kiosk,0, Not rated,60000,Jakarta Utara
+ Bread of Kurtos, Bakery, Kiosk,0, Not rated,50000,Jakarta Utara
+ Potato Inc, Street Food, Kiosk,0, Not rated,50000,Jakarta Utara
+ Kopi dan Biapong Nonamanis, Snacks, Kiosk,0, Not rated,40000,Jakarta Utara
+ Hejohejo Kitchen, Desserts, Kiosk,0, Not rated,150000,Jakarta Utara
+ Pong Pong Korean Smooky Snack, Desserts, Kiosk,0, Not rated,70000,Jakarta Utara
+ Jolly Time Popcorn, Desserts, Kiosk,0, Not rated,50000,Jakarta Utara
+ Mochi Mochi, Desserts, Kiosk,0, Not rated,30000,Jakarta Utara
+ Jolly Time Popcorn, Desserts, Kiosk,0, Not rated,50000,Jakarta Utara
+ Nasi Tim Mama, Chinese, Kiosk,0, Not rated,50000,Jakarta Utara
+ Waffelicious, Desserts, Kiosk,0, Not rated,40000,Jakarta Utara
+ D Crepes, Desserts, Kiosk,37, Good,50000,Jakarta Selatan
+ D Crepes, Desserts, Kiosk,33, Average,50000,Jakarta Selatan
+ Ponut Donat Kentang, Desserts, Kiosk,38, Good,40000,Jakarta Selatan
+ D Crepes, Desserts, Kiosk,38, Good,50000,Jakarta Selatan
+ Momoiro, Bakery, Kiosk,34, Average,80000,Jakarta Selatan
+ Salad 368 Sushi, Sushi, Kiosk,35, Good,100000,Jakarta Selatan
+ Mochi Mochi, Desserts, Kiosk,32, Biasa,30000,Jakarta Selatan
+ Takoyaki, Japanese, Kiosk,36, Good,50000,Jakarta Selatan
+ Pisang Goreng Djakarta, Desserts, Kiosk,33, Average,60000,Jakarta Selatan
+ Mochi Mochi, Desserts, Kiosk,35, Good,30000,Jakarta Selatan
+ Mochi Mochi, Desserts, Kiosk,34, Average,30000,Jakarta Selatan
+ D Crepes, Desserts, Kiosk,34, Average,50000,Jakarta Selatan
+ Chix Chix, Fast Food, Kiosk,35, Good,100000,Jakarta Selatan
+ Salad Factor, Healthy Food, Kiosk,34, Average,90000,Jakarta Selatan
+ Mochi Mochi, Desserts, Kiosk,30, Average,30000,Jakarta Selatan
+ D Crepes, Desserts, Kiosk,34, Average,50000,Jakarta Selatan
+ Kebab Turki Baba Rafi, Fast Food, Kiosk,28, Average,60000,Jakarta Selatan
+ Ms DChurros, Desserts, Kiosk,32, Average,60000,Jakarta Selatan
+ Mochi Mochi, Desserts, Kiosk,32, Average,30000,Jakarta Selatan
+ The LITER Indonesia, Beverages, Kiosk,32, Average,60000,Jakarta Selatan
+ Takoyaki Corner, Street Food, Kiosk,32, Average,50000,Jakarta Selatan
+ McDonalds Ice Cream, Desserts, Kiosk,0, Not rated,30000,Jakarta Selatan
+ Baso Menteng, Bakso, Kiosk,29, Average,60000,Jakarta Selatan
+ Mochi Mochi, Desserts, Kiosk,33, Average,30000,Jakarta Selatan
+ Bakpau A Satu, Chinese, Kiosk,0, Not rated,50000,Jakarta Selatan
+ Pom Pom, Desserts, Kiosk,0, Not rated,40000,Jakarta Selatan
+ Nao Kao, Bubble Tea, Kiosk,0, Not rated,60000,Jakarta Selatan
+ Hejo Hejo Kitchen, Indonesian, Kiosk,32, Average,100000,Jakarta Selatan
+ AW Ice Cream, Ice Cream, Kiosk,0, Not rated,100000,Jakarta Selatan
+ Mochi Mochi, Desserts, Kiosk,30, Average,30000,Jakarta Selatan
+ Mochi Mochi, Desserts, Kiosk,0, Not rated,30000,Jakarta Selatan
+ Es Krim Eskimo, Desserts, Kiosk,0, Not rated,50000,Jakarta Selatan
+ Tetsin Mochi Mochio, Desserts, Kiosk,0, Not rated,30000,Jakarta Selatan
+ Chubby Taiwan Street Snacks, Taiwanese, Kiosk,0, Not rated,50000,Jakarta Selatan
+ Ziippy Burger, Burger, Kiosk,0, Not rated,40000,Jakarta Selatan
+ Its My Coffee, Coffee, Kiosk,0, Not rated,60000,Jakarta Selatan
+ Es Sekoteng Wedang Ronde, Desserts, Kiosk,0, Not rated,50000,Jakarta Selatan
+ Ichiban Crepes, Desserts, Kiosk,0, Not rated,45000,Jakarta Selatan
+ Salty Sam, Asian, Kiosk,38, Good,120000,Jakarta Barat
+ Cireng Keraton, Street Food, Kiosk,35, Good,20000,Jakarta Barat
+ Bananugget, Desserts, Kiosk,36, Good,60000,Jakarta Barat
+ Shihlin, Street Food, Kiosk,38, Good,90000,Jakarta Barat
+ Sour Sally, Desserts, Kiosk,34, Average,100000,Jakarta Barat
+ D Crepes, Desserts, Kiosk,34, Average,50000,Jakarta Barat
+ Popotato, Street Food, Kiosk,34, Average,80000,Jakarta Barat
+ Waroeng Teh Kotjok, Beverages, Kiosk,32, Average,30000,Jakarta Barat
+ Mochi Mochio, Desserts, Kiosk,33, Average,30000,Jakarta Barat
+ Hana Kiosk, Snacks, Kiosk,33, Average,80000,Jakarta Barat
+ Shihlin, Street Food, Kiosk,33, Average,90000,Jakarta Barat
+ Pizza Go, Pizza, Kiosk,31, Average,50000,Jakarta Barat
+ Pisang Goreng Djakarta, Street Food, Kiosk,33, Average,60000,Jakarta Barat
+ Roti John Indo, Deli, Kiosk,0, Not rated,60000,Jakarta Barat
+ Waffelicious, Desserts, Kiosk,31, Average,40000,Jakarta Barat
+ Daily Fresh, Street Food, Kiosk,29, Average,40000,Jakarta Barat
+ Cincau Bar, Desserts, Kiosk,0, Not rated,60000,Jakarta Barat
+ Donat Kampung, Desserts, Kiosk,0, Not rated,50000,Jakarta Barat
+ Popotak, Street Food, Kiosk,0, Not rated,35000,Jakarta Barat
+ Mochi Mochio, Desserts, Kiosk,0, Not rated,30000,Jakarta Barat
+ Summer Breeze, Street Food, Kiosk,0, Not rated,50000,Jakarta Barat
+ Fresco, Bakery, Kiosk,0, Not rated,15000,Jakarta Barat
+ Mochi Mochio, Desserts, Kiosk,0, Not rated,30000,Jakarta Barat
+ Mochi Mochi, Desserts, Kiosk,0, Not rated,30000,Jakarta Barat
+ Aneka Es 88, Desserts, Kiosk,0, Not rated,40000,Jakarta Barat
+ Tahu Pelit, Street Food, Kiosk,0, Not rated,60000,Jakarta Barat
+ Waroeng Teh Kotjok, Beverages, Kiosk,0, Not rated,30000,Jakarta Barat
+ Martabak Puas, Desserts, Kiosk,0, Not rated,100000,Jakarta Barat
+ Chick n Street , Street Food, Kiosk,0, Not rated,70000,Jakarta Barat
+ House Stiq, Street Food, Kiosk,0, Not rated,60000,Jakarta Barat
+ Sate Taichan H Yogi, Satay, Kiosk,0, Not rated,70000,Jakarta Barat
+ Dorian, Ice Cream, Kiosk,0, Not rated,50000,Jakarta Barat
+ Lira Delicious Dessert, Desserts, Kiosk,0, Not rated,30000,Jakarta Barat
+ OMG Poteto, Street Food, Kiosk,0, Not rated,60000,Jakarta Barat
+ Dorian, Ice Cream, Kiosk,0, Not rated,50000,Jakarta Barat
+ Waffelicious, Desserts, Kiosk,0, Not rated,80000,Jakarta Barat
+ Mochi Mochi, Desserts, Kiosk,0, Not rated,30000,Jakarta Selatan
+ Potato Ninja, Street Food, Kiosk,0, Not rated,60000,Jakarta Barat
+ Mochi Mochi, Desserts, Kiosk,30, Average,30000,Jakarta Selatan
+ Bebek BKB, Indonesian, Quick Bites,44, Very Good,100000,Jakarta Pusat
+ Goedkoop, Cafe, Quick Bites,42, Very Good,150000,Jakarta Pusat
+ Happy Day, Indonesian, Quick Bites,40, Very Good,120000,Jakarta Pusat
+ Paradigma, Coffee, Quick Bites,40, Very Good,200000,Jakarta Pusat
+ Coco Ichibanya Curry, Japanese, Quick Bites,46, Excellent,260000,Jakarta Pusat
+ Claypot Popo, Chinese, Quick Bites,46, Excellent,100000,Jakarta Pusat
+ Ikkudo Ichi, Ramen, Quick Bites,45, Excellent,180000,Jakarta Pusat
+ Joni Steak, Steak, Quick Bites,40, Very Good,200000,Jakarta Pusat
+ Marugame Udon, Japanese, Quick Bites,44, Very Good,120000,Jakarta Pusat
+ Joni Steak, Steak, Quick Bites,41, Very Good,200000,Jakarta Pusat
+ Warunk Upnormal, Street Food, Quick Bites,25, Average,100000,Jakarta Pusat
+ Tom Sushi, Asian, Quick Bites,44, Very Good,100000,Jakarta Pusat
+ Anomali Coffee, Coffee, Quick Bites,40, Very Good,200000,Jakarta Pusat
+ Kkuldak, Fast Food, Quick Bites,41, Very Good,120000,Jakarta Pusat
+ Pempek Megaria, Palembang, Quick Bites,40, Very Good,70000,Jakarta Pusat
+ Quiznos Sub, Deli, Quick Bites,44, Very Good,150000,Jakarta Pusat
+ Martabak Pecenongan 65A, Street Food, Quick Bites,41, Very Good,120000,Jakarta Pusat
+ Seblak Jeletet Murni, Street Food, Quick Bites,39, Good,40000,Jakarta Pusat
+ Mie Aceh Seulawah, Bakmi, Quick Bites,41, Very Good,75000,Jakarta Pusat
+ Berrywell, Healthy Food, Quick Bites,43, Very Good,150000,Jakarta Pusat
+ Bakmi Aboen, Bakmi, Quick Bites,43, Very Good,70000,Jakarta Pusat
+ Mie Ayam Gondangdia, Bakmi, Quick Bites,39, Good,100000,Jakarta Pusat
+ Bubur Cikini HR Suleman, Street Food, Quick Bites,23, Poor,80000,Jakarta Pusat
+ Yoshinoya, Japanese, Quick Bites,41, Very Good,100000,Jakarta Pusat
+ Medan Baru, Medan, Quick Bites,44, Sangat Baik,80000,Jakarta Pusat
+ Saudagar Kopi, Coffee, Quick Bites,42, Very Good,130000,Jakarta Pusat
+ Bakso Rusuk Samanhudi, Bakso, Quick Bites,44, Very Good,80000,Jakarta Pusat
+ Dope Burger  Co, Burger, Quick Bites,41, Very Good,250000,Jakarta Pusat
+ Bakmi Gang Kelinci, Bakmi, Quick Bites,37, Good,130000,Jakarta Pusat
+ Waroeng Mee, Indonesian, Quick Bites,28, Average,90000,Jakarta Pusat
+ Iceberg  Gelato  Pizza, Coffee, Quick Bites,39, Good,200000,Jakarta Pusat
+ Giggle Box Cafe  Resto, Indonesian, Quick Bites,40, Very Good,100000,Jakarta Pusat
+ Ikan Bakar Cianjur, Sunda, Quick Bites,43, Very Good,200000,Jakarta Pusat
+ Bopet Mini, Padang, Quick Bites,42, Very Good,80000,Jakarta Pusat
+ Restoran Trio, Chinese, Quick Bites,41, Very Good,350000,Jakarta Pusat
+ Pelangi, Makassar, Quick Bites,41, Very Good,200000,Jakarta Pusat
+ SaladStop, Healthy Food, Quick Bites,46, Excellent,250000,Jakarta Pusat
+ Richeese Factory, Fast Food, Quick Bites,38, Good,100000,Jakarta Pusat
+ Work Room Coffee, Coffee, Quick Bites,38, Good,180000,Jakarta Pusat
+ Bakmi GM, Bakmi, Quick Bites,41, Very Good,125000,Jakarta Pusat
+ NoMiNoMi Delight, Street Food, Quick Bites,40, Very Good,120000,Jakarta Timur
+ Martabak Favourite Rawamangun, Street Food, Quick Bites,46, Excellent,80000,Jakarta Timur
+ Soerabi Enhaii Bandung, Sunda, Quick Bites,36, Good,100000,Jakarta Timur
+ Bakso Boedjangan, Bakso, Quick Bites,37, Good,100000,Jakarta Timur
+ Umaku, Japanese, Quick Bites,43, Very Good,140000,Jakarta Timur
+ Ayam Kriwil, Indonesian, Quick Bites,39, Good,120000,Jakarta Timur
+ Bamboo Dimsum, Chinese, Quick Bites,20, Poor,120000,Jakarta Timur
+ Mie Time, Bakmi, Quick Bites,41, Very Good,70000,Jakarta Timur
+ Ropisbak Ghifari, Street Food, Quick Bites,27, Average,80000,Jakarta Timur
+ Ajwad, Arabian, Quick Bites,42, Very Good,185000,Jakarta Timur
+ Bakmi Golek, Bakmi, Quick Bites,41, Very Good,120000,Jakarta Timur
+ Bakmi Golek, Bakmi, Quick Bites,39, Good,120000,Jakarta Timur
+ Sate Kambing H Giyo, Satay, Quick Bites,39, Good,65000,Jakarta Timur
+ Bakmi Golek, Bakmi, Quick Bites,39, Good,120000,Jakarta Timur
+ Carls Jr, Burger, Quick Bites,42, Sangat Baik,180000,Jakarta Timur
+ AEON Sushi, Sushi, Quick Bites,42, Very Good,80000,Jakarta Timur
+ Omija, Cafe, Quick Bites,37, Good,150000,Jakarta Timur
+ Kopilatinum, Coffee, Quick Bites,36, Good,150000,Jakarta Timur
+ Keibar  Kedai Roti Bakar, Street Food, Quick Bites,38, Good,80000,Jakarta Timur
+ Richeese Factory, Fast Food, Quick Bites,35, Good,100000,Jakarta Timur
+ ORVIA, Coffee, Quick Bites,37, Good,150000,Jakarta Timur
+ Sate Tongseng Pak Budi, Satay, Quick Bites,39, Good,90000,Jakarta Timur
+ Warung Mak Dower, Betawi, Quick Bites,41, Very Good,80000,Jakarta Timur
+ Kepiting Nyinyir, Seafood, Quick Bites,42, Very Good,160000,Jakarta Timur
+ MASALALU, Indonesian, Quick Bites,42, Very Good,80000,Jakarta Timur
+ Marugame Udon, Japanese, Quick Bites,42, Ottimo,120000,Jakarta Timur
+ Lapo Marpadotbe, Batak, Quick Bites,45, Excellent,135000,Jakarta Timur
+ Sushimas, Sushi, Quick Bites,40, Very Good,100000,Jakarta Timur
+ Hiroya Japanese Restaurant, Japanese, Quick Bites,38, Good,170000,Jakarta Timur
+ Ayam Goreng Suharti, Jawa, Quick Bites,40, Very Good,250000,Jakarta Timur
+ Riung Tenda, Jawa, Quick Bites,41, Very Good,130000,Jakarta Timur
+ Nasi Bebek Mak Isa, Jawa, Quick Bites,38, Good,80000,Jakarta Timur
+ Bebek Kaleyo, Jawa, Quick Bites,39, Good,120000,Jakarta Timur
+ Finger  Chicks, American, Quick Bites,39, Good,100000,Jakarta Timur
+ Ropisbak Ghifari Balai Pustaka, Street Food, Quick Bites,35, Good,80000,Jakarta Timur
+ Bakmie BBT, Chinese, Quick Bites,41, Very Good,80000,Jakarta Timur
+ Sate Blora Cirebon, Satay, Quick Bites,38, Good,100000,Jakarta Timur
+ Casablanca Kebab  Nasi Goreng, Arabian, Quick Bites,39, Good,90000,Jakarta Timur
+ Yamien 88 Cijantung, Bakmi, Quick Bites,38, Good,90000,Jakarta Timur
+ Sari Idaman, Sunda, Quick Bites,38, Good,150000,Jakarta Timur
+ Wing Heng Hongkong Dim Sum Shop, Dimsum, Quick Bites,45, Excellent,150000,Jakarta Utara
+ Chir Chir, Asian, Quick Bites,44, Very Good,350000,Jakarta Utara
+ Take A Bite, Asian, Quick Bites,37, Good,120000,Jakarta Utara
+ Chir Chir, Asian, Quick Bites,43, Very Good,350000,Jakarta Utara
+ One Dim Sum, Chinese, Quick Bites,43, Very Good,150000,Jakarta Utara
+ Bakoel Desa, Indonesian, Quick Bites,40, Very Good,150000,Jakarta Utara
+ Wiro Sableng, Seafood, Quick Bites,45, Excellent,200000,Jakarta Utara
+ Aroma Sop Seafood, Seafood, Quick Bites,46, Excellent,100000,Jakarta Utara
+ Wooyoo, Ice Cream, Quick Bites,40, Very Good,150000,Jakarta Utara
+ First Crack Coffee, Cafe, Quick Bites,46, Excellent,210000,Jakarta Utara
+ IndoDiner Bar  Diner, Indonesian, Quick Bites,38, Good,200000,Jakarta Utara
+ Warung Wakaka, Street Food, Quick Bites,41, Very Good,130000,Jakarta Utara
+ Ropang Plus Plus, Indonesian, Quick Bites,43, Very Good,70000,Jakarta Utara
+ Kopium Artisan Coffee, Coffee, Quick Bites,43, Very Good,180000,Jakarta Utara
+ Hakata Ikkousha, Japanese, Quick Bites,44, Very Good,180000,Jakarta Utara
+ Ikkudo Ichi, Ramen, Quick Bites,42, Very Good,180000,Jakarta Utara
+ SHAO KAO, Satay, Quick Bites,41, Very Good,170000,Jakarta Utara
+ Pig Hunter, Chinese, Quick Bites,39, Good,150000,Jakarta Utara
+ Ncek Legenda Noodle Bar, Bakmi, Quick Bites,44, Very Good,70000,Jakarta Utara
+ Gogigogiid, Korean, Quick Bites,41, Very Good,200000,Jakarta Utara
+ Bakso Boedjangan, Bakso, Quick Bites,36, Good,100000,Jakarta Utara
+ Sushi Joobu, Japanese, Quick Bites,39, Good,250000,Jakarta Utara
+ Song Fa Bak Kut Teh, Chinese, Quick Bites,43, Very Good,300000,Jakarta Utara
+ Street Steak, Steak, Quick Bites,40, Very Good,220000,Jakarta Utara
+ BERMVDA Coffee, Coffee, Quick Bites,45, Excellent,180000,Jakarta Utara
+ Babi Guling Ko Made, Balinese, Quick Bites,42, Very Good,100000,Jakarta Utara
+ Tom Sushi, Asian, Quick Bites,42, Very Good,100000,Jakarta Utara
+ Marugame Udon, Japanese, Quick Bites,43, Very Good,120000,Jakarta Utara
+ Bakmi Bintang Gading, Bakmi, Quick Bites,41, Very Good,120000,Jakarta Utara
+ Flying Pig, Chinese, Quick Bites,40, Very Good,100000,Jakarta Utara
+ Kabuto Sushi dan Soba, Japanese, Quick Bites,42, Very Good,150000,Jakarta Utara
+ Pangsit Mie Palu, Bakmi, Quick Bites,41, Very Good,150000,Jakarta Utara
+ Pondok Pangandaran, Seafood, Quick Bites,45, Excellent,150000,Jakarta Utara
+ Shigeru, Sushi, Quick Bites,40, Very Good,100000,Jakarta Utara
+ Ignasias, Healthy Food, Quick Bites,41, Very Good,200000,Jakarta Utara
+ Kedai Roti Kobi, Cafe, Quick Bites,43, Very Good,100000,Jakarta Utara
+ Giggle Box Cafe  Resto, Indonesian, Quick Bites,38, Good,100000,Jakarta Utara
+ Bebek Ummi, Jawa, Quick Bites,41, Very Good,100000,Jakarta Utara
+ Bakmi Karet Foek, Bakmi, Quick Bites,42, Very Good,60000,Jakarta Utara
+ Little Ubud, Balinese, Quick Bites,41, Very Good,150000,Jakarta Utara
+ Kimukatsu, Japanese, Quick Bites,44, Very Good,200000,Jakarta Selatan
+ Fedwell, Healthy Food, Quick Bites,47, Excellent,250000,Jakarta Selatan
+ Daitokyo Sakaba, Japanese, Quick Bites,44, Very Good,250000,Jakarta Selatan
+ Ottomans Coffee Brewers, Cafe, Quick Bites,42, Very Good,200000,Jakarta Selatan
+ Fish Streat, Seafood, Quick Bites,42, Very Good,100000,Jakarta Selatan
+ Ramen Ya, Ramen, Quick Bites,42, Very Good,150000,Jakarta Selatan
+ SIKU, Desserts, Quick Bites,42, Very Good,150000,Jakarta Selatan
+ Kopi Nalar, Coffee, Quick Bites,44, Sangat Baik,170000,Jakarta Selatan
+ Ikkudo Ichi, Ramen, Quick Bites,44, Sangat Baik,180000,Jakarta Selatan
+ Flip Burger, Burger, Quick Bites,42, Very Good,120000,Jakarta Selatan
+ The Halal Guys, Middle Eastern, Quick Bites,40, Very Good,200000,Jakarta Selatan
+ 115 Coffee, Coffee, Quick Bites,43, Very Good,280000,Jakarta Selatan
+ Caribou Coffee, Coffee, Quick Bites,42, Very Good,100000,Jakarta Selatan
+ Marugame Udon, Japanese, Quick Bites,44, Sangat Baik,120000,Jakarta Selatan
+ Anomali Coffee, Coffee, Quick Bites,42, Very Good,200000,Jakarta Selatan
+ Mie Bangcad, Bakmi, Quick Bites,21, Poor,80000,Jakarta Selatan
+ Bebek Kaleyo, Jawa, Quick Bites,41, Very Good,120000,Jakarta Selatan
+ Fish Streat, Seafood, Quick Bites,41, Very Good,100000,Jakarta Selatan
+ Marugame Udon, Japanese, Quick Bites,45, Excellent,120000,Jakarta Selatan
+ ST ALi, Coffee, Quick Bites,39, Good,350000,Jakarta Selatan
+ SaladStop, Healthy Food, Quick Bites,45, Excellent,250000,Jakarta Selatan
+ Ayam Goreng Berkah Rahmat, Jawa, Quick Bites,42, Very Good,80000,Jakarta Selatan
+ Hakata Ikkousha, Japanese, Quick Bites,42, Very Good,200000,Jakarta Selatan
+ Sajiva Coffee Company, Coffee, Quick Bites,43, Very Good,230000,Jakarta Selatan
+ Blenger Burger, Burger, Quick Bites,42, Very Good,60000,Jakarta Selatan
+ Roti Eneng, Coffee, Quick Bites,43, Very Good,70000,Jakarta Selatan
+ Bamboo Dimsum, Chinese, Quick Bites,18, Poor,120000,Jakarta Selatan
+ Pizza Place, Pizza, Quick Bites,45, Excellent,100000,Jakarta Selatan
+ Kopimana 27, Coffee, Quick Bites,45, Excellent,130000,Jakarta Selatan
+ 7 Speed Coffee, Coffee, Quick Bites,46, Excellent,160000,Jakarta Selatan
+ Nasi Goreng Mafia, Indonesian, Quick Bites,25, Average,100000,Jakarta Selatan
+ Kanawa Coffee  Munch, Coffee, Quick Bites,39, Good,150000,Jakarta Selatan
+ Wingstop, Fast Food, Quick Bites,43, Very Good,120000,Jakarta Selatan
+ Sophie Authentique, Coffee, Quick Bites,43, Very Good,200000,Jakarta Selatan
+ Fish Wow Cheese Concept, Western, Quick Bites,39, Good,100000,Jakarta Selatan
+ Cliq Coffee, Coffee, Quick Bites,41, Very Good,160000,Jakarta Selatan
+ Ramen 38 Sanpachi, Japanese, Quick Bites,40, Very Good,150000,Jakarta Selatan
+ Bebek Malio, Jawa, Quick Bites,42, Very Good,70000,Jakarta Selatan
+ Pisang Goreng Madu Bu Nanik, Street Food, Quick Bites,45, Excellent,50000,Jakarta Barat
+ Fish Streat, Seafood, Quick Bites,40, Very Good,100000,Jakarta Barat
+ Abang Adek, Street Food, Quick Bites,24, Poor,60000,Jakarta Barat
+ Ikkudo Ichi, Ramen, Quick Bites,44, Very Good,180000,Jakarta Barat
+ Kedai Kita, Pizza, Quick Bites,39, Good,170000,Jakarta Barat
+ Kimukatsu, Japanese, Quick Bites,42, Very Good,200000,Jakarta Barat
+ Donburi Ichiya, Japanese, Quick Bites,41, Very Good,150000,Jakarta Barat
+ Ciz n Chic, Fast Food, Quick Bites,40, Very Good,55000,Jakarta Barat
+ Flip Burger, Burger, Quick Bites,41, Very Good,120000,Jakarta Barat
+ Samjin Amook, Korean, Quick Bites,44, Very Good,150000,Jakarta Barat
+ Marugame Udon, Japanese, Quick Bites,42, Very Good,120000,Jakarta Barat
+ Tenda Ngemil, Desserts, Quick Bites,36, Good,80000,Jakarta Barat
+ Tsurukamedou, Japanese, Quick Bites,43, Very Good,140000,Jakarta Barat
+ Carls Jr, Burger, Quick Bites,43, Very Good,180000,Jakarta Barat
+ Sushi Go, Sushi, Quick Bites,43, Very Good,100000,Jakarta Barat
+ Kopi Es Tak Kie, Chinese, Quick Bites,40, Very Good,80000,Jakarta Barat
+ Sop Duren 88, Street Food, Quick Bites,41, Very Good,50000,Jakarta Barat
+ TOKPOKI Korean Dining, Korean, Quick Bites,39, Good,200000,Jakarta Barat
+ Oh My Pork, Asian, Quick Bites,41, Very Good,120000,Jakarta Barat
+ Dodee Paidang, Street Food, Quick Bites,41, Very Good,170000,Jakarta Barat
+ Bubur Ayam Mangga Besar 1, Chinese, Quick Bites,44, Very Good,120000,Jakarta Barat
+ SUKIYA, Japanese, Quick Bites,39, Good,130000,Jakarta Barat
+ Bakmi Cong Sim Athek, Bakmi, Quick Bites,45, Excellent,100000,Jakarta Barat
+ Strawberry Cafe, Asian, Quick Bites,28, Average,150000,Jakarta Barat
+ Bakmi Aloi, Bakmi, Quick Bites,44, Very Good,80000,Jakarta Barat
+ Gerobak Betawi, Betawi, Quick Bites,40, Very Good,120000,Jakarta Barat
+ Fish  Cheap, Seafood, Quick Bites,37, Good,150000,Jakarta Barat
+ Coteca, Cafe, Quick Bites,40, Very Good,150000,Jakarta Barat
+ Mlinjo Cafe and Resto, Indonesian, Quick Bites,43, Very Good,150000,Jakarta Barat
+ Whats Up CafÃ, Street Food, Quick Bites,21, Poor,80000,Jakarta Barat
+ Bebek BKB, Indonesian, Quick Bites,41, Very Good,100000,Jakarta Barat
+ Loobie Lobster, Seafood, Quick Bites,40, Very Good,200000,Jakarta Barat
+ Warung Ce, Kalimantan, Quick Bites,44, Very Good,150000,Jakarta Barat
+ Es Pisang Ijo Pemuda, Desserts, Quick Bites,38, Good,125000,Jakarta Barat
+ Bubur Angke, Chinese, Quick Bites,46, Excellent,130000,Jakarta Barat
+ OTW Food Street, Street Food, Quick Bites,36, Good,100000,Jakarta Barat
+ Henis, Chinese, Quick Bites,43, Very Good,70000,Jakarta Barat
+ Warunk Upnormal, Street Food, Quick Bites,34, Average,100000,Jakarta Barat
+ Panties Pizza, Pizza, Quick Bites,40, Very Good,80000,Jakarta Barat
+ Seblak Jeletet Murni, Street Food, Quick Bites,25, Average,40000,Jakarta Barat
+ Fish Streat, Seafood, Quick Bites,41, Very Good,100000,Jakarta Selatan
+ Journey Coffee, Cafe, Quick Bites,37, Good,120000,Jakarta Selatan
+ Nasi Goreng Gila Gondrong, Indonesian, Street Vendor,20, Poor,70000,Jakarta Pusat
+ Indah Seafood 94, Seafood, Street Vendor,43, Very Good,170000,Jakarta Pusat
+ Seafood Mulyono 94, Seafood, Street Vendor,40, Very Good,130000,Jakarta Pusat
+ Sambel Setan Bu Mut, Street Food, Street Vendor,25, Average,50000,Jakarta Pusat
+ Ayam Malaya, Malaysian, Street Vendor,38, Good,60000,Jakarta Pusat
+ Nasi Uduk Kota Intan, Indonesian, Street Vendor,40, Very Good,80000,Jakarta Pusat
+ Nasi Goreng Sabang Bang Roby, Jawa, Street Vendor,36, Good,50000,Jakarta Pusat
+ Kedai Sate Babi Krekot, Satay, Street Vendor,40, Very Good,60000,Jakarta Pusat
+ Soto Mencos H Sarnadi, Soto, Street Vendor,37, Good,70000,Jakarta Pusat
+ 99 Chinese Food  Sea Food, Chinese, Street Vendor,36, Good,40000,Jakarta Pusat
+ SASAYA Japanese BBQ, Grill, Street Vendor,38, Good,150000,Jakarta Pusat
+ Restaurant Kalimantan, Chinese, Street Vendor,36, Good,160000,Jakarta Pusat
+ Sate Sabang Pak Heri, Satay, Street Vendor,27, Average,50000,Jakarta Pusat
+ Warung Sate Pak Rahmat, Satay, Street Vendor,37, Good,60000,Jakarta Pusat
+ Sinar Garut Insan Putra Pak H Ucu, Desserts, Street Vendor,37, Good,50000,Jakarta Pusat
+ Bubur Ayam H Jewo, Street Food, Street Vendor,37, Good,50000,Jakarta Pusat
+ Nasi Goreng Gila Ok, Street Food, Street Vendor,34, Biasa,30000,Jakarta Pusat
+ Seafood Berkat, Chinese, Street Vendor,35, Good,80000,Jakarta Pusat
+ Seafood Faisal 1, Seafood, Street Vendor,36, Good,150000,Jakarta Pusat
+ Chinese Food  Seafood Garden, Chinese, Street Vendor,33, Average,100000,Jakarta Pusat
+ Sate Taichan Carbo, Satay, Street Vendor,33, Average,60000,Jakarta Pusat
+ Sop Tiga Saudara, Jawa, Street Vendor,34, Average,65000,Jakarta Pusat
+ Choipan Goreng Pontianak, Kalimantan, Street Vendor,35, Good,30000,Jakarta Pusat
+ Nasi Uduk Sri Rostika, Betawi, Street Vendor,31, Average,100000,Jakarta Pusat
+ Pinokio Asli, Chinese, Street Vendor,34, Average,100000,Jakarta Pusat
+ Tongseng Sate Kambing Pak Agus, Indonesian, Street Vendor,33, Average,40000,Jakarta Pusat
+ Bakso Pak Roso Murtado, Bakso, Street Vendor,33, Average,70000,Jakarta Pusat
+ Chinese Food  Sea Food 36, Chinese, Street Vendor,30, Average,80000,Jakarta Pusat
+ Sate Taichan 24, Satay, Street Vendor,32, Average,70000,Jakarta Pusat
+ Happy 17, Indonesian, Street Vendor,29, Average,60000,Jakarta Pusat
+ Pengabdi Kopi, Beverages, Street Vendor,0, Not rated,50000,Jakarta Pusat
+ Ropita, Desserts, Street Vendor,31, Average,40000,Jakarta Pusat
+ Sate Padang Minang Saiyo, Satay, Street Vendor,30, Average,35000,Jakarta Pusat
+ Mie Bakso Wonogiri, Bakso, Street Vendor,32, Average,35000,Jakarta Pusat
+ Buah Segar  Rujak Suratno, Street Food, Street Vendor,33, Average,20000,Jakarta Pusat
+ Siomay Menteng SK, Street Food, Street Vendor,0, Not rated,25000,Jakarta Pusat
+ Ayam Gepuk Sambal Bawang Pak Gembus, Jawa, Street Vendor,0, Not rated,65000,Jakarta Pusat
+ Martabak Ningrat, Martabak, Street Vendor,0, Not rated,80000,Jakarta Pusat
+ Soto Tangkar  Sop Iga Bening One Monas, Soto, Street Vendor,0, Not rated,40000,Jakarta Pusat
+ Batagor Bandung, Street Food, Street Vendor,0, Not rated,25000,Jakarta Pusat
+ Bakmi Tasik, Bakmi, Street Vendor,33, Average,80000,Jakarta Timur
+ Sop SumSum Kambing Pak Bustaman, Indonesian, Street Vendor,37, Good,60000,Jakarta Timur
+ Mie Ayam Bang Boy, Bakmi, Street Vendor,37, Good,100000,Jakarta Timur
+ Roti Kukus dan Bakar Kuro Kuro, Desserts, Street Vendor,34, Average,60000,Jakarta Timur
+ Pempek Sepuluh Ulu ASA, Palembang, Street Vendor,34, Average,90000,Jakarta Timur
+ Sop Kaki Kambing Tiga Saudara, Indonesian, Street Vendor,33, Average,40000,Jakarta Timur
+ Bakso Rudal Asli Karang Anyar Solo, Bakso, Street Vendor,32, Average,50000,Jakarta Timur
+ Warung Tahu Campur Cak Jamal, Jawa, Street Vendor,34, Average,60000,Jakarta Timur
+ Bakso Gendut, Bakso, Street Vendor,33, Average,30000,Jakarta Timur
+ Pecel Lele H Rantam, Indonesian, Street Vendor,32, Average,40000,Jakarta Timur
+ Angkringan JASMERAH, Yogyakarta, Street Vendor,32, Average,70000,Jakarta Timur
+ Rest  88 Pulomas, Jawa, Street Vendor,0, Not rated,40000,Jakarta Timur
+ Bakso Selera, Indonesian, Street Vendor,32, Average,30000,Jakarta Timur
+ Warung Ketoprak, Indonesian, Street Vendor,31, Average,30000,Jakarta Timur
+ Risoles Meleleh, Street Food, Street Vendor,0, Not rated,50000,Jakarta Timur
+ Sate Madura Haji Amir, Satay, Street Vendor,0, Not rated,60000,Jakarta Timur
+ Kantin Doel, Indonesian, Street Vendor,0, Not rated,40000,Jakarta Timur
+ Sentra Lapis Talas, Snacks, Street Vendor,0, Not rated,40000,Jakarta Timur
+ Sambal Setan Lambe Turah, Jawa, Street Vendor,0, Not rated,50000,Jakarta Timur
+ Sinar Garut Tembong Rasa, Indonesian, Street Vendor,0, Not rated,30000,Jakarta Timur
+ Kantin Babeh, Manado, Street Vendor,0, Not rated,40000,Jakarta Timur
+ Sate Taichan Ahaii, Satay, Street Vendor,0, Not rated,80000,Jakarta Timur
+ Lani Resto, Japanese, Street Vendor,0, Not rated,30000,Jakarta Timur
+ Sedap Malam, Indonesian, Street Vendor,0, Not rated,30000,Jakarta Timur
+ Kantin Chinese Food 29, Chinese, Street Vendor,0, Not rated,40000,Jakarta Timur
+ Roti  Pisang Panggang 48, Street Food, Street Vendor,0, Not rated,30000,Jakarta Timur
+ Pariaman Jaya, Indonesian, Street Vendor,0, Not rated,40000,Jakarta Timur
+ Ayam Bakar Ciung Bu Rosidah, Indonesian, Street Vendor,0, Not rated,40000,Jakarta Timur
+ Nasi Goreng Ortega, Indonesian, Street Vendor,0, Not rated,40000,Jakarta Timur
+ Caffe Boim, Juices, Street Vendor,0, Not rated,30000,Jakarta Timur
+ Sate Ayam Batika, Satay, Street Vendor,0, Not rated,30000,Jakarta Timur
+ Kantin Ibu Ika, Beverages, Street Vendor,0, Not rated,20000,Jakarta Timur
+ Bakso Selera, Bakso, Street Vendor,0, Not rated,35000,Jakarta Timur
+ Cahaya Juice, Beverages, Street Vendor,0, Not rated,20000,Jakarta Timur
+ Nasi Goreng Losari, Indonesian, Street Vendor,0, Not rated,40000,Jakarta Timur
+ Angkringan Boy, Satay, Street Vendor,42, Very Good,50000,Jakarta Utara
+ Tanpopo Jakarta, Japanese, Street Vendor,39, Good,80000,Jakarta Utara
+ Lum Dee Thai BBQ, Thai, Street Vendor,37, Good,100000,Jakarta Utara
+ Nasi Goreng Gila Gondrong 81, Indonesian, Street Vendor,33, Average,60000,Jakarta Utara
+ Kedai Kopi  Teh Tarik Kawan Lama, Street Food, Street Vendor,32, Average,70000,Jakarta Utara
+ Seafood Tiga Dara Kelapa Gading, Seafood, Street Vendor,33, Average,120000,Jakarta Utara
+ Mie Bangka Mobil, Street Food, Street Vendor,32, Average,70000,Jakarta Utara
+ Pisang Goreng Afong, Street Food, Street Vendor,0, Not rated,60000,Jakarta Utara
+ Songsui Laoban, Chinese, Street Vendor,0, Not rated,80000,Jakarta Utara
+ Seblak Dower, Street Food, Street Vendor,0, Not rated,40000,Jakarta Utara
+ Bakso Takeshi, Bakso, Street Vendor,0, Not rated,40000,Jakarta Utara
+ Sate Deejay, Satay, Street Vendor,0, Not rated,60000,Jakarta Utara
+ Bakso Urat Zainudin, Bakso, Street Vendor,0, Not rated,40000,Jakarta Utara
+ Tanpopo Jakarta, Japanese, Street Vendor,41, Very Good,80000,Jakarta Selatan
+ Bubur Ayam Barito, Jawa, Street Vendor,44, Very Good,60000,Jakarta Selatan
+ Sate Padang Ajo Ramon, Satay, Street Vendor,43, Very Good,80000,Jakarta Selatan
+ Nasi Goreng Kebuli Apjay, Arabian, Street Vendor,42, Very Good,70000,Jakarta Selatan
+ Sate Ayam Kambing RSPP, Satay, Street Vendor,41, Very Good,80000,Jakarta Selatan
+ Dapoer Roti Bakar, Coffee, Street Vendor,36, Good,70000,Jakarta Selatan
+ Gulai Tikungan Blok M, Street Food, Street Vendor,41, Very Good,50000,Jakarta Selatan
+ Burger Bakar Qebul, Burger, Street Vendor,43, Very Good,50000,Jakarta Selatan
+ Sate Padang Ajo Ramon, Satay, Street Vendor,42, Very Good,80000,Jakarta Selatan
+ Ayam Geprek Wong Sugih, Indonesian, Street Vendor,39, Good,60000,Jakarta Selatan
+ Sate Taichan 87 Bang Ocit, Satay, Street Vendor,38, Good,60000,Jakarta Selatan
+ Sate Apjay, Satay, Street Vendor,41, Very Good,80000,Jakarta Selatan
+ Nasi Goreng Ijo Thole, Street Food, Street Vendor,39, Good,50000,Jakarta Selatan
+ Radio Dalam Diner, Street Food, Street Vendor,36, Good,160000,Jakarta Selatan
+ Bakmi Jhon, Bakmi, Street Vendor,39, Good,80000,Jakarta Selatan
+ Nasi Goreng Warung Bhakti, Jawa, Street Vendor,37, Good,60000,Jakarta Selatan
+ Sate Sambas Panglima Polim, Satay, Street Vendor,41, Very Good,70000,Jakarta Selatan
+ Sop Kaki Kambing Bang Anen, Indonesian, Street Vendor,39, Good,150000,Jakarta Selatan
+ Sop Kaki Kambing Kedai Estu Rame, Indonesian, Street Vendor,38, Good,80000,Jakarta Selatan
+ Gule Daul, Indonesian, Street Vendor,37, Good,70000,Jakarta Selatan
+ Oppai Yakitori, Satay, Street Vendor,25, Average,50000,Jakarta Selatan
+ Warung Bu Vesti Barito, Indonesian, Street Vendor,40, Very Good,70000,Jakarta Selatan
+ Nasi Goreng Kebuli Bombom, Arabian, Street Vendor,38, Good,80000,Jakarta Selatan
+ Warung Boma Nasi Pecel Pincuk, Jawa, Street Vendor,37, Good,50000,Jakarta Selatan
+ Republic Nasi Goreng, Indonesian, Street Vendor,34, Average,70000,Jakarta Selatan
+ Tahu Gejrot Bang Jack, Street Food, Street Vendor,38, Good,40000,Jakarta Selatan
+ Soto Jakarta Bang Madun, Betawi, Street Vendor,38, Good,80000,Jakarta Selatan
+ Nasi Goreng Kebuli Apjay, Arabian, Street Vendor,38, Good,70000,Jakarta Selatan
+ Soto  Sop Betawi H Asmawi, Soto, Street Vendor,33, Average,80000,Jakarta Selatan
+ Nasi Ulam  Nasi Uduk Ibu Yoyo, Betawi, Street Vendor,38, Good,70000,Jakarta Selatan
+ Bubur Ayam Senopati, Street Food, Street Vendor,37, Good,30000,Jakarta Selatan
+ Bakmi Pendi Kerinci, Bakso, Street Vendor,37, Good,40000,Jakarta Selatan
+ Sate Taichan Bang Ipan, Satay, Street Vendor,36, Good,80000,Jakarta Selatan
+ Soto  Sop Kaki Sapi H Agus, Soto, Street Vendor,38, Good,80000,Jakarta Selatan
+ Sate Taichan Bang Amir, Satay, Street Vendor,28, Average,60000,Jakarta Selatan
+ Sambal Setan Lambe Turah, Jawa, Street Vendor,35, Good,50000,Jakarta Selatan
+ Bubur Ayam Monas, Indonesian, Street Vendor,37, Good,60000,Jakarta Selatan
+ Dapoer Roti Bakar, Coffee, Street Vendor,32, Average,70000,Jakarta Selatan
+ Sate Ayam Kambing RSPP, Satay, Street Vendor,35, Good,80000,Jakarta Selatan
+ Pecel Lele Permata Mubarok, Indonesian, Street Vendor,40, Very Good,50000,Jakarta Barat
+ Bubur Ayam Alfa, Indonesian, Street Vendor,42, Very Good,60000,Jakarta Barat
+ ShanTung 77 Kuo Tie Sui Kiaw, Chinese, Street Vendor,43, Very Good,50000,Jakarta Barat
+ Makaroni Ngehe, Street Food, Street Vendor,35, Good,20000,Jakarta Barat
+ Ayam Gepuk Sambal Bawang Pak Gembus, Jawa, Street Vendor,35, Good,65000,Jakarta Barat
+ Rujak Shanghai Encim, Street Food, Street Vendor,38, Good,80000,Jakarta Barat
+ Bakmi Boy, Bakmi, Street Vendor,37, Good,60000,Jakarta Barat
+ Fantasi Ronde, Street Food, Street Vendor,35, Good,50000,Jakarta Barat
+ Sate dan Soto Haji Umar, Satay, Street Vendor,37, Good,60000,Jakarta Barat
+ Sudi Mampir Sop Kaki Kambing, Satay, Street Vendor,33, Average,40000,Jakarta Barat
+ Soto Ambengan Cak Jito, Soto, Street Vendor,37, Good,100000,Jakarta Barat
+ Oppai Yakitori, Satay, Street Vendor,31, Average,50000,Jakarta Barat
+ Nasi Uduk dan Seafood Pak Saroni, Indonesian, Street Vendor,30, Average,50000,Jakarta Barat
+ Nasi Goreng Pak Bejo, Street Food, Street Vendor,34, Average,70000,Jakarta Barat
+ Satay Terrorist, Satay, Street Vendor,0, Not rated,50000,Jakarta Barat
+ Taichan Si Ganteng, Satay, Street Vendor,27, Average,70000,Jakarta Barat
+ Mie Ayam Bakso Pendy, Bakso, Street Vendor,30, Average,60000,Jakarta Barat
+ Masakan Bangka 15, Bangka, Street Vendor,0, Not rated,40000,Jakarta Barat
+ Warung Sate Pak M Ali, Satay, Street Vendor,0, Not rated,50000,Jakarta Barat
+ Chinese Food Depot Remaja, Chinese, Street Vendor,0, Not rated,40000,Jakarta Barat
+ Bakmi Petak Sembilan Seng Peng, Bakmi, Street Vendor,0, Not rated,50000,Jakarta Barat
+ Ayam Penyet Bandung, Sunda, Street Vendor,0, Not rated,40000,Jakarta Barat
+ Bubur Pandan Sari, Street Food, Street Vendor,0, Not rated,35000,Jakarta Barat
+ Kedai Aneka Sari Pak Haji Diding, Betawi, Street Vendor,0, Not rated,40000,Jakarta Barat
+ Oinkringan, Indonesian, Street Vendor,0, Not rated,60000,Jakarta Barat
+ Ketoprak 77 Kawan Lama, Betawi, Street Vendor,0, Not rated,40000,Jakarta Barat
+ Soto Mie Bogor Kawan Lama, Soto, Street Vendor,0, Not rated,40000,Jakarta Barat
+ Soto Kaki  Sop Iga Sapi, Soto, Street Vendor,0, Not rated,100000,Jakarta Barat
+ Nasi Goreng AA Kebon Jeruk, Street Food, Street Vendor,0, Not rated,60000,Jakarta Barat
+ Siomay Ikan Spesial, Street Food, Street Vendor,0, Not rated,40000,Jakarta Barat
+ Nasi Campur Sate Babi Daniel, Chinese, Street Vendor,0, Not rated,120000,Jakarta Barat
+ Pecel Ayam  Pecel Lele, Indonesian, Street Vendor,0, Not rated,50000,Jakarta Barat
+ Bubur Moga Bubur Ayam, Indonesian, Street Vendor,0, Not rated,40000,Jakarta Barat
+ Everyday Dimsum, Chinese, Street Vendor,0, Not rated,40000,Jakarta Barat
+ Es Buah Kawan Lama, Desserts, Street Vendor,0, Not rated,30000,Jakarta Barat
+ Soto dan Sate Lamongan Pasar Puri, Soto, Street Vendor,0, Not rated,50000,Jakarta Barat
+ Es 2 Tang Nabilla, Beverages, Street Vendor,0, Not rated,20000,Jakarta Barat
+ Gado Gado Lontong, Indonesian, Street Vendor,0, Not rated,50000,Jakarta Barat
+ Bakso Malang, Bakso, Street Vendor,0, Not rated,50000,Jakarta Barat
+ GadoGado Pak Jaya, Indonesian, Street Vendor,0, Not rated,40000,Jakarta Utara
+ Nasi Goreng Muncul Malam, Street Food, Street Vendor,39, Good,50000,Jakarta Selatan
+ Sop Kaki Kambing Pak Djamhur, Indonesian, Street Vendor,0, Not rated,70000,Jakarta Barat
